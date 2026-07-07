@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-07T07:14:48.860Z",
+  "series": [
+    {
+      "id": "contract-bride",
+      "title": "Contract Bride",
+      "tagline": "She signed for money. She stayed for revenge.",
+      "genre": "Romance",
+      "cover": "contract-bride/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Signature",
+        "Strangers at the Altar",
+        "His Cold Rules",
+        "The Ex Returns",
+        "A Kiss for the Cameras",
+        "The Hidden Will",
+        "Betrayed at Midnight",
+        "Her Real Identity",
+        "The Contract Burns",
+        "Forever, Unsigned"
+      ],
+      "episodes": [
+        {
+          "id": "contract-bride-ep1",
+          "index": 1,
+          "title": "The Signature",
+          "scenes": [
+            {
+              "image": "contract-bride/ep1/scene1.jpg",
+              "caption": "The Signature",
+              "durationSec": 4
+            },
+            {
+              "image": "contract-bride/ep1/scene2.jpg",
+              "caption": "She was wrong.",
+              "durationSec": 5
+            },
+            {
+              "image": "contract-bride/ep1/scene3.jpg",
+              "caption": "One call changes it all",
+              "durationSec": 5
+            },
+            {
+              "image": "contract-bride/ep1/scene4.jpg",
+              "caption": "To be continued...",
+              "durationSec": 5
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep2",
+          "index": 2,
+          "title": "Strangers at the Altar",
+          "scenes": [
+            {
+              "image": "contract-bride/ep2/scene1.jpg",
+              "caption": "Strangers at the Altar",
+              "durationSec": 4
+            },
+            {
+              "image": "contract-bride/ep2/scene2.jpg",
+              "caption": "She was wrong.",
+              "durationSec": 5
+            },
+            {
+              "image": "contract-bride/ep2/scene3.jpg",
+              "caption": "One call changes it all",
+              "durationSec": 5
+            },
+            {
+              "image": "contract-bride/ep2/scene4.jpg",
+              "caption": "To be continued...",
+              "durationSec": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+name: Generate daily episode
+
+on:
+  schedule:
+    # Every day at 09:00 UTC — one new AI episode per day.
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+    inputs:
+      episodes:
+        description: 'Number of episodes to generate'
+        default: '1'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install generator deps
+        working-directory: generator
+        run: npm ci || npm install
+
+      - name: Generate episode(s)
+        working-directory: generator
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node src/index.ts --episodes ${{ github.event.inputs.episodes || '1' }}
+
+      - name: Commit new content
+        run: |
+          git config user.name "vibedrama-bot"
+          git config user.email "actions@github.com"
+          git add content
+          git diff --cached --quiet && echo "No new content" && exit 0
+          git commit -m "content: auto-generate episode ($(date -u +%F))"
+          git push
