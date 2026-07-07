@@ -39,7 +39,7 @@
       "eas": {
         "projectId": "91bcceac-fa83-4448-917f-0ab4b3905374"
       },
-      "contentBaseUrl": ""
+      "contentBaseUrl": "https://raw.githubusercontent.com/piquant88/VibeDrama/main/content"
     }
   }
 }
