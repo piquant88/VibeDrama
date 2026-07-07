@@ -80,6 +80,7 @@ async function generateNextEpisode(series: CatalogSeries): Promise<CatalogEpisod
       image,
       ...(audio ? { audio } : {}),
       caption: s.caption,
+      narration: s.narration,
       durationSec: estimateDurationSec(s.narration),
     });
   }

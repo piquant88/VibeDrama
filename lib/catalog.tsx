@@ -9,7 +9,13 @@ const CONTENT_BASE_URL: string | undefined = Constants.expoConfig?.extra?.conten
 
 const CACHE_KEY = 'vibedrama:catalog:v1';
 
-type RemoteScene = { image: string; audio?: string; caption: string; durationSec: number };
+type RemoteScene = {
+  image: string;
+  audio?: string;
+  caption: string;
+  narration?: string;
+  durationSec: number;
+};
 type RemoteEpisode = { id: string; index: number; title: string; scenes: RemoteScene[] };
 type RemoteSeries = {
   id: string;
@@ -46,6 +52,7 @@ function toSeries(remote: RemoteSeries): Series {
           image: resolveUrl(s.image),
           audio: s.audio ? resolveUrl(s.audio) : undefined,
           caption: s.caption,
+          narration: s.narration,
           durationSec: s.durationSec,
         })),
         durationSec: e.scenes.reduce((n, s) => n + s.durationSec, 0),

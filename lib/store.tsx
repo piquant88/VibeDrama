@@ -12,6 +12,10 @@ type AppState = {
   coins: number;
   unlockedEpisodeIds: string[];
   watchProgress: Record<string, number>; // seriesId -> last episode index watched
+  favorites: string[]; // seriesIds
+  lastCheckIn: string | null; // YYYY-MM-DD
+  checkInStreak: number;
+  autoUnlock: boolean; // spend coins automatically when hitting a locked episode
   hydrated: boolean;
 };
 
@@ -22,9 +26,18 @@ type AppContextValue = AppState & {
   unlockEpisode: (seriesId: string, episodeId: string, cost: number) => boolean;
   isEpisodeUnlocked: (seriesId: string, episodeIndex: number, episodeId: string) => boolean;
   setWatchProgress: (seriesId: string, episodeIndex: number) => void;
+  toggleFavorite: (seriesId: string) => void;
+  isFavorite: (seriesId: string) => boolean;
+  /** Claims today's check-in. Returns coins earned, or 0 if already claimed today. */
+  dailyCheckIn: () => number;
+  canCheckInToday: () => boolean;
+  setAutoUnlock: (on: boolean) => void;
 };
 
 const STORAGE_KEY = 'vibedrama:state:v1';
+
+/** Check-in rewards by streak day (1-based, capped at day 7). */
+export const CHECK_IN_REWARDS = [10, 15, 20, 25, 30, 40, 50];
 
 const AppContext = createContext<AppContextValue | null>(null);
 
@@ -33,8 +46,22 @@ const DEFAULT_STATE: AppState = {
   coins: 100,
   unlockedEpisodeIds: [],
   watchProgress: {},
+  favorites: [],
+  lastCheckIn: null,
+  checkInStreak: 0,
+  autoUnlock: false,
   hydrated: false,
 };
+
+function todayStr(): string {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function yesterdayStr(): string {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  return d.toISOString().slice(0, 10);
+}
 
 export function AppProvider({ children }: { children: React.ReactNode }) {
   const [state, setState] = useState<AppState>(DEFAULT_STATE);
@@ -114,6 +141,45 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     [state, persist]
   );
 
+  const toggleFavorite = useCallback(
+    (seriesId: string) => {
+      persist({
+        ...state,
+        favorites: state.favorites.includes(seriesId)
+          ? state.favorites.filter((id) => id !== seriesId)
+          : [...state.favorites, seriesId],
+      });
+    },
+    [state, persist]
+  );
+
+  const isFavorite = useCallback(
+    (seriesId: string) => state.favorites.includes(seriesId),
+    [state.favorites]
+  );
+
+  const canCheckInToday = useCallback(() => state.lastCheckIn !== todayStr(), [state.lastCheckIn]);
+
+  const dailyCheckIn = useCallback(() => {
+    if (state.lastCheckIn === todayStr()) return 0;
+    const streak = state.lastCheckIn === yesterdayStr() ? state.checkInStreak + 1 : 1;
+    const reward = CHECK_IN_REWARDS[Math.min(streak, CHECK_IN_REWARDS.length) - 1];
+    persist({
+      ...state,
+      coins: state.coins + reward,
+      lastCheckIn: todayStr(),
+      checkInStreak: streak,
+    });
+    return reward;
+  }, [state, persist]);
+
+  const setAutoUnlock = useCallback(
+    (on: boolean) => {
+      persist({ ...state, autoUnlock: on });
+    },
+    [state, persist]
+  );
+
   const value = useMemo<AppContextValue>(
     () => ({
       ...state,
@@ -123,8 +189,26 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       unlockEpisode,
       isEpisodeUnlocked,
       setWatchProgress,
+      toggleFavorite,
+      isFavorite,
+      dailyCheckIn,
+      canCheckInToday,
+      setAutoUnlock,
     }),
-    [state, signIn, signOut, addCoins, unlockEpisode, isEpisodeUnlocked, setWatchProgress]
+    [
+      state,
+      signIn,
+      signOut,
+      addCoins,
+      unlockEpisode,
+      isEpisodeUnlocked,
+      setWatchProgress,
+      toggleFavorite,
+      isFavorite,
+      dailyCheckIn,
+      canCheckInToday,
+      setAutoUnlock,
+    ]
   );
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;

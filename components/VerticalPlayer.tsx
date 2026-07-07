@@ -13,21 +13,30 @@ export default function VerticalPlayer({
   items,
   initialIndex = 0,
   onUnlockRequest,
+  onActiveItemChange,
 }: {
   items: Item[];
   initialIndex?: number;
   onUnlockRequest: (item: Item) => void;
+  onActiveItemChange?: (item: Item) => void;
 }) {
   const { isEpisodeUnlocked, setWatchProgress } = useApp();
   const [activeIndex, setActiveIndex] = useState(initialIndex);
   const listRef = useRef<FlatList<Item>>(null);
 
+  // Keep latest props in refs — onViewableItemsChanged must be a stable identity.
+  const latest = useRef({ items, onActiveItemChange, setWatchProgress });
+  latest.current = { items, onActiveItemChange, setWatchProgress };
+
   const onViewableItemsChanged = useRef(({ viewableItems }: { viewableItems: ViewToken[] }) => {
     if (viewableItems.length > 0) {
       const idx = viewableItems[0].index ?? 0;
       setActiveIndex(idx);
-      const item = items[idx];
-      if (item) setWatchProgress(item.series.id, item.episode.index);
+      const item = latest.current.items[idx];
+      if (item) {
+        latest.current.setWatchProgress(item.series.id, item.episode.index);
+        latest.current.onActiveItemChange?.(item);
+      }
     }
   }).current;
 

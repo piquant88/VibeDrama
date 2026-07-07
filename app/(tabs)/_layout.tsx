@@ -13,6 +13,13 @@ export default function TabsLayout() {
       }}
     >
       <Tabs.Screen
+        name="home"
+        options={{
+          title: 'Home',
+          tabBarIcon: ({ color, size }) => <Ionicons name="home" color={color} size={size} />,
+        }}
+      />
+      <Tabs.Screen
         name="index"
         options={{
           title: 'For You',
@@ -20,10 +27,17 @@ export default function TabsLayout() {
         }}
       />
       <Tabs.Screen
-        name="discover"
+        name="rewards"
         options={{
-          title: 'Discover',
-          tabBarIcon: ({ color, size }) => <Ionicons name="grid" color={color} size={size} />,
+          title: 'Rewards',
+          tabBarIcon: ({ color, size }) => <Ionicons name="gift" color={color} size={size} />,
+        }}
+      />
+      <Tabs.Screen
+        name="mylist"
+        options={{
+          title: 'My List',
+          tabBarIcon: ({ color, size }) => <Ionicons name="bookmark" color={color} size={size} />,
         }}
       />
       <Tabs.Screen

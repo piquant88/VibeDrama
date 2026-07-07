@@ -2,6 +2,7 @@ export type Scene = {
   image: string; // absolute URL
   audio?: string; // absolute URL, optional voiceover
   caption: string;
+  narration?: string; // full voiceover text, used by Read mode
   durationSec: number;
 };
 

@@ -1,5 +1,5 @@
 import { Ionicons } from '@expo/vector-icons';
-import { Modal, Pressable, StyleSheet, Text, View } from 'react-native';
+import { Modal, Pressable, StyleSheet, Switch, Text, View } from 'react-native';
 import { Episode, Series } from '../lib/data';
 import { useApp } from '../lib/store';
 import { colors } from '../lib/theme';
@@ -17,7 +17,7 @@ export default function UnlockSheet({
   onClose: () => void;
   onUnlocked: () => void;
 }) {
-  const { coins, unlockEpisode } = useApp();
+  const { coins, unlockEpisode, autoUnlock, setAutoUnlock } = useApp();
   if (!series || !episode) return null;
 
   const canAfford = coins >= series.coinsPerEpisode;
@@ -37,6 +37,18 @@ export default function UnlockSheet({
               <Ionicons name="diamond" size={16} color={colors.accent} />
               <Text style={styles.balanceValue}>{coins}</Text>
             </View>
+          </View>
+
+          <View style={styles.autoRow}>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.autoTitle}>Auto-unlock next episodes</Text>
+              <Text style={styles.autoSub}>Spend coins automatically while you binge</Text>
+            </View>
+            <Switch
+              value={autoUnlock}
+              onValueChange={setAutoUnlock}
+              trackColor={{ true: colors.primary, false: colors.border }}
+            />
           </View>
 
           <Pressable
@@ -97,6 +109,18 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   balanceLabel: { color: colors.textMuted, fontSize: 14 },
+  autoRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    width: '100%',
+    backgroundColor: colors.card,
+    padding: 14,
+    borderRadius: 12,
+    marginBottom: 8,
+    gap: 10,
+  },
+  autoTitle: { color: colors.text, fontSize: 14, fontWeight: '600' },
+  autoSub: { color: colors.textMuted, fontSize: 12, marginTop: 2 },
   coinRow: { flexDirection: 'row', alignItems: 'center', gap: 6 },
   balanceValue: { color: colors.text, fontWeight: '700', fontSize: 16 },
   confirmBtn: {

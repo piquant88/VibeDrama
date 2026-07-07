@@ -2,6 +2,7 @@ export type Scene = {
   image: string; // path relative to content/ root
   audio?: string; // path relative to content/ root
   caption: string; // on-screen subtitle
+  narration: string; // full voiceover text, powers the app's Read mode
   durationSec: number;
 };
 
