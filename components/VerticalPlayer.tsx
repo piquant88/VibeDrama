@@ -55,7 +55,16 @@ export default function VerticalPlayer({
         getItemLayout={(_, index) => ({ length: height, offset: height * index, index })}
         viewabilityConfig={{ itemVisiblePercentThreshold: 80 }}
         onViewableItemsChanged={onViewableItemsChanged}
+        extraData={activeIndex}
+        windowSize={3}
+        maxToRenderPerBatch={3}
+        initialNumToRender={2}
         renderItem={({ item, index }) => {
+          // Only mount real players near the active page — mounting a native
+          // video player per feed item makes iOS refuse to play any of them.
+          if (Math.abs(index - activeIndex) > 1) {
+            return <View style={{ height, backgroundColor: '#000' }} />;
+          }
           const locked = !isEpisodeUnlocked(item.series.id, item.episode.index, item.episode.id);
           const cardProps = {
             series: item.series,
