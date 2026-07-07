@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T07:14:48.860Z",
+  "updatedAt": "2026-07-07T16:43:19.619Z",
   "series": [
     {
       "id": "contract-bride",
@@ -74,6 +74,53 @@
               "image": "contract-bride/ep2/scene4.jpg",
               "caption": "To be continued...",
               "durationSec": 5
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep3",
+          "index": 3,
+          "title": "His Cold Rules",
+          "scenes": [
+            {
+              "image": "contract-bride/ep3/scene1.jpg",
+              "caption": "Welcome to your new prison.",
+              "durationSec": 11
+            },
+            {
+              "image": "contract-bride/ep3/scene2.jpg",
+              "caption": "Rule one: never touch me.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep3/scene3.jpg",
+              "caption": "He thinks he owns me.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep3/scene4.jpg",
+              "caption": "She wasn't supposed to fight back.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep3/scene5.jpg",
+              "caption": "Every rule protects a secret.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep3/scene6.jpg",
+              "caption": "He knew her. He lied.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep3/scene7.jpg",
+              "caption": "She didn't marry for money.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep3/scene8.jpg",
+              "caption": "Now he knows she knows.",
+              "durationSec": 7
             }
           ]
         }
