@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T16:43:19.619Z",
+  "updatedAt": "2026-07-08T11:07:26.128Z",
   "series": [
     {
       "id": "contract-bride",
@@ -121,6 +121,61 @@
               "image": "contract-bride/ep3/scene8.jpg",
               "caption": "Now he knows she knows.",
               "durationSec": 7
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep4",
+          "index": 4,
+          "title": "The Ex Returns",
+          "scenes": [
+            {
+              "image": "contract-bride/ep4/scene1.jpg",
+              "caption": "She's back. And she's not asking permission.",
+              "narration": "The mansion doors swing open, and she walks in like she owns everything—including my husband's past.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep4/scene2.jpg",
+              "caption": "He turns pale. Who is she to him?",
+              "narration": "Elena, my ice-cold billionaire husband, freezes at the sight of her. In two years, I've never seen him afraid.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep4/scene3.jpg",
+              "caption": "I'm the wife. So why do I feel like the intruder?",
+              "narration": "I stand in my simple silk gown, invisible, as the woman glides toward him. 'Adrian, darling, did you miss me?'",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep4/scene4.jpg",
+              "caption": "The woman who broke him first.",
+              "narration": "'Vivian,' Adrian whispers, his voice cracking. The name he swore he'd buried. His first love. The one who left him at the altar.",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep4/scene5.jpg",
+              "caption": "She knows about the contract.",
+              "narration": "Vivian's eyes slice toward me. 'So this is the little charity case you married for the company?' She laughs. 'How much did he pay you, sweetheart?'",
+              "durationSec": 11
+            },
+            {
+              "image": "contract-bride/ep4/scene6.jpg",
+              "caption": "Someone betrayed me.",
+              "narration": "My blood runs cold. Only three people knew the truth of our marriage. How does she know?",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep4/scene7.jpg",
+              "caption": "She came armed with paper.",
+              "narration": "Adrian steps between us, jaw tight. 'Vivian, you have no right to be here.' But she smiles, pulling a folded document from her purse.",
+              "durationSec": 11
+            },
+            {
+              "image": "contract-bride/ep4/scene8.jpg",
+              "caption": "Still married... to her?!",
+              "narration": "She unfolds it slowly. 'Actually, darling—I have every right. Because legally, I'm still your wife.' The room spins as Adrian's face shatters.",
+              "durationSec": 10
             }
           ]
         }
