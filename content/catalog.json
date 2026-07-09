@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T11:07:26.128Z",
+  "updatedAt": "2026-07-09T12:06:14.740Z",
   "series": [
     {
       "id": "contract-bride",
@@ -176,6 +176,61 @@
               "caption": "Still married... to her?!",
               "narration": "She unfolds it slowly. 'Actually, darling—I have every right. Because legally, I'm still your wife.' The room spins as Adrian's face shatters.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep5",
+          "index": 5,
+          "title": "A Kiss for the Cameras",
+          "scenes": [
+            {
+              "image": "contract-bride/ep5/scene1.jpg",
+              "caption": "The world is watching us tonight.",
+              "narration": "The paparazzi swarm the charity gala, and the contract demands one thing: proof of love.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep5/scene2.jpg",
+              "caption": "Smile. Convince them we're in love.",
+              "narration": "Damian pulls her close, his whisper as sharp as ice. Smile, wife. Convince them.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep5/scene3.jpg",
+              "caption": "Just a kiss for the cameras.",
+              "narration": "His lips meet hers for the cameras — but her heart betrays the lie, racing against her will.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep5/scene4.jpg",
+              "caption": "His ex-lover won't let go.",
+              "narration": "Across the room, Vivienne watches, her painted smile twisting into a blade of jealousy.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep5/scene5.jpg",
+              "caption": "That wasn't part of the deal.",
+              "narration": "When they part, Elena sees it in his eyes — something real flickering beneath the ice.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep5/scene6.jpg",
+              "caption": "I can't forget why I'm here.",
+              "narration": "But revenge is a promise she made in blood, and love was never on her list.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep5/scene7.jpg",
+              "caption": "I know what you really are.",
+              "narration": "Vivienne approaches with a poisoned toast and a secret that could shatter everything.",
+              "durationSec": 6
+            },
+            {
+              "image": "contract-bride/ep5/scene8.jpg",
+              "caption": "He's planning to destroy you.",
+              "narration": "Then Vivienne leans in and whispers the truth — Damian signed a second contract, one that ends with Elena gone.",
+              "durationSec": 9
             }
           ]
         }
