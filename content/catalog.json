@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T12:06:14.740Z",
+  "updatedAt": "2026-07-10T11:54:14.277Z",
   "series": [
     {
       "id": "contract-bride",
@@ -231,6 +231,61 @@
               "caption": "He's planning to destroy you.",
               "narration": "Then Vivienne leans in and whispers the truth — Damian signed a second contract, one that ends with Elena gone.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep6",
+          "index": 6,
+          "title": "The Hidden Will",
+          "scenes": [
+            {
+              "image": "contract-bride/ep6/scene1.jpg",
+              "caption": "A secret hidden for years...",
+              "narration": "The old mansion smells of dust and secrets. Elena clutches a yellowed envelope she found hidden behind the library shelf.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep6/scene2.jpg",
+              "caption": "The hidden will changes everything.",
+              "narration": "Inside is a will — signed by his late father, dated one day before his mysterious death. Her hands tremble.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep6/scene3.jpg",
+              "caption": "An heir the family buried.",
+              "narration": "The words burn into her: everything belongs not to Adrian — but to a child no one has ever spoken of.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep6/scene4.jpg",
+              "caption": "He wasn't supposed to see this.",
+              "narration": "Footsteps echo. Adrian enters, his cold gray eyes locking onto the paper in her grasp.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep6/scene5.jpg",
+              "caption": "'You don't know what you've done.'",
+              "narration": "'Where did you find that?' His voice is ice, but his hands shake with something like fear.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep6/scene6.jpg",
+              "caption": "She came for money. She stays for war.",
+              "narration": "Elena pulls away, heart pounding. This is the weapon she needs — the revenge she signed up for.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep6/scene7.jpg",
+              "caption": "The one person nobody expected.",
+              "narration": "Then a voice from the doorway freezes them both. 'That will is fake — and I can prove it.'",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep6/scene8.jpg",
+              "caption": "Her secret is about to shatter everything...",
+              "narration": "Elena's blood runs cold — the woman is Adrian's presumed-dead mother. And she knows Elena's real name.",
+              "durationSec": 8
             }
           ]
         }
