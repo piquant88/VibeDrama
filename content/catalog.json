@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T11:54:14.277Z",
+  "updatedAt": "2026-07-11T10:17:25.371Z",
   "series": [
     {
       "id": "contract-bride",
@@ -285,6 +285,61 @@
               "image": "contract-bride/ep6/scene8.jpg",
               "caption": "Her secret is about to shatter everything...",
               "narration": "Elena's blood runs cold — the woman is Adrian's presumed-dead mother. And she knows Elena's real name.",
+              "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep7",
+          "index": 7,
+          "title": "Betrayed at Midnight",
+          "scenes": [
+            {
+              "image": "contract-bride/ep7/scene1.jpg",
+              "caption": "Midnight. The truth finally in her hands.",
+              "narration": "The clock strikes twelve, and Ella clutches the hidden will against her chest, certain tonight everything changes.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep7/scene2.jpg",
+              "caption": "He knew she was coming.",
+              "narration": "Adrian appears from the shadows, his steel-grey eyes colder than she has ever seen them.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep7/scene3.jpg",
+              "caption": "\"Give it to me, Ella.\"",
+              "narration": "\"That will was never yours to find,\" he whispers, extending his hand for it.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep7/scene4.jpg",
+              "caption": "The ex was pulling every string.",
+              "narration": "Then Vivian glides in, a cruel smile curving her lips, revealing she orchestrated it all.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep7/scene5.jpg",
+              "caption": "Every kiss was a lie.",
+              "narration": "\"He married you to bait me,\" Vivian laughs, and Ella's world shatters in an instant.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep7/scene6.jpg",
+              "caption": "\"You used my heart as a weapon.\"",
+              "narration": "Adrian reaches for Ella, but she slaps his hand away, the will trembling in her grasp.",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep7/scene7.jpg",
+              "caption": "Someone wants him dead — tonight.",
+              "narration": "Suddenly gunshots crack through the chandelier, glass rains down, and a masked intruder aims straight at Adrian.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep7/scene8.jpg",
+              "caption": "To be continued...",
+              "narration": "As the trigger clicks, Ella lunges between them — and the screen cuts to black on her scream.",
               "durationSec": 8
             }
           ]
