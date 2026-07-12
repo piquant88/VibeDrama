@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T10:17:25.371Z",
+  "updatedAt": "2026-07-12T10:36:27.205Z",
   "series": [
     {
       "id": "contract-bride",
@@ -341,6 +341,61 @@
               "caption": "To be continued...",
               "narration": "As the trigger clicks, Ella lunges between them — and the screen cuts to black on her scream.",
               "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep8",
+          "index": 8,
+          "title": "Her Real Identity",
+          "scenes": [
+            {
+              "image": "contract-bride/ep8/scene1.jpg",
+              "caption": "The mask comes off tonight.",
+              "narration": "Lena stands in the shattered study, betrayal still burning in her chest. But tonight, she is no longer the frightened bride he purchased.",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep8/scene2.jpg",
+              "caption": "\"Who are you, really?\"",
+              "narration": "Adrian storms in, disbelief written across his face. The wife he underestimated holds a folder that could destroy his entire empire.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep8/scene3.jpg",
+              "caption": "\"I didn't marry you for money.\"",
+              "narration": "She drops the file on the desk. Inside lies proof that his family stole everything from hers years ago.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep8/scene4.jpg",
+              "caption": "The daughter he destroyed came back.",
+              "narration": "Adrian's hands tremble as he reads. The orphan girl his father ruined has returned as his own wife.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep8/scene5.jpg",
+              "caption": "\"Revenge wore a wedding dress.\"",
+              "narration": "\"Every rule you gave me, I obeyed. While I mapped every secret you tried to bury.\" Her voice never wavers.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep8/scene6.jpg",
+              "caption": "He never expected to fall.",
+              "narration": "He reaches for her, torn between fury and a love he never meant to feel. \"Then why does my heart still choose you?\"",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep8/scene7.jpg",
+              "caption": "\"Neither of you leaves alive.\"",
+              "narration": "Suddenly the study doors slam open. His ex-fiancée Vivian stands there, a gun glinting in her manicured hand.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep8/scene8.jpg",
+              "caption": "To be continued...",
+              "narration": "Vivian's eyes gleam with madness. \"You both think this was your game? The real will names me.\" The trigger clicks.",
+              "durationSec": 9
             }
           ]
         }
