@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T10:36:27.205Z",
+  "updatedAt": "2026-07-13T12:08:39.320Z",
   "series": [
     {
       "id": "contract-bride",
@@ -395,6 +395,61 @@
               "image": "contract-bride/ep8/scene8.jpg",
               "caption": "To be continued...",
               "narration": "Vivian's eyes gleam with madness. \"You both think this was your game? The real will names me.\" The trigger clicks.",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep9",
+          "index": 9,
+          "title": "The Contract Burns",
+          "scenes": [
+            {
+              "image": "contract-bride/ep9/scene1.jpg",
+              "caption": "The contract that bound them is about to burn.",
+              "narration": "Elena stands before the fireplace, the marriage contract trembling in her hands. Tonight, she finally understands the price of every lie Adrian told her.",
+              "durationSec": 11
+            },
+            {
+              "image": "contract-bride/ep9/scene2.jpg",
+              "caption": "He never expected her to fight back.",
+              "narration": "Adrian bursts through the doors, his cold gray eyes wide with panic. For the first time, the untouchable billionaire looks truly afraid.",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep9/scene3.jpg",
+              "caption": "Every secret she hid was a weapon.",
+              "narration": "\"You bought my name, my silence, my body,\" Elena whispers. \"But you never bought my loyalty.\"",
+              "durationSec": 7
+            },
+            {
+              "image": "contract-bride/ep9/scene4.jpg",
+              "caption": "The chains are finally breaking.",
+              "narration": "She lets the pages slip into the flames. The contract that trapped her curls into ash and smoke.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep9/scene5.jpg",
+              "caption": "The truth she never knew.",
+              "narration": "\"Do you know what you've just done?\" Adrian grabs her wrist. \"That contract was the only thing keeping you alive.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep9/scene6.jpg",
+              "caption": "Who was really pulling the strings?",
+              "narration": "Elena's heart stops. The revenge she planned suddenly feels like a trap someone else set for her.",
+              "durationSec": 8
+            },
+            {
+              "image": "contract-bride/ep9/scene7.jpg",
+              "caption": "A ghost from the past returns.",
+              "narration": "A phone buzzes on the marble table. The screen glows with a message from the one person they both believed was dead.",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep9/scene8.jpg",
+              "caption": "The debt is far from over.",
+              "narration": "As the flames die, headlights cut through the windows. Someone has come to collect what the burning contract left unpaid.",
               "durationSec": 9
             }
           ]
