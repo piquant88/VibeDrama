@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T12:08:39.320Z",
+  "updatedAt": "2026-07-14T10:49:09.928Z",
   "series": [
     {
       "id": "contract-bride",
@@ -451,6 +451,61 @@
               "caption": "The debt is far from over.",
               "narration": "As the flames die, headlights cut through the windows. Someone has come to collect what the burning contract left unpaid.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "contract-bride-ep10",
+          "index": 10,
+          "title": "Forever, Unsigned",
+          "scenes": [
+            {
+              "image": "contract-bride/ep10/scene1.jpg",
+              "caption": "The contract is gone. The war begins.",
+              "narration": "The ashes of their contract still smolder on the marble floor. Elena thought burning it would set her free—but freedom always costs blood.",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep10/scene2.jpg",
+              "caption": "\"Who are you really, Elena?\"",
+              "narration": "Adrian storms in, his jaw tight, betrayal written across his face. He learned her true name only yesterday—now he demands the truth.",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep10/scene3.jpg",
+              "caption": "Revenge wore a wedding dress.",
+              "narration": "\"I married you to destroy your family,\" she whispers, tears glistening. \"Your father killed mine. This was never about the money.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep10/scene4.jpg",
+              "caption": "\"Your father's death wasn't what you think.\"",
+              "narration": "Adrian reels—but from his coat he pulls a folded document. The hidden will. Proof that everything she believed was a lie built by others.",
+              "durationSec": 11
+            },
+            {
+              "image": "contract-bride/ep10/scene5.jpg",
+              "caption": "The ex returns—armed.",
+              "narration": "Then the door bursts open. Vivienne, his ex, glides in with a cruel smile and a gun trembling in her manicured hand.",
+              "durationSec": 10
+            },
+            {
+              "image": "contract-bride/ep10/scene6.jpg",
+              "caption": "\"Shoot me instead.\"",
+              "narration": "\"You both ruined me,\" Vivienne hisses. \"So neither of you leaves this room alive.\" Adrian steps in front of Elena.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep10/scene7.jpg",
+              "caption": "He took the bullet for her.",
+              "narration": "A gunshot cracks like thunder. Elena screams as Adrian collapses into her arms, crimson blooming across his white shirt.",
+              "durationSec": 9
+            },
+            {
+              "image": "contract-bride/ep10/scene8.jpg",
+              "caption": "\"He's not the one you should fear.\"",
+              "narration": "As Adrian's eyes flutter shut, he presses a ring into her palm and whispers a name she never expected. Then—another figure steps from the shadows.",
+              "durationSec": 11
             }
           ]
         }
