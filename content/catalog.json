@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T10:49:09.928Z",
+  "updatedAt": "2026-07-15T10:52:41.256Z",
   "series": [
     {
       "id": "contract-bride",
@@ -505,6 +505,84 @@
               "image": "contract-bride/ep10/scene8.jpg",
               "caption": "\"He's not the one you should fear.\"",
               "narration": "As Adrian's eyes flutter shut, he presses a ring into her palm and whispers a name she never expected. Then—another figure steps from the shadows.",
+              "durationSec": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-maid-who-owned-the-empire",
+      "title": "The Maid Who Owned the Empire",
+      "tagline": "They hired her to clean their mansion, never knowing she secretly held the deed to everything.",
+      "genre": "Revenge",
+      "cover": "the-maid-who-owned-the-empire/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Billionaire's New Housemaid",
+        "Scrubbing Floors for My Enemies",
+        "The Photograph They Should Have Burned",
+        "A Toast to the Woman They Wronged",
+        "Midnight in the Locked Study",
+        "The Signature That Buys a Dynasty",
+        "She Called Me Family—Then Sold Me Out",
+        "The Boardroom Knows My Real Name",
+        "Everything You Own Was Always Mine",
+        "The Maid Takes Her Throne"
+      ],
+      "episodes": [
+        {
+          "id": "the-maid-who-owned-the-empire-ep1",
+          "index": 1,
+          "title": "The Billionaire's New Housemaid",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene1.jpg",
+              "caption": "They hired a maid. They hired their reckoning.",
+              "narration": "Elena Vasquez walks through gilded gates she once called home, wearing a maid's uniform. They fired her father, buried her family name—but they never learned her face.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene2.jpg",
+              "caption": "To him, she was invisible.",
+              "narration": "Inside, billionaire Marcus Thornbury barely glances at her. To him, she is furniture. He has no idea he is standing on land she legally owns.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene3.jpg",
+              "caption": "Every insult, she remembers.",
+              "narration": "His cruel daughter Victoria hurls a wine glass at Elena's feet. 'Clean it, servant.' Elena kneels, smiling secretly—patience is a weapon.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene4.jpg",
+              "caption": "The deed. Everything is hers.",
+              "narration": "That night, Elena unlocks a hidden briefcase in her tiny quarters. Inside: the property deed to the entire Thornbury empire, signed decades ago to her late father.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene5.jpg",
+              "caption": "He destroyed her father. She never forgot.",
+              "narration": "A framed photo slips from the deed—her father shaking hands with a younger Marcus. The betrayal that stole her family whispers back to life.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene6.jpg",
+              "caption": "She's been discovered.",
+              "narration": "But someone is watching. Marcus's loyal butler, Gregory, has seen the deed. He knows exactly who she is.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene7.jpg",
+              "caption": "He knows. Or does he?",
+              "narration": "At breakfast, Marcus taps his newspaper. 'I hear the true owner of my estate is closer than I think.' Elena's coffee pot freezes mid-pour.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep1/scene8.jpg",
+              "caption": "One envelope could end everything.",
+              "narration": "Gregory steps forward, envelope in hand. 'Sir, there's something you must see about this woman.' Elena's heart stops. Her secret hangs by a single breath.",
               "durationSec": 11
             }
           ]
