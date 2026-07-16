@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T10:52:41.256Z",
+  "updatedAt": "2026-07-16T11:02:30.155Z",
   "series": [
     {
       "id": "contract-bride",
@@ -584,6 +584,61 @@
               "caption": "One envelope could end everything.",
               "narration": "Gregory steps forward, envelope in hand. 'Sir, there's something you must see about this woman.' Elena's heart stops. Her secret hangs by a single breath.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep2",
+          "index": 2,
+          "title": "Scrubbing Floors for My Enemies",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene1.jpg",
+              "caption": "Day one. Scrubbing my enemies' floors.",
+              "narration": "Dawn breaks over the Ashford mansion as Elena kneels on the marble floor, scrubbing bucket at her side. They think she is nothing. They have no idea she owns the very ground beneath them.",
+              "durationSec": 15
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene2.jpg",
+              "caption": "Pick that up, girl.",
+              "narration": "Victoria Ashford descends the grand staircase, dripping in diamonds, her cruel smile cutting the air. She tosses her fur coat at Elena's feet without a glance.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene3.jpg",
+              "caption": "They don't know what I'm hiding.",
+              "narration": "Elena retrieves the coat with trembling hands, biting back her fury. Inside her apron pocket, folded and secret, lies the deed to this entire empire.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene4.jpg",
+              "caption": "Clean it. Now.",
+              "narration": "In the dining hall, the arrogant heir Julian Ashford flicks a wine glass to the floor, shattering it. 'Clean it,' he sneers, stepping over the shards.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene5.jpg",
+              "caption": "You took everything from my family.",
+              "narration": "On her knees among broken glass, Elena's memory flashes to her father, ruined and destroyed by these very people. Her jaw tightens with silent vengeance.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene6.jpg",
+              "caption": "All of this is legally mine.",
+              "narration": "Later, alone in the study, Elena slips the deed from her apron and studies the Ashford signatures. Every room, every jewel, every breath they take belongs to her.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene7.jpg",
+              "caption": "What is that in your hands?",
+              "narration": "Suddenly the study door swings open. Victoria stands frozen in the doorway, her eyes locked on the document in Elena's hands.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep2/scene8.jpg",
+              "caption": "Give me that paper... or else.",
+              "narration": "Victoria's voice drops to ice. 'Give me that paper — or I'll destroy you the way I destroyed everyone else.' Elena's grip tightens. The war has only just begun.",
+              "durationSec": 13
             }
           ]
         }
