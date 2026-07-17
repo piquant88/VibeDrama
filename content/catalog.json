@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T11:02:30.155Z",
+  "updatedAt": "2026-07-17T10:49:20.752Z",
   "series": [
     {
       "id": "contract-bride",
@@ -639,6 +639,61 @@
               "caption": "Give me that paper... or else.",
               "narration": "Victoria's voice drops to ice. 'Give me that paper — or I'll destroy you the way I destroyed everyone else.' Elena's grip tightens. The war has only just begun.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep3",
+          "index": 3,
+          "title": "The Photograph They Should Have Burned",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene1.jpg",
+              "caption": "Some secrets should have been burned.",
+              "narration": "They think I am nothing. A servant polishing silver for the family that destroyed mine. But tonight, dusting the forgotten study, my fingers freeze on a drawer they should have locked.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene2.jpg",
+              "caption": "My mother... and their patriarch.",
+              "narration": "An old photograph, edges yellowed by twenty years. My mother, young and smiling, standing beside a man in an expensive suit. The man who signed away everything she owned.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene3.jpg",
+              "caption": "He built his empire on her ruin.",
+              "narration": "Footsteps. Richard Whitmore fills the doorway, silver-haired and cold, the man who buried my family in lies. He does not yet know the maid holds his deepest sin.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene4.jpg",
+              "caption": "Play the servant. For now.",
+              "narration": "\"What are you doing in here?\" he snaps. I lower my eyes like the obedient servant they believe I am. But inside, a fire twenty years old roars back to life.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene5.jpg",
+              "caption": "He fears the truth more than death.",
+              "narration": "He tears the room apart searching for the photo, never guessing it now sits against my heart. \"If anyone finds that picture,\" he mutters, \"I am finished.\"",
+              "durationSec": 12
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene6.jpg",
+              "caption": "She left me a message.",
+              "narration": "That night, in my tiny servant's room, I turn the photograph over. On the back, in my mother's handwriting, three words that change everything.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene7.jpg",
+              "caption": "My enemy... is my father.",
+              "narration": "\"He is your father.\" The words blur through my tears. The tyrant I swore to destroy — is the man whose blood runs in my veins.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep3/scene8.jpg",
+              "caption": "She knew all along.",
+              "narration": "Suddenly my door creaks open. Margaret Whitmore stands there, smiling like a viper. \"So,\" she whispers, \"the little maid finally knows the truth.\"",
+              "durationSec": 10
             }
           ]
         }
