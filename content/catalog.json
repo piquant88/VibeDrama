@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T10:49:20.752Z",
+  "updatedAt": "2026-07-18T10:20:33.452Z",
   "series": [
     {
       "id": "contract-bride",
@@ -694,6 +694,61 @@
               "caption": "She knew all along.",
               "narration": "Suddenly my door creaks open. Margaret Whitmore stands there, smiling like a viper. \"So,\" she whispers, \"the little maid finally knows the truth.\"",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep4",
+          "index": 4,
+          "title": "A Toast to the Woman They Wronged",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene1.jpg",
+              "caption": "They toasted their empire. They never knew it was mine.",
+              "narration": "The Ashfords raise their glasses to celebrate the empire they believe is theirs. They toast their triumph, never dreaming the woman refilling their crystal owns every brick beneath their feet.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene2.jpg",
+              "caption": "'To the family that built it all.'",
+              "narration": "\"To the family that built it all,\" Camilla declares, her voice dripping with false grace. Elena lowers her eyes, a private smile hidden behind years of silence.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene3.jpg",
+              "caption": "He snapped his fingers. He'd regret it soon.",
+              "narration": "Julian snaps his fingers, ordering more wine, treating her like furniture. He has no idea the deed she carries could erase his name by morning.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene4.jpg",
+              "caption": "The ring they thought was lost forever.",
+              "narration": "As Elena pours, her sleeve slips, revealing a signet ring the Ashfords once thought lost forever. Camilla's glass freezes at her lips.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene5.jpg",
+              "caption": "'Where did you get that ring?'",
+              "narration": "\"Where did you get that ring?\" Camilla hisses, the room falling silent. Elena straightens her spine, no longer the servant they bought.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene6.jpg",
+              "caption": "'A toast to the woman you wronged.'",
+              "narration": "Elena sets down the bottle and lifts an empty glass of her own. \"Allow me,\" she says, \"to make a toast to the woman you wronged.\"",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene7.jpg",
+              "caption": "'All of it is mine.'",
+              "narration": "From her apron she draws a folded document stamped in gold. \"This mansion, this empire, this name — all of it is mine.\" Victor's glass shatters on the marble.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep4/scene8.jpg",
+              "caption": "The man they buried just walked in.",
+              "narration": "But as the family reels, the great doors swing open — and a man they buried years ago walks in, calling Elena's name. She turns, and the color drains from her face.",
+              "durationSec": 14
             }
           ]
         }
