@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T10:20:33.452Z",
+  "updatedAt": "2026-07-19T10:37:04.092Z",
   "series": [
     {
       "id": "contract-bride",
@@ -749,6 +749,61 @@
               "caption": "The man they buried just walked in.",
               "narration": "But as the family reels, the great doors swing open — and a man they buried years ago walks in, calling Elena's name. She turns, and the color drains from her face.",
               "durationSec": 14
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep5",
+          "index": 5,
+          "title": "Midnight in the Locked Study",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene1.jpg",
+              "caption": "Midnight. The study they forbade her to enter.",
+              "narration": "The mansion sleeps, but Elena does not. Tonight, the locked study finally surrenders its secrets to the woman they call a servant.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene2.jpg",
+              "caption": "One turn of the key changes everything.",
+              "narration": "The key turns. The door groans open. Every answer she has bled for waits inside this room.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene3.jpg",
+              "caption": "The proof was here all along.",
+              "narration": "On the desk, a leather folder bearing the Ashford crest — the same family that stole her father's empire.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene4.jpg",
+              "caption": "They forged his signature. They took it all.",
+              "narration": "Contracts. Forged signatures. The murder of her family's fortune written in ink. Her hands tremble with fury.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene5.jpg",
+              "caption": "The maid holds the deed to their empire.",
+              "narration": "She slips the deed to the entire estate from her hidden pocket. She truly owns them all. They just don't know yet.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene6.jpg",
+              "caption": "Footsteps. She is not alone.",
+              "narration": "Suddenly — footsteps in the corridor. The lamp behind her flickers. Someone knows she is here.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene7.jpg",
+              "caption": "\"Cleaning at midnight, my dear?\"",
+              "narration": "The door swings wide. Victor Ashford, master of the house, stands in his silk robe — a cruel smile curling his lips.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep5/scene8.jpg",
+              "caption": "He sees the deed. The mask shatters.",
+              "narration": "His eyes drop to the deed in her hand. His smile dies. \"Where,\" he whispers, \"did you get that?\" The war has begun.",
+              "durationSec": 10
             }
           ]
         }
