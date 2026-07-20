@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T10:37:04.092Z",
+  "updatedAt": "2026-07-20T11:47:29.099Z",
   "series": [
     {
       "id": "contract-bride",
@@ -803,6 +803,55 @@
               "image": "the-maid-who-owned-the-empire/ep5/scene8.jpg",
               "caption": "He sees the deed. The mask shatters.",
               "narration": "His eyes drop to the deed in her hand. His smile dies. \"Where,\" he whispers, \"did you get that?\" The war has begun.",
+              "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep6",
+          "index": 6,
+          "title": "The Signature That Buys a Dynasty",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep6/scene1.jpg",
+              "caption": "One signature. One dynasty. One reckoning.",
+              "narration": "Dawn breaks over the Hartwell estate, but Elena has not slept. In her trembling hands rests the document that will end them all.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep6/scene2.jpg",
+              "caption": "The old lion thinks he's already won.",
+              "narration": "Victor Hartwell summons the family to sign away the last shares of the empire, certain of his triumph.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep6/scene3.jpg",
+              "caption": "He never noticed the servant who owns him.",
+              "narration": "Marcus watches the maid enter, unaware the woman he mocked now holds his family's fate.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep6/scene4.jpg",
+              "caption": "This estate was never yours to sell.",
+              "narration": "Elena steps forward and lays the deed on the table, its faded signature glowing under the chandeliers.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep6/scene5.jpg",
+              "caption": "The signature he prayed no one would find.",
+              "narration": "Victor's face drains of color as he recognizes his own father's handwriting, the truth he buried decades ago.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep6/scene6.jpg",
+              "caption": "The maid was always the master.",
+              "narration": "'Every floor I scrubbed,' Elena whispers, 'I was already standing in my own house.' The family recoils.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep6/scene7.jpg",
+              "caption": "He has a signature of his own.",
+              "narration": "But as Victor reaches into his jacket, a second document appears — one Elena has never seen. His smile returns, colder than before.",
               "durationSec": 10
             }
           ]
