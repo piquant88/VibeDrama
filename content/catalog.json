@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T11:47:29.099Z",
+  "updatedAt": "2026-07-21T11:10:50.235Z",
   "series": [
     {
       "id": "contract-bride",
@@ -853,6 +853,61 @@
               "caption": "He has a signature of his own.",
               "narration": "But as Victor reaches into his jacket, a second document appears — one Elena has never seen. His smile returns, colder than before.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep7",
+          "index": 7,
+          "title": "She Called Me Family—Then Sold Me Out",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene1.jpg",
+              "caption": "She called me family.",
+              "narration": "For weeks the Ashford matriarch treated me like a daughter. But daughters are not sold to the highest bidder.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene2.jpg",
+              "caption": "A 'gift' with a hidden knife.",
+              "narration": "That morning, Vivian pressed papers into my hands, calling it a gift. I smiled—until I read the fine print.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene3.jpg",
+              "caption": "Sold. Like property.",
+              "narration": "She had signed me away—leased my labor, my silence, my life—to a rival tycoon, like furniture.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene4.jpg",
+              "caption": "'You were only an asset.'",
+              "narration": "'You were never one of us,' Vivian hissed. 'You were an asset. And assets get traded.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene5.jpg",
+              "caption": "They forgot who owns it all.",
+              "narration": "They forgot one thing. Every deed in this house—every stone, every acre—already belongs to me.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene6.jpg",
+              "caption": "The real papers surface.",
+              "narration": "That night I returned to the locked study, unlocked the safe, and laid the true documents on the table.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene7.jpg",
+              "caption": "Let the trap close.",
+              "narration": "When Vivian summoned her lawyers to finalize my 'sale,' I let them enter—then locked the doors behind them.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep7/scene8.jpg",
+              "caption": "The dead walk back in.",
+              "narration": "I slid the deed across the table. 'You didn't sell me,' I whispered. 'You just signed everything to the woman you wronged.' Then the doors flew open—and someone stepped in who was supposed to be dead.",
+              "durationSec": 15
             }
           ]
         }
