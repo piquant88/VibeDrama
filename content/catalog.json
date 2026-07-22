@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T11:10:50.235Z",
+  "updatedAt": "2026-07-22T11:11:43.855Z",
   "series": [
     {
       "id": "contract-bride",
@@ -908,6 +908,61 @@
               "caption": "The dead walk back in.",
               "narration": "I slid the deed across the table. 'You didn't sell me,' I whispered. 'You just signed everything to the woman you wronged.' Then the doors flew open—and someone stepped in who was supposed to be dead.",
               "durationSec": 15
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep8",
+          "index": 8,
+          "title": "The Boardroom Knows My Real Name",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene1.jpg",
+              "caption": "They think I'm just the maid.",
+              "narration": "They summoned me to the boardroom to serve coffee, not knowing today the servant becomes the sovereign.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene2.jpg",
+              "caption": "He built this empire on my family's grave.",
+              "narration": "Gerald Ashford, the patriarch who once called me hired help, smirks as he opens the merger papers.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene3.jpg",
+              "caption": "'The controlling shareholder is present.'",
+              "narration": "Then the lawyer clears his throat and reads a name that turns every face to stone.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene4.jpg",
+              "caption": "Elena Vasquez. The rightful owner.",
+              "narration": "I set down the tray, remove my apron, and speak the name they buried long ago—my name.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene5.jpg",
+              "caption": "He finally remembers the girl he ruined.",
+              "narration": "Gerald's coffee cup shatters on the marble floor as recognition drains the color from his face.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene6.jpg",
+              "caption": "You've been working for me all along.",
+              "narration": "I slide the deed across the polished table—every asset, every share, signed to me.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene7.jpg",
+              "caption": "My sister. Alive. And on his side.",
+              "narration": "But then the boardroom doors burst open, and a woman I thought long dead walks in smiling.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep8/scene8.jpg",
+              "caption": "Two heirs. One throne. War begins.",
+              "narration": "She holds up a second deed—identical to mine—and asks which of us the empire truly obeys.",
+              "durationSec": 7
             }
           ]
         }
