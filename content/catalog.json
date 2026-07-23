@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T11:11:43.855Z",
+  "updatedAt": "2026-07-23T11:12:48.763Z",
   "series": [
     {
       "id": "contract-bride",
@@ -963,6 +963,55 @@
               "caption": "Two heirs. One throne. War begins.",
               "narration": "She holds up a second deed—identical to mine—and asks which of us the empire truly obeys.",
               "durationSec": 7
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep9",
+          "index": 9,
+          "title": "Everything You Own Was Always Mine",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep9/scene1.jpg",
+              "caption": "You don't fire the woman who owns your house.",
+              "narration": "They gathered in the marble foyer expecting to fire the maid. Instead, they found the woman who owns the walls they're standing on.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep9/scene2.jpg",
+              "caption": "He thinks I'm bluffing.",
+              "narration": "Victor laughs, sure this is some pathetic bluff. He has no idea the deed left his family's hands years ago.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep9/scene3.jpg",
+              "caption": "Read it. Then read it again.",
+              "narration": "I slide the folder across the table. Every property, every account, every lie—signed over to me.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep9/scene4.jpg",
+              "caption": "The maid was never the maid.",
+              "narration": "Vivienne's face drains white. The woman she called family, then sold out, holds their entire dynasty in her palm.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep9/scene5.jpg",
+              "caption": "Everything you own was always mine.",
+              "narration": "Julian lunges, snarling that I'm nothing but hired help. I remind him the mortgage on his very bed is mine.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep9/scene6.jpg",
+              "caption": "I don't need your key anymore.",
+              "narration": "I take the master key from my pocket—the same one they gave the maid—and drop it at their feet.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep9/scene7.jpg",
+              "caption": "He whispered a name that stopped my heart.",
+              "narration": "But as security arrives to escort them out, Victor smiles—and whispers that he still has one card left. The daughter I thought was dead.",
+              "durationSec": 11
             }
           ]
         }
