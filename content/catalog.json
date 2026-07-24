@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T11:12:48.763Z",
+  "updatedAt": "2026-07-24T11:05:31.774Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1012,6 +1012,55 @@
               "caption": "He whispered a name that stopped my heart.",
               "narration": "But as security arrives to escort them out, Victor smiles—and whispers that he still has one card left. The daughter I thought was dead.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-maid-who-owned-the-empire-ep10",
+          "index": 10,
+          "title": "The Maid Takes Her Throne",
+          "scenes": [
+            {
+              "image": "the-maid-who-owned-the-empire/ep10/scene1.jpg",
+              "caption": "They called for the maid. A queen answered.",
+              "narration": "They summoned me to the grand hall one last time, expecting a servant to grovel. Instead, I walked in wearing the empire I now own.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep10/scene2.jpg",
+              "caption": "Everything she protected belonged to me.",
+              "narration": "Vivian, the matriarch who once made me scrub her floors, clutched her pearls in disbelief. The throne she guarded was never truly hers.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep10/scene3.jpg",
+              "caption": "The deed to everything you love.",
+              "narration": "Gerald slammed his fist on the antique table, demanding I explain myself. I simply slid the deed across the polished wood.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep10/scene4.jpg",
+              "caption": "You taught me betrayal. I mastered it.",
+              "narration": "Marcus, the son who once smiled while betraying me, begged me to remember what we were. I remembered everything—that was the problem.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep10/scene5.jpg",
+              "caption": "The photo they should have destroyed.",
+              "narration": "I placed the old photograph on the mantel—the one they should have burned. Proof I was the rightful heir all along.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep10/scene6.jpg",
+              "caption": "The maid takes her throne.",
+              "narration": "One by one, the staff who once ignored me now bowed. The empire's true owner had finally claimed her throne.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-maid-who-owned-the-empire/ep10/scene7.jpg",
+              "caption": "'The real heir is still alive.'",
+              "narration": "But as I savored my victory, my phone buzzed with a message that froze my blood: 'The real heir is still alive.' Someone else wants this empire too.",
+              "durationSec": 12
             }
           ]
         }
