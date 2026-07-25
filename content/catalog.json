@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T11:05:31.774Z",
+  "updatedAt": "2026-07-25T10:28:58.676Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1060,6 +1060,84 @@
               "image": "the-maid-who-owned-the-empire/ep10/scene7.jpg",
               "caption": "'The real heir is still alive.'",
               "narration": "But as I savored my victory, my phone buzzed with a message that froze my blood: 'The real heir is still alive.' Someone else wants this empire too.",
+              "durationSec": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-alpha-s-forgotten-luna",
+      "title": "The Alpha's Forgotten Luna",
+      "tagline": "She lost her memory—and her mate is the enemy she vowed to destroy.",
+      "genre": "Fantasy",
+      "cover": "the-alpha-s-forgotten-luna/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Bride Who Woke With No Name",
+        "A Bite That Marked Me as His",
+        "The Alpha Who Swore to Kill My Bloodline",
+        "Whispers of a Life I Can't Remember",
+        "The Rival Luna Returns From the Dead",
+        "His Betrayal Under the Blood Moon",
+        "The Truth Hidden in My Own Scar",
+        "My Enemy Was My Mate All Along",
+        "War at the Gates, Fire in My Veins",
+        "The Luna Who Chose the Throne"
+      ],
+      "episodes": [
+        {
+          "id": "the-alpha-s-forgotten-luna-ep1",
+          "index": 1,
+          "title": "The Bride Who Woke With No Name",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene1.jpg",
+              "caption": "Who am I?",
+              "narration": "She wakes in a bed of silk and shadow, her mind a blank and endless void. No name, no past—only the pounding of a heart that remembers what she cannot.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene2.jpg",
+              "caption": "You're my Luna. My wife.",
+              "narration": "A towering man enters, his eyes burning like molten gold. He calls her his mate—his Luna—but she feels only dread.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene3.jpg",
+              "caption": "Don't touch me—I don't know you!",
+              "narration": "His touch sends fire and terror through her veins. Some buried part of her screams that this man is danger itself.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene4.jpg",
+              "caption": "This face... isn't mine.",
+              "narration": "She flees into the halls and finds a shattered mirror. In the glass, a stranger stares back—and a faded tattoo marks her as something she cannot name.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene5.jpg",
+              "caption": "Kill the Alpha. Avenge them all.",
+              "narration": "A hidden journal falls from her hand, its pages screaming a vow written in her own blood: destroy the Alpha who slaughtered her pack.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene6.jpg",
+              "caption": "My enemy... is my mate?",
+              "narration": "The Alpha she swore to kill is the mate whose bed she woke in. Two truths collide, tearing her soul in half.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene7.jpg",
+              "caption": "You loved me once, Luna.",
+              "narration": "He steps close, whispering that she once loved him with all her heart. But her fingers curl around the cold hilt of a hidden blade.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep1/scene8.jpg",
+              "caption": "I remember everything now.",
+              "narration": "As the moon rises full and blood-red, her memories crash back in a single searing flash. And in that moment, she remembers exactly how he must die.",
               "durationSec": 12
             }
           ]
