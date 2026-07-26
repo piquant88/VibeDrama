@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T10:28:58.676Z",
+  "updatedAt": "2026-07-26T10:46:27.281Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1139,6 +1139,61 @@
               "caption": "I remember everything now.",
               "narration": "As the moon rises full and blood-red, her memories crash back in a single searing flash. And in that moment, she remembers exactly how he must die.",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep2",
+          "index": 2,
+          "title": "A Bite That Marked Me as His",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene1.jpg",
+              "caption": "Whose bride am I?",
+              "narration": "She wakes beneath silver banners, a stranger in her own skin. The mark on her neck burns like a brand she never chose.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene2.jpg",
+              "caption": "You are mine, Luna.",
+              "narration": "He enters like a storm made flesh—broad, scarred, eyes of molten gold. 'You are mine,' he says, and her heart betrays her by racing.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene3.jpg",
+              "caption": "I swore to destroy him...",
+              "narration": "Flashes tear through her mind—blood, fire, a vow whispered in the dark. She once swore to kill this very man.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene4.jpg",
+              "caption": "This bond is a death sentence.",
+              "narration": "'This bite binds our souls,' Kael murmurs, tracing the mark. 'Break it, and you die with me.' She recoils from the warmth she craves.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene5.jpg",
+              "caption": "My old self left me a weapon.",
+              "narration": "Alone, she finds a hidden dagger sewn into her sleeve—her past self's final gift. Her hand trembles as memory and murder collide.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene6.jpg",
+              "caption": "They remember what I forgot.",
+              "narration": "At the feast the pack bows to their lost Luna. But cruel whispers rise—'The bride who tried to slit the Alpha's throat.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene7.jpg",
+              "caption": "Why couldn't he let me go?",
+              "narration": "Kael pulls her close before the pack, lips at her ear. 'Remember it all, and you'll understand why I couldn't let you go.' The mark flares blinding white.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep2/scene8.jpg",
+              "caption": "Elara... finish what you started!",
+              "narration": "Then a war horn shatters the night—enemy wolves storm the gates, and their leader shouts her true name. 'Elara! Kill him now, as you promised!'",
+              "durationSec": 11
             }
           ]
         }
