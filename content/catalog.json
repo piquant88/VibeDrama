@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T10:46:27.281Z",
+  "updatedAt": "2026-07-27T12:26:00.187Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1194,6 +1194,61 @@
               "caption": "Elara... finish what you started!",
               "narration": "Then a war horn shatters the night—enemy wolves storm the gates, and their leader shouts her true name. 'Elara! Kill him now, as you promised!'",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep3",
+          "index": 3,
+          "title": "The Alpha Who Swore to Kill My Bloodline",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene1.jpg",
+              "caption": "I don't even know my own name.",
+              "narration": "I wake with his mark burning on my throat, but my memories are ash. The man watching me is beautiful—and something inside me screams he is death.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene2.jpg",
+              "caption": "We are sworn enemies.",
+              "narration": "'You swore to kill my bloodline,' he says, voice like breaking ice. 'And I swore to end yours.' Yet his hand trembles when he reaches for me.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene3.jpg",
+              "caption": "The prophecy demands my death.",
+              "narration": "A withered elder steps from the shadows. 'She is the last of the wolf-slayer line, Alpha Kael. The prophecy demands her death.' My blood runs cold.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene4.jpg",
+              "caption": "Flashes of a life I can't remember.",
+              "narration": "Fragments flash—flames, a dagger, my own voice vowing vengeance against his father. Was I truly the monster they claim?",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene5.jpg",
+              "caption": "The bond neither of us wanted.",
+              "narration": "Kael's claws graze my cheek. 'Give me one reason to spare you, Luna.' My heart pounds—the mate bond he cannot deny.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene6.jpg",
+              "caption": "My old pack has found me.",
+              "narration": "Then the doors explode inward. Warriors with silver blades storm the hall—my old pack, come to reclaim their weapon.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene7.jpg",
+              "caption": "My brother. My betrayer.",
+              "narration": "Their leader lowers his hood—and my breath stops. His face is my face. 'Sister,' he snarls, 'finish what you started, or die a traitor.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep3/scene8.jpg",
+              "caption": "Choose: your mate or your blood.",
+              "narration": "He hurls a dagger to my feet. Kill Kael and remember who I am—or protect the enemy who marked my soul. My fingers close around the blade.",
+              "durationSec": 12
             }
           ]
         }
