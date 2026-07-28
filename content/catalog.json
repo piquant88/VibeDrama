@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T12:26:00.187Z",
+  "updatedAt": "2026-07-28T11:19:58.421Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1249,6 +1249,61 @@
               "caption": "Choose: your mate or your blood.",
               "narration": "He hurls a dagger to my feet. Kill Kael and remember who I am—or protect the enemy who marked my soul. My fingers close around the blade.",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep4",
+          "index": 4,
+          "title": "Whispers of a Life I Can't Remember",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene1.jpg",
+              "caption": "Why does this place feel like home?",
+              "narration": "I wake in a bed that isn't mine, in a fortress that hates my blood. Yet every stone whispers a name I cannot remember.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene2.jpg",
+              "caption": "My enemy watches me like he owns my soul.",
+              "narration": "Kael, the Alpha who vowed to end my bloodline, stands guard at my door—his eyes burning with something crueler than hate.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene3.jpg",
+              "caption": "He says I begged for this bond.",
+              "narration": "'You bit me,' I whisper. He turns away as if the memory scalds him. 'You begged me to,' he answers.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene4.jpg",
+              "caption": "A photo of us... in love?",
+              "narration": "A locket falls from his cloak. Inside—my face, smiling beside his. We were something once. We were everything.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene5.jpg",
+              "caption": "The memories are coming back... and they hurt.",
+              "narration": "Flashes tear through my mind—laughter, a wedding vow, his lips on mine. Then blood. So much blood.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene6.jpg",
+              "caption": "He brought me back from death.",
+              "narration": "'What happened to us, Kael?' He grips my wrist, trembling. 'You died,' he breathes. 'And I did the unspeakable to bring you back.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene7.jpg",
+              "caption": "My people are here to kill him.",
+              "narration": "The war horns scream outside. My own pack storms the gates—the family who told me Kael slaughtered my bloodline. And they've come to burn him.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep4/scene8.jpg",
+              "caption": "He hands me the knife to end him.",
+              "narration": "Kael presses a blade into my hand—the blade meant for his heart. 'They'll ask you to finish me,' he says. 'And I won't stop you.'",
+              "durationSec": 11
             }
           ]
         }
