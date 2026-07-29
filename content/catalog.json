@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T11:19:58.421Z",
+  "updatedAt": "2026-07-29T11:28:06.352Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1304,6 +1304,61 @@
               "caption": "He hands me the knife to end him.",
               "narration": "Kael presses a blade into my hand—the blade meant for his heart. 'They'll ask you to finish me,' he says. 'And I won't stop you.'",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep5",
+          "index": 5,
+          "title": "The Rival Luna Returns From the Dead",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene1.jpg",
+              "caption": "She was supposed to be dead...",
+              "narration": "The moonlit courtyard falls silent as a figure steps from the mist. Elara's heart stops—the dead do not walk, yet this woman breathes.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene2.jpg",
+              "caption": "The Alpha remembers her name.",
+              "narration": "Kael's face drains of color. The name he buried for years rises from his lips like a curse: Seraphine.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene3.jpg",
+              "caption": "The rival Luna has returned.",
+              "narration": "Seraphine glides forward, fiery red hair blazing, a cruel smile curling. 'You replaced me,' she purrs, 'with a creature who forgot her own soul.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene4.jpg",
+              "caption": "A memory she can't escape.",
+              "narration": "Fragments flash through Elara's mind—Seraphine's laughter, a dagger, blood on snow. Her lost memories claw to surface.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene5.jpg",
+              "caption": "What truth is he hiding?",
+              "narration": "'You never told her the truth, did you Kael?' Seraphine hisses. 'That she killed me once—and would do it again.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene6.jpg",
+              "caption": "She fears her own past.",
+              "narration": "Kael reaches for Elara, but she recoils, betrayal burning brighter than the moon. 'What did I do?' she whispers.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene7.jpg",
+              "caption": "Sister?!",
+              "narration": "Seraphine lifts a trembling hand toward Elara. 'Come home, sister,' she breathes. The word shatters everything.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep5/scene8.jpg",
+              "caption": "The Luna awakens... at last.",
+              "narration": "Elara's eyes flash gold—wolf and woman waking as one. The mark on her neck ignites, and the ground trembles beneath a truth no one is ready for.",
+              "durationSec": 12
             }
           ]
         }
