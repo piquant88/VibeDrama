@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T11:28:06.352Z",
+  "updatedAt": "2026-07-30T11:09:48.088Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1359,6 +1359,61 @@
               "caption": "The Luna awakens... at last.",
               "narration": "Elara's eyes flash gold—wolf and woman waking as one. The mark on her neck ignites, and the ground trembles beneath a truth no one is ready for.",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep6",
+          "index": 6,
+          "title": "His Betrayal Under the Blood Moon",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene1.jpg",
+              "caption": "The blood moon reveals everything.",
+              "narration": "The blood moon rises crimson over the fortress, and my heart pounds with a truth I dread to face. Kael, my mate, stands before an ancient altar—the one my nightmares warned me of.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene2.jpg",
+              "caption": "He hid the truth from me.",
+              "narration": "He turns to me, silver eyes gleaming with something colder than love. 'Elara,' he says, 'there is something I never told you.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene3.jpg",
+              "caption": "The dead Luna returns to claim him.",
+              "narration": "From the shadows steps Seraphine—the rival Luna I believed dead—her lips curled in triumph. 'Did he tell you he made a pact with me?'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene4.jpg",
+              "caption": "I remember what he did to my family.",
+              "narration": "My memories crash back in shattering waves—Kael's blade, my fallen family, his vow to end my bloodline. He was never my savior. He was my executioner.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene5.jpg",
+              "caption": "His mark was a weapon, not love.",
+              "narration": "'You marked me only to destroy the last of my line,' I whisper, betrayal burning through my veins. Kael reaches for me, but I recoil.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene6.jpg",
+              "caption": "He loved the woman he vowed to slay.",
+              "narration": "'I swore to kill you,' Kael confesses, voice breaking, 'until I fell in love with the enemy fate gave me.' But Seraphine only laughs.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene7.jpg",
+              "caption": "One of them must die tonight.",
+              "narration": "Seraphine raises a glowing dagger etched with ancient runes. 'The pact demands her blood tonight, Kael—or yours.' The moon turns darker still.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep6/scene8.jpg",
+              "caption": "He offered his life for mine.",
+              "narration": "Kael steps between us and bares his throat. 'Then take mine.' The dagger falls—and my scream shatters the blood moon night.",
+              "durationSec": 9
             }
           ]
         }
