@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T11:09:48.088Z",
+  "updatedAt": "2026-07-31T11:30:50.631Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1414,6 +1414,61 @@
               "caption": "He offered his life for mine.",
               "narration": "Kael steps between us and bares his throat. 'Then take mine.' The dagger falls—and my scream shatters the blood moon night.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep7",
+          "index": 7,
+          "title": "The Truth Hidden in My Own Scar",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene1.jpg",
+              "caption": "This scar has always been mine... hasn't it?",
+              "narration": "Kaela traces the jagged scar along her ribs, the wound she thought was a battle memory. But tonight it burns like it remembers something she cannot.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene2.jpg",
+              "caption": "The mark is glowing... it's a rune!",
+              "narration": "The scar pulses silver, forming an ancient rune. A memory floods back—a child, a knife, a mother's scream.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene3.jpg",
+              "caption": "He knows what this mark means.",
+              "narration": "Then he enters—Draven, the Alpha who marked her, the enemy she vowed to destroy. His eyes lock on the glowing scar and his face turns to ash.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene4.jpg",
+              "caption": "You did this to yourself, Kaela.",
+              "narration": "'You gave yourself that wound,' Draven whispers. 'To hide the truth from your own people—and from me.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene5.jpg",
+              "caption": "I'm the heir of the prophecy...",
+              "narration": "The rune reveals the impossible—Kaela is not the last of her bloodline. She is the lost heir the prophecy swore would destroy them both.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene6.jpg",
+              "caption": "They'll kill you if they find out.",
+              "narration": "Draven reaches for her, torn between love and the oath sworn in blood. 'If they learn what you are, they will burn you alive.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene7.jpg",
+              "caption": "So the little liar remembers now.",
+              "narration": "But the chamber doors crash open. The Rival Luna, Seraphine, stands smiling—she has seen everything.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep7/scene8.jpg",
+              "caption": "Choose now, Alpha—her, or your throne.",
+              "narration": "'Guards,' Seraphine purrs, 'the Luna is the prophesied traitor.' Steel scrapes as Draven steps between them—and Kaela's scar erupts in blinding fire.",
+              "durationSec": 10
             }
           ]
         }
