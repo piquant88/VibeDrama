@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T11:30:50.631Z",
+  "updatedAt": "2026-08-01T10:42:59.791Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1469,6 +1469,55 @@
               "caption": "Choose now, Alpha—her, or your throne.",
               "narration": "'Guards,' Seraphine purrs, 'the Luna is the prophesied traitor.' Steel scrapes as Draven steps between them—and Kaela's scar erupts in blinding fire.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep8",
+          "index": 8,
+          "title": "My Enemy Was My Mate All Along",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep8/scene1.jpg",
+              "caption": "The scar remembers what I forgot.",
+              "narration": "The scar on my palm burns like a brand as the memories flood back. Every truth I buried claws its way to the surface.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep8/scene2.jpg",
+              "caption": "My enemy... carries my mark.",
+              "narration": "Kael stands before me, the Alpha I swore to destroy. But the mark on his neck matches mine—a bond written in blood.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep8/scene3.jpg",
+              "caption": "You were mine all along.",
+              "narration": "\"You were mine before you hated me,\" he whispers. The room spins as the lie of my life shatters.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep8/scene4.jpg",
+              "caption": "How can I love what I must kill?",
+              "narration": "Rage and longing war inside me. This monster killed my family—yet my soul screams that he is my other half.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep8/scene5.jpg",
+              "caption": "The rival Luna knows the truth.",
+              "narration": "Then Seraphine steps from the shadows, her smile cruel. \"Did he tell you who really slaughtered your bloodline?\"",
+              "durationSec": 8
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep8/scene6.jpg",
+              "caption": "He protected me... with a lie.",
+              "narration": "\"It was me,\" Seraphine laughs. \"And Kael let it happen—to protect you.\" The dagger falls from my hand.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep8/scene7.jpg",
+              "caption": "Choose me now—or we both die.",
+              "narration": "Suddenly Kael clutches his chest, black veins spreading across his skin. \"The bond is breaking,\" he gasps. \"If you don't choose me now... we both die.\"",
+              "durationSec": 11
             }
           ]
         }
