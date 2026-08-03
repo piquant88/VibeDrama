@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T10:42:34.568Z",
+  "updatedAt": "2026-08-03T12:26:49.504Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1572,6 +1572,55 @@
               "image": "the-alpha-s-forgotten-luna/ep9/scene8.jpg",
               "caption": "Choose—his life or our child.",
               "narration": "But as the flames clear, Morgana holds a blade to Kael's throat—and forces the words that shatter me: 'Choose, little Luna. His life, or the child growing in your womb.'",
+              "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-alpha-s-forgotten-luna-ep10",
+          "index": 10,
+          "title": "The Luna Who Chose the Throne",
+          "scenes": [
+            {
+              "image": "the-alpha-s-forgotten-luna/ep10/scene1.jpg",
+              "caption": "The scar remembers what I forgot.",
+              "narration": "Fire still smolders at the pack gates, but Selene stands untouched, the crescent scar on her collarbone blazing with silver light. This is the moment she stops running from what she is.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep10/scene2.jpg",
+              "caption": "Come with me. Please.",
+              "narration": "Kael reaches for her through the smoke, his amber eyes desperate. The Alpha who once swore to end her bloodline now begs her to run.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep10/scene3.jpg",
+              "caption": "The dead don't stay buried.",
+              "narration": "But Morgana rises from the ashes, red hair like living flame, the rival Luna who cheated death. 'The throne was always mine,' she hisses.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep10/scene4.jpg",
+              "caption": "I remember everything now.",
+              "narration": "Selene's memories flood back in a violent wave—her mother's crown, her stolen birthright, the blood oath. She was never just a bride. She was born to rule.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep10/scene5.jpg",
+              "caption": "One throne. Two enemies.",
+              "narration": "She turns to Kael, the mate she vowed to destroy. 'To end this war, one of us must take the throne.' His face breaks.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep10/scene6.jpg",
+              "caption": "The Luna chooses the throne.",
+              "narration": "Selene climbs the ancient dais, silver light erupting from her scar, and seizes the crown. The pack falls silent, kneeling to their true Luna.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-alpha-s-forgotten-luna/ep10/scene7.jpg",
+              "caption": "He draws his blade on his mate.",
+              "narration": "But as the crown touches her brow, Kael's eyes darken to black and his voice turns cold. 'Then I have no choice but to kill my Luna.' He unsheathes his blade.",
               "durationSec": 13
             }
           ]
