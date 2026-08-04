@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T12:26:49.504Z",
+  "updatedAt": "2026-08-04T11:25:26.179Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1621,6 +1621,84 @@
               "image": "the-alpha-s-forgotten-luna/ep10/scene7.jpg",
               "caption": "He draws his blade on his mate.",
               "narration": "But as the crown touches her brow, Kael's eyes darken to black and his voice turns cold. 'Then I have no choice but to kill my Luna.' He unsheathes his blade.",
+              "durationSec": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-billionaire-s-fake-widow",
+      "title": "The Billionaire's Fake Widow",
+      "tagline": "She buried a husband she never married—until he came back to claim everything, including her.",
+      "genre": "Revenge",
+      "cover": "the-billionaire-s-fake-widow/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Widow Who Was Never a Wife",
+        "Reading of a Will That Names a Stranger",
+        "The Dead Man at My Doorstep",
+        "A Marriage Contract Signed in Blood",
+        "His Enemies Think I'm the Key",
+        "The Kiss That Was a Trap",
+        "She Was Working for Them All Along",
+        "The Night the Empire Turned on Me",
+        "One Signature Left to Destroy Him",
+        "The Widow Takes the Throne"
+      ],
+      "episodes": [
+        {
+          "id": "the-billionaire-s-fake-widow-ep1",
+          "index": 1,
+          "title": "The Widow Who Was Never a Wife",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene1.jpg",
+              "caption": "I'm burying a husband who was never mine.",
+              "narration": "They lower a mahogany casket into cold earth, and everyone believes I am burying my husband. But Adrian Vale and I were never married—this funeral is the most beautiful lie I have ever told.",
+              "durationSec": 15
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene2.jpg",
+              "caption": "The vultures circle the fake widow.",
+              "narration": "The Vale family surrounds me like vultures, whispering that a nobody stole their fortune. Little do they know I signed nothing, promised nothing—I simply played the role too perfectly.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene3.jpg",
+              "caption": "Sole heir to a billion-dollar empire.",
+              "narration": "The lawyer reads the will and names me sole heir to the Vale empire. Gasps fill the room, but my heart is ice—this was always the plan.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene4.jpg",
+              "caption": "Finally free. Finally rich.",
+              "narration": "That night I stand before his portrait and finally breathe. Every debt paid, every enemy blind—I am free, and I am rich.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene5.jpg",
+              "caption": "The man I buried is at my door.",
+              "narration": "But at midnight the doorbell shatters my triumph. A silhouette stands in the storm, alive, impossible—the man I just buried.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene6.jpg",
+              "caption": "'Hello, wife.'",
+              "narration": "'Hello, wife,' he says, though we were never wed. His blue eyes burn with a betrayal I never gave him.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene7.jpg",
+              "caption": "He knows my real secret.",
+              "narration": "He walks past me into the home I stole, claiming everything—the money, the name, the revenge. And then he whispers that he knows exactly who I really am.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep1/scene8.jpg",
+              "caption": "He holds the photo that could destroy me.",
+              "narration": "He turns, holding a photograph of me from a life I buried long ago. 'You forgot one thing, Elena,' he smiles coldly. 'I never actually died—and neither did your past.'",
               "durationSec": 13
             }
           ]
