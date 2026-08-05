@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T11:25:26.179Z",
+  "updatedAt": "2026-08-05T11:23:14.618Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1700,6 +1700,61 @@
               "caption": "He holds the photo that could destroy me.",
               "narration": "He turns, holding a photograph of me from a life I buried long ago. 'You forgot one thing, Elena,' he smiles coldly. 'I never actually died—and neither did your past.'",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep2",
+          "index": 2,
+          "title": "Reading of a Will That Names a Stranger",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene1.jpg",
+              "caption": "The reading begins.",
+              "narration": "The mahogany doors close behind me like a coffin lid. I am here to mourn a man I never married—yet everyone believes I was his wife.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene2.jpg",
+              "caption": "One final condition.",
+              "narration": "The lawyer's eyes find mine, cold and knowing. 'Mrs. Ashford,' he says, 'the estate has one final condition.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene3.jpg",
+              "caption": "The heir is a stranger.",
+              "narration": "He reads the name of the sole heir. It is not mine. It belongs to a stranger I have never heard.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene4.jpg",
+              "caption": "But he's supposed to be dead.",
+              "narration": "'Everything he owned,' the lawyer continues, 'passes to a man named Julian Ashford.' The room gasps. Julian Ashford is supposed to be dead.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene5.jpg",
+              "caption": "The vultures circle.",
+              "narration": "Whispers slither through the room. The vultures who once ignored me now stare, hungry for my downfall.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene6.jpg",
+              "caption": "The doors burst open.",
+              "narration": "Then the doors burst open. A tall man in a dark suit steps into the light—and my blood turns to ice.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene7.jpg",
+              "caption": "'Hello, wife.'",
+              "narration": "His eyes lock on mine, a cruel smile curving his lips. 'Hello, wife,' he says. 'Did you enjoy my funeral?'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep2/scene8.jpg",
+              "caption": "The dead have returned.",
+              "narration": "The man I buried is standing before me, alive—and he knows every lie I've told. My revenge just became a war I might not survive.",
+              "durationSec": 11
             }
           ]
         }
