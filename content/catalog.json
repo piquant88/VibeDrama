@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T11:23:14.618Z",
+  "updatedAt": "2026-08-06T11:24:41.949Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1754,6 +1754,61 @@
               "image": "the-billionaire-s-fake-widow/ep2/scene8.jpg",
               "caption": "The dead have returned.",
               "narration": "The man I buried is standing before me, alive—and he knows every lie I've told. My revenge just became a war I might not survive.",
+              "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep3",
+          "index": 3,
+          "title": "The Dead Man at My Doorstep",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene1.jpg",
+              "caption": "Midnight. Someone is at the door.",
+              "narration": "The reading of the will still echoes in her ears when the doorbell rings at midnight. Clara Vaughn, the widow who was never a wife, freezes with dread.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene2.jpg",
+              "caption": "A dead man at my doorstep.",
+              "narration": "She opens the door—and the world stops. A man lies collapsed on her doorstep, drenched in rain, blood on his shirt.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene3.jpg",
+              "caption": "It's him. The man I buried.",
+              "narration": "She kneels, turns his face to the light—and screams. It is Adrian Kane. The husband she buried. The husband she never married.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene4.jpg",
+              "caption": "'Hello, wife. Miss me?'",
+              "narration": "His eyes flutter open. His lips form words that shatter everything she has built. 'Hello, wife. Miss me?'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene5.jpg",
+              "caption": "He knows everything.",
+              "narration": "She drags him inside, heart pounding with fury and fear. He faked his death—and now he knows her lie. The fake widow of a living man.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene6.jpg",
+              "caption": "'Now you'll pay it back.'",
+              "narration": "'You inherited my fortune pretending to grieve me,' he whispers. 'Now you'll pay it back—with everything you have.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene7.jpg",
+              "caption": "Someone else is coming.",
+              "narration": "But before she can answer, headlights slash across the windows. A black car rolls through her gates. Someone else knows he's alive.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep3/scene8.jpg",
+              "caption": "To be continued…",
+              "narration": "A gunshot cracks the night. The window explodes. And Clara realizes—the man she buried came home with enemies who won't stop until they're both dead.",
               "durationSec": 11
             }
           ]
