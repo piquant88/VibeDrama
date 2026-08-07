@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T11:24:41.949Z",
+  "updatedAt": "2026-08-07T10:03:09.976Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1810,6 +1810,61 @@
               "caption": "To be continued…",
               "narration": "A gunshot cracks the night. The window explodes. And Clara realizes—the man she buried came home with enemies who won't stop until they're both dead.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep4",
+          "index": 4,
+          "title": "A Marriage Contract Signed in Blood",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene1.jpg",
+              "caption": "You were supposed to be dead.",
+              "narration": "He stands in the doorway of the mansion he supposedly died in, alive and unbroken. The man they buried three months ago now smiles like a wolf.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene2.jpg",
+              "caption": "We were never married... were we?",
+              "narration": "Elena's hands tremble as Adrian slides a document across the polished table. A marriage contract, dated the day of his 'death.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene3.jpg",
+              "caption": "Sign, or lose everything you love.",
+              "narration": "His voice is ice. Sign it, and everything he stole from her family will be returned. Refuse, and she loses it all.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene4.jpg",
+              "caption": "This contract is signed in blood.",
+              "narration": "The pen he offers is no ordinary pen. A single drop of blood must seal this vow—an old family curse made real.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene5.jpg",
+              "caption": "I married you for revenge.",
+              "narration": "As her blood touches the paper, Adrian leans close and whispers the truth she feared most. He never loved her—he needed her.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene6.jpg",
+              "caption": "You should have stayed dead.",
+              "narration": "But Elena is not the fragile widow he believes. Behind her tears, a plan ignites—she will bury him for real this time.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene7.jpg",
+              "caption": "He's already married—to me.",
+              "narration": "Then the study doors burst open. A woman in red strides in, clutching an identical marriage contract bearing Adrian's signature.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep4/scene8.jpg",
+              "caption": "Which wife will he bury next?",
+              "narration": "Adrian's face drains white. Two contracts, two wives, one deadly game—and Elena finally sees the trap closing around them both.",
+              "durationSec": 9
             }
           ]
         }
