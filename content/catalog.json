@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T10:03:09.976Z",
+  "updatedAt": "2026-08-08T09:40:12.812Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1865,6 +1865,61 @@
               "caption": "Which wife will he bury next?",
               "narration": "Adrian's face drains white. Two contracts, two wives, one deadly game—and Elena finally sees the trap closing around them both.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep5",
+          "index": 5,
+          "title": "His Enemies Think I'm the Key",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene1.jpg",
+              "caption": "They think I know his secrets.",
+              "narration": "They came for me before dawn, black cars circling like vultures. The dead man's enemies believe I hold the key to his empire.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene2.jpg",
+              "caption": "Adrian: They will burn everything to find it.",
+              "narration": "Adrian, my resurrected husband, grips my arm. He warns me they'll never stop hunting until they get what they want.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene3.jpg",
+              "caption": "The woman in red knows too much.",
+              "narration": "A stranger in a crimson coat steps forward, smiling. She claims Adrian hid a fortune inside a code only I can unlock.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene4.jpg",
+              "caption": "I'm in a photo I don't remember.",
+              "narration": "They show me a photograph—my own face beside a bank vault I've never seen. My hands tremble as the past rewrites itself.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene5.jpg",
+              "caption": "Adrian: Trust no one but me.",
+              "narration": "Adrian pulls me aside, whispering that everything they told me is a lie designed to turn me against him.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene6.jpg",
+              "caption": "My mother's initials. How?",
+              "narration": "But the woman in red slides a key across the table—engraved with my dead mother's initials. My blood runs cold.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene7.jpg",
+              "caption": "They opened fire.",
+              "narration": "Suddenly gunfire shatters the windows. Adrian throws me to the floor as glass rains down like knives.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep5/scene8.jpg",
+              "caption": "He came back to bury me.",
+              "narration": "In the chaos the woman in red leans down and whispers: 'He didn't come back for you—he came back to bury you.' Then everything goes black.",
+              "durationSec": 11
             }
           ]
         }
