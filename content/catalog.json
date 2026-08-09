@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T09:40:12.812Z",
+  "updatedAt": "2026-08-09T09:41:32.795Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1920,6 +1920,61 @@
               "caption": "He came back to bury me.",
               "narration": "In the chaos the woman in red leans down and whispers: 'He didn't come back for you—he came back to bury you.' Then everything goes black.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep6",
+          "index": 6,
+          "title": "The Kiss That Was a Trap",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene1.jpg",
+              "caption": "One kiss to sell the lie.",
+              "narration": "They call it a charity gala, but I know it's a battlefield. Adrian pulls me close, whispering that one kiss will convince his enemies we're truly wed.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene2.jpg",
+              "caption": "The kiss that changed everything.",
+              "narration": "I hate how my heart betrays me. As his lips meet mine, the whole room turns to watch — and somewhere, a camera flashes like a gunshot.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene3.jpg",
+              "caption": "It was all a setup.",
+              "narration": "But the kiss was never for love. Adrian's grip tightens — he's steering me toward a man in the shadows, the one who wants me dead.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene4.jpg",
+              "caption": "\"Smile, or we both die.\"",
+              "narration": "\"Smile,\" he murmurs, \"or we both die tonight.\" I realize the trap was never for our enemies. It was for me.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene5.jpg",
+              "caption": "A stranger knows my secret.",
+              "narration": "The silver-haired stranger takes my hand and kisses it. \"Mrs. Voss,\" he says, \"your husband forgot to mention you signed his death warrant.\"",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene6.jpg",
+              "caption": "The contract was a confession.",
+              "narration": "My blood runs cold. The marriage contract I signed in blood — it wasn't a vow. It was a confession, sealing me to a murder I never committed.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene7.jpg",
+              "caption": "\"Everyone is expendable.\"",
+              "narration": "I turn to Adrian, searching for the man I almost trusted. But his eyes are ice. \"I told you,\" he says softly, \"everyone here is expendable.\"",
+              "durationSec": 11
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep6/scene8.jpg",
+              "caption": "One shot. Everything shatters.",
+              "narration": "Then the lights die. A single gunshot echoes through the ballroom, and when the chandelier flickers back — Adrian is lying at my feet, blood blooming across his white shirt.",
+              "durationSec": 13
             }
           ]
         }
