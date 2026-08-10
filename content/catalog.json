@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-09T09:41:32.795Z",
+  "updatedAt": "2026-08-10T10:18:13.827Z",
   "series": [
     {
       "id": "contract-bride",
@@ -1975,6 +1975,61 @@
               "caption": "One shot. Everything shatters.",
               "narration": "Then the lights die. A single gunshot echoes through the ballroom, and when the chandelier flickers back — Adrian is lying at my feet, blood blooming across his white shirt.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep7",
+          "index": 7,
+          "title": "She Was Working for Them All Along",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene1.jpg",
+              "caption": "The traitor was closer than I feared.",
+              "narration": "I found the ledger hidden in Adrian's study—proof that someone inside the estate has been leaking our every move. My hands tremble as I recognize the handwriting.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene2.jpg",
+              "caption": "He came back from the dead for this moment.",
+              "narration": "Adrian bursts in, his tall frame filling the doorway, eyes cold as winter steel. He knows what I've discovered.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene3.jpg",
+              "caption": "The betrayal has a face I trusted.",
+              "narration": "'You were working for them all along,' he says. But the name on the ledger isn't mine—it's his sister's.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene4.jpg",
+              "caption": "His own blood sold him out.",
+              "narration": "Vivienne appears from the shadows, her platinum hair gleaming, a cruel smile curling her lips. She's been feeding secrets to Adrian's enemies for years.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene5.jpg",
+              "caption": "He shields the woman he never truly married.",
+              "narration": "'You should have stayed dead, brother,' Vivienne hisses, drawing a small silver pistol. Adrian steps in front of me without hesitation.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene6.jpg",
+              "caption": "Everything was a lie to keep me alive.",
+              "narration": "In the chaos, Adrian whispers the truth: our fake marriage was the only thing keeping his enemies from killing me. I was never the target—I was the shield.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene7.jpg",
+              "caption": "Someone else wanted her silenced.",
+              "narration": "A gunshot shatters the silence. Vivienne collapses—shot from behind by a masked figure stepping through the terrace doors.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep7/scene8.jpg",
+              "caption": "Two men. One dead husband. One deadly truth.",
+              "narration": "The masked figure lowers the gun and removes the mask—it's my husband's face, identical, impossible. 'The Adrian you married,' he says, 'was never the real one.'",
+              "durationSec": 11
             }
           ]
         }
