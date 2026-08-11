@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T10:18:13.827Z",
+  "updatedAt": "2026-08-11T10:02:01.513Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2030,6 +2030,61 @@
               "caption": "Two men. One dead husband. One deadly truth.",
               "narration": "The masked figure lowers the gun and removes the mask—it's my husband's face, identical, impossible. 'The Adrian you married,' he says, 'was never the real one.'",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep8",
+          "index": 8,
+          "title": "The Night the Empire Turned on Me",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene1.jpg",
+              "caption": "The whole empire turns against me.",
+              "narration": "They said I was one of them. Tonight, the entire empire wants me dead.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene2.jpg",
+              "caption": "He came back for me.",
+              "narration": "Adrian returns—my husband from the grave, his eyes colder than the day I buried him.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene3.jpg",
+              "caption": "You don't know the truth.",
+              "narration": "'You betrayed me,' he whispers. But he doesn't know I was betraying them for him.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene4.jpg",
+              "caption": "They forged my crimes.",
+              "narration": "The board members circle like wolves, papers in hand—proof they forged to destroy us both.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene5.jpg",
+              "caption": "Here's the real truth.",
+              "narration": "I slam the real evidence on the table. 'I never worked for them—I've been protecting you all along.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene6.jpg",
+              "caption": "He finally believes me.",
+              "narration": "Adrian's face breaks. For the first time, the dead man looks like he might weep.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene7.jpg",
+              "caption": "Lights out. A gunshot.",
+              "narration": "Then the lights die. A gunshot cracks. And someone screams my name in the dark.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep8/scene8.jpg",
+              "caption": "The gun is in my hand.",
+              "narration": "When the lights return, Adrian is on the floor—bleeding—and the gun is in my hand.",
+              "durationSec": 7
             }
           ]
         }
