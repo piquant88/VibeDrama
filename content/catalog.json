@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-11T10:02:01.513Z",
+  "updatedAt": "2026-08-12T10:08:07.018Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2085,6 +2085,61 @@
               "caption": "The gun is in my hand.",
               "narration": "When the lights return, Adrian is on the floor—bleeding—and the gun is in my hand.",
               "durationSec": 7
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep9",
+          "index": 9,
+          "title": "One Signature Left to Destroy Him",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene1.jpg",
+              "caption": "One signature left to destroy him.",
+              "narration": "They think one signature will finish him. But I hold the pen now, and I hold his fate.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene2.jpg",
+              "caption": "He came back for me.",
+              "narration": "Adrian appears from the shadows, the dead man who refused to stay buried, his eyes begging me not to sign.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene3.jpg",
+              "caption": "They promised me freedom.",
+              "narration": "'Sign it,' his enemies hiss through the phone. 'And you walk away rich.' But rich was never what I wanted.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene4.jpg",
+              "caption": "Will you kill me twice?",
+              "narration": "He steps closer, voice breaking. 'You buried me once. Will you kill me twice?'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene5.jpg",
+              "caption": "Everything was a lie—except us.",
+              "narration": "I remember the marriage contract signed in blood, the lies, the kiss that was a trap. But I also remember the truth in his eyes.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene6.jpg",
+              "caption": "I choose him.",
+              "narration": "So I press the pen down—and tear the document in half instead. 'I choose him.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene7.jpg",
+              "caption": "They know I betrayed them.",
+              "narration": "The doors burst open. His enemies flood in, guns drawn, faces twisted with betrayal.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep9/scene8.jpg",
+              "caption": "One gunshot. One secret left.",
+              "narration": "Adrian shields me, whispering, 'There's one secret left—the one that will destroy them all.' Then a single gunshot echoes.",
+              "durationSec": 9
             }
           ]
         }
