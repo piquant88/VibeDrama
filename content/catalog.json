@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T10:08:07.018Z",
+  "updatedAt": "2026-08-13T10:09:08.518Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2140,6 +2140,61 @@
               "caption": "One gunshot. One secret left.",
               "narration": "Adrian shields me, whispering, 'There's one secret left—the one that will destroy them all.' Then a single gunshot echoes.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-billionaire-s-fake-widow-ep10",
+          "index": 10,
+          "title": "The Widow Takes the Throne",
+          "scenes": [
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene1.jpg",
+              "caption": "They thought I came to mourn. I came to rule.",
+              "narration": "They summoned me to the boardroom expecting a grieving fool. Instead, I walk in wearing his empire like a crown.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene2.jpg",
+              "caption": "One document. One name they never expected.",
+              "narration": "The board laughs, certain a signature can't save me. They don't know the man watching from the shadows.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene3.jpg",
+              "caption": "The dead man rises to claim his throne.",
+              "narration": "Then he steps into the light—Adrian, the husband I buried, alive and armed with the truth.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene4.jpg",
+              "caption": "Every lie they buried is unearthed.",
+              "narration": "He reads their crimes aloud, every betrayal I once took the blame for. The room drains of color.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene5.jpg",
+              "caption": "He crowns me before his enemies.",
+              "narration": "He takes my hand before them all and names me chairwoman. The widow becomes the queen.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene6.jpg",
+              "caption": "A warning hidden in my own hand.",
+              "narration": "But victory tastes of poison. In my palm, a note only I can read—someone in this room already knows my final secret.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene7.jpg",
+              "caption": "The one crime I never confessed.",
+              "narration": "I lift my eyes—and Adrian's phone lights up with a photo of me the night his brother died.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-billionaire-s-fake-widow/ep10/scene8.jpg",
+              "caption": "The queen's darkest secret just surfaced.",
+              "narration": "His grip on my hand turns to iron. 'Elena,' he whispers, 'what did you do?'—and the throne beneath us begins to crack.",
+              "durationSec": 10
             }
           ]
         }
