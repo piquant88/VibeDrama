@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T10:09:08.518Z",
+  "updatedAt": "2026-08-14T10:04:58.836Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2195,6 +2195,84 @@
               "caption": "The queen's darkest secret just surfaced.",
               "narration": "His grip on my hand turns to iron. 'Elena,' he whispers, 'what did you do?'—and the throne beneath us begins to crack.",
               "durationSec": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-janitor-was-a-king",
+      "title": "The Janitor Was a King",
+      "tagline": "They mocked the man mopping floors—until his exiled kingdom came to reclaim him.",
+      "genre": "Drama",
+      "cover": "the-janitor-was-a-king/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Man Everyone Stepped Over",
+        "A Slap in Front of the Whole Office",
+        "The Stranger Who Bowed to the Janitor",
+        "Dinner With the People Who Fired Me",
+        "The Ring That Proves a Bloodline",
+        "She Chose Their Side—and I Let Her",
+        "The Betrayal Hidden in the Old Photograph",
+        "Return of the Exiled Prince",
+        "The Kingdom Wants Its Throne Back",
+        "Kneel, or Lose Everything You Stole"
+      ],
+      "episodes": [
+        {
+          "id": "the-janitor-was-a-king-ep1",
+          "index": 1,
+          "title": "The Man Everyone Stepped Over",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep1/scene1.jpg",
+              "caption": "Just the janitor. Nobody special.",
+              "narration": "Every morning he arrives before dawn, invisible to the world that walks past him.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep1/scene2.jpg",
+              "caption": "'Clean it up, old man.'",
+              "narration": "They laugh. They toss their trash at his feet and call him a servant of nothing.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep1/scene3.jpg",
+              "caption": "He carries a secret older than empires.",
+              "narration": "But Amir never bows in shame. He kneels like a man remembering a throne.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep1/scene4.jpg",
+              "caption": "A ring from a kingdom that fell.",
+              "narration": "In his locker hangs no photograph—only a tarnished ring bearing the crest of a fallen crown.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep1/scene5.jpg",
+              "caption": "They came looking for someone.",
+              "narration": "Then the doors burst open. A convoy of black cars floods the street outside.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep1/scene6.jpg",
+              "caption": "'Where is he? Where is our king?'",
+              "narration": "A woman in royal robes strides through the lobby, her eyes searching every face.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep1/scene7.jpg",
+              "caption": "They knelt... to the man they mocked.",
+              "narration": "The mockers freeze as the guards drop to one knee—facing the janitor with the mop.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep1/scene8.jpg",
+              "caption": "'Your Majesty... it is time to come home.'",
+              "narration": "The royal woman bows her head and whispers the words that will shatter his hidden life forever.",
+              "durationSec": 8
             }
           ]
         }
