@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T10:04:58.836Z",
+  "updatedAt": "2026-08-15T09:27:55.517Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2272,6 +2272,61 @@
               "image": "the-janitor-was-a-king/ep1/scene8.jpg",
               "caption": "'Your Majesty... it is time to come home.'",
               "narration": "The royal woman bows her head and whispers the words that will shatter his hidden life forever.",
+              "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep2",
+          "index": 2,
+          "title": "A Slap in Front of the Whole Office",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep2/scene1.jpg",
+              "caption": "Just another morning for the janitor.",
+              "narration": "In the gleaming lobby of Halcyon Tower, Marcus pushes his mop, invisible to the world that steps over him.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep2/scene2.jpg",
+              "caption": "'You missed a spot, old man.'",
+              "narration": "Vanessa, the ruthless office manager, sees him and sneers. To her, he is nothing but a stain to be scrubbed away.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep2/scene3.jpg",
+              "caption": "The bucket spills. Everyone laughs.",
+              "narration": "She kicks over his bucket, water flooding across the floor as the whole office turns to watch.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep2/scene4.jpg",
+              "caption": "He does not flinch.",
+              "narration": "Marcus kneels calmly, wiping the water. His silence only enrages her more.",
+              "durationSec": 6
+            },
+            {
+              "image": "the-janitor-was-a-king/ep2/scene5.jpg",
+              "caption": "The slap heard by everyone.",
+              "narration": "Then her hand flies. A slap cracks across his face, echoing through the frozen office.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep2/scene6.jpg",
+              "caption": "A king does not stay kneeling.",
+              "narration": "Marcus slowly rises, touching his cheek. For the first time, something ancient and powerful flickers in his eyes.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep2/scene7.jpg",
+              "caption": "'Your Majesty, we have found you.'",
+              "narration": "Suddenly the glass doors burst open. A dozen men in black suits stride in, bowing low before the janitor.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep2/scene8.jpg",
+              "caption": "The janitor was a king all along.",
+              "narration": "Vanessa's face drains white as the truth crashes down. The man she slapped was never just a janitor.",
               "durationSec": 8
             }
           ]
