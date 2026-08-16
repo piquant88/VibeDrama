@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T09:27:55.517Z",
+  "updatedAt": "2026-08-16T09:28:43.067Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2327,6 +2327,61 @@
               "image": "the-janitor-was-a-king/ep2/scene8.jpg",
               "caption": "The janitor was a king all along.",
               "narration": "Vanessa's face drains white as the truth crashes down. The man she slapped was never just a janitor.",
+              "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep3",
+          "index": 3,
+          "title": "The Stranger Who Bowed to the Janitor",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep3/scene1.jpg",
+              "caption": "Just another day for the man they ignore.",
+              "narration": "The morning shift begins like any other, Marcus pushing his mop across the marble lobby, invisible as always.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep3/scene2.jpg",
+              "caption": "Who is this stranger?",
+              "narration": "Then the glass doors part—and a tall stranger in a black tailored suit strides in like he owns the world.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep3/scene3.jpg",
+              "caption": "They all think he's here for the boss.",
+              "narration": "The office workers freeze. This man radiates power—and everyone assumes he's here for the executives upstairs.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep3/scene4.jpg",
+              "caption": "He walks past everyone... to the janitor.",
+              "narration": "But the stranger walks past the CEO, past the receptionist, straight toward the man with the mop.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep3/scene5.jpg",
+              "caption": "He kneels before the janitor.",
+              "narration": "And then, before the entire stunned office, the stranger drops to one knee and bows his head low.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep3/scene6.jpg",
+              "caption": "'Your Majesty... I found you.'",
+              "narration": "\"Your Majesty,\" the stranger whispers, \"I have finally found you.\" The mop slips from Marcus's trembling hands.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep3/scene7.jpg",
+              "caption": "The woman who slapped him goes pale.",
+              "narration": "The whole office gasps. The woman who slapped him yesterday clutches her chest in horror.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep3/scene8.jpg",
+              "caption": "'The kingdom needs you back... tonight.'",
+              "narration": "The stranger rises, eyes burning. \"The kingdom is falling. And only you can return to take the throne—tonight.\"",
               "durationSec": 8
             }
           ]
