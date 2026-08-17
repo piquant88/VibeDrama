@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T09:28:43.067Z",
+  "updatedAt": "2026-08-17T09:43:28.058Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2383,6 +2383,61 @@
               "caption": "'The kingdom needs you back... tonight.'",
               "narration": "The stranger rises, eyes burning. \"The kingdom is falling. And only you can return to take the throne—tonight.\"",
               "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep4",
+          "index": 4,
+          "title": "Dinner With the People Who Fired Me",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep4/scene1.jpg",
+              "caption": "They fired me. Now they want dinner.",
+              "narration": "The invitation arrives on gold-trimmed paper. The very company that fired me now begs me to dinner. They have no idea who they truly summoned.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep4/scene2.jpg",
+              "caption": "Still just the janitor to them.",
+              "narration": "They seat me at the far end, snickering behind champagne glasses. To them I am still the man who mopped their floors.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-janitor-was-a-king/ep4/scene3.jpg",
+              "caption": "A toast to knowing your place.",
+              "narration": "Miranda, the CEO who slapped me, raises her glass in mockery. 'A toast,' she sneers, 'to knowing your place.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep4/scene4.jpg",
+              "caption": "My place is a throne.",
+              "narration": "I set down my fork. 'My place,' I say softly, 'is a throne you cannot imagine.' The laughter dies.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep4/scene5.jpg",
+              "caption": "The doors burst open.",
+              "narration": "The grand doors burst open. Armored royal guards flood the room, banners of a golden lion unfurling behind them.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep4/scene6.jpg",
+              "caption": "Your Majesty. Your kingdom awaits.",
+              "narration": "The guards drop to one knee before me. 'Your Majesty,' their captain declares, 'your kingdom awaits your return.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep4/scene7.jpg",
+              "caption": "The glass shatters. So does her world.",
+              "narration": "Miranda's glass shatters on the floor. Her face drains of color as she finally understands the man she struck.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep4/scene8.jpg",
+              "caption": "The traitor is at this table.",
+              "narration": "The captain steps closer. 'Sire, there is one more matter.' He lowers his voice. 'The traitor who exiled you... is at this very table.'",
+              "durationSec": 11
             }
           ]
         }
