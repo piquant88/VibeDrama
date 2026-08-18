@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T09:43:28.058Z",
+  "updatedAt": "2026-08-18T09:35:31.311Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2438,6 +2438,61 @@
               "caption": "The traitor is at this table.",
               "narration": "The captain steps closer. 'Sire, there is one more matter.' He lowers his voice. 'The traitor who exiled you... is at this very table.'",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep5",
+          "index": 5,
+          "title": "The Ring That Proves a Bloodline",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep5/scene1.jpg",
+              "caption": "They handed him the royal ring.",
+              "narration": "Marcus stands in the marble lobby, still wearing his gray janitor uniform, when the old envoy places a velvet box in his trembling hands. Inside gleams a ring older than the empire itself.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-janitor-was-a-king/ep5/scene2.jpg",
+              "caption": "The whole office went silent.",
+              "narration": "The office workers who once laughed freeze in place, phones lowered. The janitor they slapped is holding a crown's promise in his palm.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-janitor-was-a-king/ep5/scene3.jpg",
+              "caption": "Only true blood can awaken it.",
+              "narration": "The envoy kneels, voice breaking. 'This ring answers only to the blood of King Adaeze. Press it to the seal, my lord.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-janitor-was-a-king/ep5/scene4.jpg",
+              "caption": "The impostor's touch rejected it.",
+              "narration": "Sneering, his old boss Vincent snatches for the ring. 'A janitor, royalty? This is a scam!' But the moment his fingers touch the gold, it burns cold and dark.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-janitor-was-a-king/ep5/scene5.jpg",
+              "caption": "The ring blazed at his blood.",
+              "narration": "Marcus lifts the ring to the ancient seal. It flares to life, golden light spilling across the lobby, illuminating a crest carved into its face—his face.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep5/scene6.jpg",
+              "caption": "They all knelt before the janitor.",
+              "narration": "The envoy weeps and bows lower. 'The prophecy is true. You are the lost heir, Your Majesty.' Around him, every stranger in dark coats drops to one knee.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-janitor-was-a-king/ep5/scene7.jpg",
+              "caption": "The enemy just made a call.",
+              "narration": "But Vincent backs toward the door, phone pressed to his ear, whispering. 'He's alive. The heir is alive. Send them now.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep5/scene8.jpg",
+              "caption": "They came to end the bloodline.",
+              "narration": "As Marcus turns toward the crowd, the lobby doors burst open—armed men in black storm inside. The envoy shields him, screaming, 'They've come to kill the king!'",
+              "durationSec": 12
             }
           ]
         }
