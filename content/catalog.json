@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T09:35:31.311Z",
+  "updatedAt": "2026-08-19T09:36:04.466Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2493,6 +2493,61 @@
               "caption": "They came to end the bloodline.",
               "narration": "As Marcus turns toward the crowd, the lobby doors burst open—armed men in black storm inside. The envoy shields him, screaming, 'They've come to kill the king!'",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep6",
+          "index": 6,
+          "title": "She Chose Their Side—and I Let Her",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep6/scene1.jpg",
+              "caption": "The one person I trusted.",
+              "narration": "For years I mopped these floors while they laughed. But the one betrayal I never saw coming came from her—Elena, the only one who ever smiled at me.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-janitor-was-a-king/ep6/scene2.jpg",
+              "caption": "She looked away.",
+              "narration": "They gathered like wolves—the executives who fired me, now trembling before my bloodline. But Elena would not meet my eyes.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep6/scene3.jpg",
+              "caption": "She rose. She chose them.",
+              "narration": "The royal envoy demanded loyalty from everyone in that room. When they pointed to Elena, she rose—and walked to their side.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep6/scene4.jpg",
+              "caption": "'A janitor playing king.'",
+              "narration": "'He is nothing,' she whispered to them. 'A janitor playing king.' Each word a blade through the last piece of my heart.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-janitor-was-a-king/ep6/scene5.jpg",
+              "caption": "I let her walk away.",
+              "narration": "I could have shown them the ring. I could have crushed her with a single word. Instead, I let her go.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep6/scene6.jpg",
+              "caption": "'Speak the word, Majesty.'",
+              "narration": "The envoy stepped forward, stunned. 'Your Majesty, she has betrayed the crown. Speak the word, and she is finished.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep6/scene7.jpg",
+              "caption": "What is she hiding?",
+              "narration": "I looked at Elena one last time. And in her trembling hands, I saw something clenched—a photograph she never meant for me to find.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep6/scene8.jpg",
+              "caption": "The dead just walked in.",
+              "narration": "Then the doors burst open—and the person in that photograph walked in alive. Suddenly, her betrayal made a terrible kind of sense.",
+              "durationSec": 10
             }
           ]
         }
