@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T09:36:04.466Z",
+  "updatedAt": "2026-08-20T09:36:52.652Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2547,6 +2547,61 @@
               "image": "the-janitor-was-a-king/ep6/scene8.jpg",
               "caption": "The dead just walked in.",
               "narration": "Then the doors burst open—and the person in that photograph walked in alive. Suddenly, her betrayal made a terrible kind of sense.",
+              "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep7",
+          "index": 7,
+          "title": "The Betrayal Hidden in the Old Photograph",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep7/scene1.jpg",
+              "caption": "One photo. A lifetime of lies.",
+              "narration": "The dusty photograph slips from the envelope, and thirty years of silence come crashing down. In the faded image, a young Elias stands smiling beside the man who would one day steal his crown.",
+              "durationSec": 15
+            },
+            {
+              "image": "the-janitor-was-a-king/ep7/scene2.jpg",
+              "caption": "The man who bowed... was there all along.",
+              "narration": "He recognizes the face instantly—Lord Aldric, the loyal envoy who bowed before him. But in this photo, Aldric's hand rests on the shoulder of the general who led the coup.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-janitor-was-a-king/ep7/scene3.jpg",
+              "caption": "He came the moment he knew.",
+              "narration": "Behind him, the door creaks. Lord Aldric stands in the doorway, silver hair immaculate, white gloves folded, his eyes falling to the photograph in Elias's trembling grip.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-janitor-was-a-king/ep7/scene4.jpg",
+              "caption": "'You knelt... knowing the truth.'",
+              "narration": "'You knew who took everything from me,' Elias whispers, 'and you knelt at my feet anyway.' Aldric's composure fractures for the first time.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-janitor-was-a-king/ep7/scene5.jpg",
+              "caption": "'The real traitor is closer than you think.'",
+              "narration": "'I protected you,' Aldric confesses, voice breaking. 'The photograph is not what it seems. The traitor was never me—it was someone you still trust.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep7/scene6.jpg",
+              "caption": "She stops the instant she sees it.",
+              "narration": "A pair of heels clicks down the hallway. Vivian appears, auburn hair perfect, her smile faltering as she sees the photograph in his hand.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep7/scene7.jpg",
+              "caption": "She was there. She was always there.",
+              "narration": "Elias turns the photo toward her—and in the corner, half-hidden, stands a young girl with auburn hair. Vivian's own face, at her father's side, the day the kingdom fell.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-janitor-was-a-king/ep7/scene8.jpg",
+              "caption": "Then everything went black.",
+              "narration": "'Tell me it isn't you,' Elias begs. Vivian opens her mouth—but the lights slam to darkness, and a gunshot echoes through the hall.",
               "durationSec": 10
             }
           ]
