@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T09:36:52.652Z",
+  "updatedAt": "2026-08-21T09:38:24.451Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2602,6 +2602,61 @@
               "image": "the-janitor-was-a-king/ep7/scene8.jpg",
               "caption": "Then everything went black.",
               "narration": "'Tell me it isn't you,' Elias begs. Vivian opens her mouth—but the lights slam to darkness, and a gunshot echoes through the hall.",
+              "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep8",
+          "index": 8,
+          "title": "Return of the Exiled Prince",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep8/scene1.jpg",
+              "caption": "The janitor they mocked has returned.",
+              "narration": "For years, Elias mopped these floors in silence. Today, black motorcades line the street, and the man they mocked stands taller than they ever imagined.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep8/scene2.jpg",
+              "caption": "Kneel for the exiled prince.",
+              "narration": "General Marek kneels before him, sword in hand. 'Your Highness, the exile is over. Your throne awaits.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep8/scene3.jpg",
+              "caption": "The ones who fired him now tremble.",
+              "narration": "The same executives who fired him now tremble. Mr. Dalton, who once slapped him, cannot meet his eyes.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep8/scene4.jpg",
+              "caption": "She chose wrong.",
+              "narration": "Then she appears—Vivian, the woman who chose their side. Her face crumbles as the truth engulfs her.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep8/scene5.jpg",
+              "caption": "The ring never lied.",
+              "narration": "'You let me walk away,' she whispers. Elias only removes his gloves, revealing the royal signet ring that changes everything.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep8/scene6.jpg",
+              "caption": "The enemy is already here.",
+              "narration": "General Marek's voice hardens. 'Your Highness, there is a danger. The usurper who exiled you—he is already inside this building.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep8/scene7.jpg",
+              "caption": "A ghost from the past.",
+              "narration": "Elias scans the crowd of terrified faces—and freezes. Behind the CEO's desk sits a man he thought long dead.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-janitor-was-a-king/ep8/scene8.jpg",
+              "caption": "Only one can wear the crown.",
+              "narration": "The usurper rises with a smile. 'Welcome home, cousin. But a crown only fits one head.' A gunshot echoes through the lobby.",
               "durationSec": 10
             }
           ]
