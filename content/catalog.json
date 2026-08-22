@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T09:38:24.451Z",
+  "updatedAt": "2026-08-22T09:28:23.923Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2658,6 +2658,61 @@
               "caption": "Only one can wear the crown.",
               "narration": "The usurper rises with a smile. 'Welcome home, cousin. But a crown only fits one head.' A gunshot echoes through the lobby.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep9",
+          "index": 9,
+          "title": "The Kingdom Wants Its Throne Back",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep9/scene1.jpg",
+              "caption": "The kingdom has arrived.",
+              "narration": "The convoy of black cars pours through the office gates, banners of the exiled kingdom snapping in the wind. They have come for Marcus—the janitor who was born a king.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-janitor-was-a-king/ep9/scene2.jpg",
+              "caption": "They kneel to the man they mocked.",
+              "narration": "Marcus Vane stands in his faded gray janitor uniform, mop still in hand, as the royal guard kneels before him on the marble floor. The whole office watches, frozen.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-janitor-was-a-king/ep9/scene3.jpg",
+              "caption": "The throne stands empty.",
+              "narration": "General Aldric, scarred and grim, rises to speak. 'Your Highness, the usurper is dying. The throne is empty. The people are calling your name.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep9/scene4.jpg",
+              "caption": "Forgiven before she asked.",
+              "narration": "Elena pushes through the crowd, tears streaming. 'You knew all along and you let me betray you?' Marcus does not turn. 'I forgave you before you asked.'",
+              "durationSec": 12
+            },
+            {
+              "image": "the-janitor-was-a-king/ep9/scene5.jpg",
+              "caption": "A crown on a janitor's cart.",
+              "narration": "The general lays the crown upon the janitor's cart—gold gleaming beside a bucket of dirty water. 'Take what was stolen from you, my king.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep9/scene6.jpg",
+              "caption": "The usurper's last card.",
+              "narration": "But as Marcus reaches for the crown, his phone buzzes. A single photo—his young daughter, bound, a knife at her throat. The usurper's final move.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-janitor-was-a-king/ep9/scene7.jpg",
+              "caption": "A king rides to war.",
+              "narration": "Marcus lifts the crown at last—but his eyes burn with a father's fury. 'The kingdom can wait. My daughter cannot.' He turns to the door, and war begins.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-janitor-was-a-king/ep9/scene8.jpg",
+              "caption": "One shot changes everything.",
+              "narration": "As he steps outside, a sniper's red dot settles on his chest. Elena screams his name. The screen cuts to black on a single gunshot.",
+              "durationSec": 11
             }
           ]
         }
