@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T09:28:23.923Z",
+  "updatedAt": "2026-08-23T09:29:59.496Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2713,6 +2713,55 @@
               "caption": "One shot changes everything.",
               "narration": "As he steps outside, a sniper's red dot settles on his chest. Elena screams his name. The screen cuts to black on a single gunshot.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-janitor-was-a-king-ep10",
+          "index": 10,
+          "title": "Kneel, or Lose Everything You Stole",
+          "scenes": [
+            {
+              "image": "the-janitor-was-a-king/ep10/scene1.jpg",
+              "caption": "They summoned a servant. A sovereign arrived.",
+              "narration": "They dragged Elias into the boardroom expecting a broken janitor. Instead, a king walked in—crown of exile still fresh on his brow.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-janitor-was-a-king/ep10/scene2.jpg",
+              "caption": "The doors locked. So did his fate.",
+              "narration": "Mr. Crane, the CEO who once slapped him, laughed—until the royal guards sealed every exit.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep10/scene3.jpg",
+              "caption": "Everything you own was never yours.",
+              "narration": "He set the deeds on the table—every asset they stole was built on stolen crown land.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep10/scene4.jpg",
+              "caption": "She picked their side. Now she trembles.",
+              "narration": "Mara stood among them, torn between the people she'd chosen and the man she'd abandoned.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep10/scene5.jpg",
+              "caption": "Kneel—or lose it all.",
+              "narration": "\"Kneel,\" he commanded, \"or lose everything you stole.\" The word echoed like a blade.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-janitor-was-a-king/ep10/scene6.jpg",
+              "caption": "They all knelt. Except one.",
+              "narration": "One by one, the executives sank to their knees—all but Crane, whose hand crept toward a hidden phone.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-janitor-was-a-king/ep10/scene7.jpg",
+              "caption": "It was a trap from the start.",
+              "narration": "Crane pressed the button—and beyond the glass, armed men flooded the corridor. Mara screamed the truth: this was a trap all along.",
+              "durationSec": 10
             }
           ]
         }
