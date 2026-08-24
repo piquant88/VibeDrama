@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T09:29:59.496Z",
+  "updatedAt": "2026-08-24T09:50:34.346Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2762,6 +2762,84 @@
               "caption": "It was a trap from the start.",
               "narration": "Crane pressed the button—and beyond the glass, armed men flooded the corridor. Mara screamed the truth: this was a trap all along.",
               "durationSec": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "her-highness-wears-an-apron",
+      "title": "Her Highness Wears an Apron",
+      "tagline": "A runaway princess hides as a diner waitress, but the man she serves is the enemy who wants her crown.",
+      "genre": "Drama",
+      "cover": "her-highness-wears-an-apron/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Princess Who Poured His Coffee",
+        "A Tiara in the Trash Bin",
+        "He Offered Her a Job—and a Trap",
+        "The Photograph That Knew Her Real Name",
+        "Dancing With the Man Who Dethroned Her",
+        "Midnight Confession, Morning Betrayal",
+        "He Was the One Who Sold Her Kingdom",
+        "The Coronation Invitation Meant to Kill Her",
+        "She Walks Back Into the Palace",
+        "Crown, Enemy, or Both—Her Final Choice"
+      ],
+      "episodes": [
+        {
+          "id": "her-highness-wears-an-apron-ep1",
+          "index": 1,
+          "title": "The Princess Who Poured His Coffee",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene1.jpg",
+              "caption": "The crown she left behind",
+              "narration": "Princess Elara flees the palace with nothing but a stolen apron and a secret that could topple a kingdom. Tonight, she is no royal — only a waitress at a roadside diner.",
+              "durationSec": 14
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene2.jpg",
+              "caption": "Just one more shift",
+              "narration": "She swore she'd vanish forever. But fate has a cruel sense of humor.",
+              "durationSec": 6
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene3.jpg",
+              "caption": "The enemy at the door",
+              "narration": "Then the door opens — and in walks Damian Kane, the ruthless duke who hunts her crown.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene4.jpg",
+              "caption": "He has no idea who she is",
+              "narration": "He doesn't recognize her. To him she's nothing — a girl with a coffee pot and trembling hands.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene5.jpg",
+              "caption": "A bounty on a princess",
+              "narration": "On the table lies a folder — her royal portrait, circled in red ink. He's here to end her.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene6.jpg",
+              "caption": "Don't look at me",
+              "narration": "Her hand shakes. A single drop of coffee splashes onto his sleeve — and his cold eyes rise to meet hers.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene7.jpg",
+              "caption": "'Have we met before?'",
+              "narration": "'You look familiar,' he murmurs, catching her wrist. The whole kingdom hangs on this heartbeat.",
+              "durationSec": 7
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep1/scene8.jpg",
+              "caption": "Your Highness.",
+              "narration": "She wrenches free, and her cap tumbles — spilling a cascade of auburn hair he has seen before... on a wanted poster. Recognition ignites in his eyes.",
+              "durationSec": 12
             }
           ]
         }
