@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T09:50:34.346Z",
+  "updatedAt": "2026-08-25T09:37:11.471Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2839,6 +2839,61 @@
               "image": "her-highness-wears-an-apron/ep1/scene8.jpg",
               "caption": "Your Highness.",
               "narration": "She wrenches free, and her cap tumbles — spilling a cascade of auburn hair he has seen before... on a wanted poster. Recognition ignites in his eyes.",
+              "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep2",
+          "index": 2,
+          "title": "A Tiara in the Trash Bin",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene1.jpg",
+              "caption": "A crown buried in garbage.",
+              "narration": "In the cramped diner backroom, Princess Elara clutches a diamond tiara wrapped in a greasy dish towel. She hides it deep inside the trash bin, praying no one will ever find her true self.",
+              "durationSec": 15
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene2.jpg",
+              "caption": "The enemy has arrived.",
+              "narration": "But through the swinging door, Viktor Kane watches with cold, calculating eyes. The ruthless duke who hunts her crown has followed the trail to this very diner.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene3.jpg",
+              "caption": "Don't let him see the princess.",
+              "narration": "Elara spins around, heart pounding, and forces a trembling waitress smile. 'Table five, sir?' she stammers, hoping he won't recognize the girl beneath the apron.",
+              "durationSec": 11
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene4.jpg",
+              "caption": "He almost remembers her.",
+              "narration": "Viktor's gaze lingers on her face, a flicker of recognition burning in his eyes. 'You have the look of someone I once hunted,' he murmurs, stirring his coffee slowly.",
+              "durationSec": 13
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene5.jpg",
+              "caption": "The tiara is walking out the door!",
+              "narration": "A busboy grabs the trash bag, unaware of the treasure inside. Elara lunges, spilling coffee across Viktor's lap in sheer panic.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene6.jpg",
+              "caption": "The secret spills onto the floor.",
+              "narration": "Viktor seizes her wrist, and the greasy towel slips from her sleeve. The tiara tumbles onto the checkered floor, glittering like a betrayal.",
+              "durationSec": 10
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene7.jpg",
+              "caption": "Found. At last.",
+              "narration": "Their eyes meet over the fallen crown. 'Your Highness,' Viktor breathes, a triumphant smile spreading. 'I've been searching everywhere for you.'",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep2/scene8.jpg",
+              "caption": "Someone wants her dead.",
+              "narration": "But as Viktor reaches for the crown, a gunshot shatters the diner window. Elara screams — someone else wants the princess too, and they want her dead.",
               "durationSec": 12
             }
           ]
