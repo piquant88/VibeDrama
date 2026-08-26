@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T09:37:11.471Z",
+  "updatedAt": "2026-08-26T09:43:26.536Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2895,6 +2895,61 @@
               "caption": "Someone wants her dead.",
               "narration": "But as Viktor reaches for the crown, a gunshot shatters the diner window. Elara screams — someone else wants the princess too, and they want her dead.",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep3",
+          "index": 3,
+          "title": "He Offered Her a Job—and a Trap",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene1.jpg",
+              "caption": "He came back for her.",
+              "narration": "He returns to her diner at dawn, his dark eyes searching for her face beneath the harsh fluorescent lights.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene2.jpg",
+              "caption": "A job offer with hidden claws.",
+              "narration": "\"I'm looking for an assistant,\" he says smoothly. \"Someone discreet. Someone like you.\" She feels the trap closing.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene3.jpg",
+              "caption": "The enemy holds out a golden lie.",
+              "narration": "She knows this man wants her crown—but the pay could buy her freedom. Every instinct screams run.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene4.jpg",
+              "caption": "Her stolen crown remembers everything.",
+              "narration": "In the kitchen she clutches the discarded tiara, its jewels dulled by dust. Her past will not stay buried.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene5.jpg",
+              "caption": "She takes the bait—on purpose.",
+              "narration": "\"I accept,\" she whispers, chin high like the royalty she buried. If he wants a game, she will play it too.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene6.jpg",
+              "caption": "Into the heart of the enemy.",
+              "narration": "He drives her to a towering glass headquarters, its shadow swallowing the city. She steps into the lion's den.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene7.jpg",
+              "caption": "He hunts a princess he already found.",
+              "narration": "On his office wall hangs a royal portrait—her family's crest. \"I've been hunting your princess for years,\" he says, not knowing she is the prey.",
+              "durationSec": 11
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep3/scene8.jpg",
+              "caption": "One photo away from the truth.",
+              "narration": "Then his phone lights up with a photo—the runaway princess's face. Her face. His thumb hovers over it, and slowly, he turns to look at her.",
+              "durationSec": 11
             }
           ]
         }
