@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T09:43:26.536Z",
+  "updatedAt": "2026-08-27T19:40:22.703Z",
   "series": [
     {
       "id": "contract-bride",
@@ -2950,6 +2950,61 @@
               "caption": "One photo away from the truth.",
               "narration": "Then his phone lights up with a photo—the runaway princess's face. Her face. His thumb hovers over it, and slowly, he turns to look at her.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep4",
+          "index": 4,
+          "title": "The Photograph That Knew Her Real Name",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene1.jpg",
+              "caption": "An envelope with no name.",
+              "narration": "Elena wipes down the counter of the fading diner, her secret buried beneath a stained apron. But tonight, a manila envelope arrives with no return address.",
+              "durationSec": 11
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene2.jpg",
+              "caption": "The photo that knows the truth.",
+              "narration": "Inside lies a photograph—a girl in a diamond tiara, standing on palace steps. It is her. It is the life she fled.",
+              "durationSec": 10
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene3.jpg",
+              "caption": "He was watching all along.",
+              "narration": "Across the room, Damien watches her from a corner booth, cold eyes calculating. He is the enemy who craves her stolen crown.",
+              "durationSec": 10
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene4.jpg",
+              "caption": "'I know, Princess.'",
+              "narration": "On the back, three words in cruel ink: 'I know, Princess.' Her heart slams against her ribs.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene5.jpg",
+              "caption": "Trust no one now.",
+              "narration": "She spins toward Damien, betrayal burning in her chest. Did he send this? Or is another hunter closing in?",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene6.jpg",
+              "caption": "He's not the only one hunting.",
+              "narration": "Damien rises and crosses to her, sliding a matching photograph onto the counter. 'Someone else is looking for you,' he murmurs.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene7.jpg",
+              "caption": "The hunter has arrived.",
+              "narration": "Then the diner door swings open. A tall stranger in a black coat steps in from the rain, holding the very same photograph.",
+              "durationSec": 10
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep4/scene8.jpg",
+              "caption": "Nowhere left to run.",
+              "narration": "Elena's world collapses—her past has found her, and there is nowhere left to run. The stranger lifts his eyes and smiles.",
+              "durationSec": 9
             }
           ]
         }
