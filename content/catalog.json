@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T19:40:22.703Z",
+  "updatedAt": "2026-08-28T20:45:09.779Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3004,6 +3004,61 @@
               "image": "her-highness-wears-an-apron/ep4/scene8.jpg",
               "caption": "Nowhere left to run.",
               "narration": "Elena's world collapses—her past has found her, and there is nowhere left to run. The stranger lifts his eyes and smiles.",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep5",
+          "index": 5,
+          "title": "Dancing With the Man Who Dethroned Her",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene1.jpg",
+              "caption": "The enemy's ballroom. Her stolen crown.",
+              "narration": "The charity gala glitters like the palace she abandoned. But tonight, Elena serves champagne to the very man who stole her throne.",
+              "durationSec": 10
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene2.jpg",
+              "caption": "He never forgets a face.",
+              "narration": "Damon Kane, the ruthless usurper, watches her from across the marble floor. His eyes narrow—he remembers that face.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene3.jpg",
+              "caption": "'Dance with me.' It isn't a request.",
+              "narration": "'Dance with me,' he commands, taking her hand before she can flee. His grip is iron; his smile is a blade.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene4.jpg",
+              "caption": "'You dance like royalty.'",
+              "narration": "They move as one, though her heart pounds with terror. 'You dance like royalty,' he whispers. 'Strange, for a waitress.'",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene5.jpg",
+              "caption": "Her lie trembles on her lips.",
+              "narration": "Elena forces a laugh, spinning away. 'A girl learns from movies, sir.' But her poise betrays a lifetime of palace ballrooms.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene6.jpg",
+              "caption": "The photograph returns.",
+              "narration": "He pulls her back, closer now. From his pocket he slides the old photograph—the princess who vanished. 'Then explain this.'",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene7.jpg",
+              "caption": "'Hello, Your Highness.'",
+              "narration": "Her mask shatters. The music swells as guests turn to stare. Damon's voice drops to ice: 'Hello, Your Highness.'",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep5/scene8.jpg",
+              "caption": "The guards came. But for whom?",
+              "narration": "Suddenly the ballroom doors burst open—armed royal guards flood in, weapons raised. And they're aiming... not at her, but at Damon.",
               "durationSec": 9
             }
           ]
