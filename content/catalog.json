@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T20:45:09.779Z",
+  "updatedAt": "2026-08-29T14:13:26.046Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3059,6 +3059,61 @@
               "image": "her-highness-wears-an-apron/ep5/scene8.jpg",
               "caption": "The guards came. But for whom?",
               "narration": "Suddenly the ballroom doors burst open—armed royal guards flood in, weapons raised. And they're aiming... not at her, but at Damon.",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep6",
+          "index": 6,
+          "title": "Midnight Confession, Morning Betrayal",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene1.jpg",
+              "caption": "I can't hide who I am anymore.",
+              "narration": "Midnight bleeds through the diner windows as Elena finally lowers her guard, her secret trembling on her lips.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene2.jpg",
+              "caption": "Tell me everything. I'll protect you.",
+              "narration": "Across the table sits Adrian, the ruthless man who stole her throne—yet tonight his eyes seem almost tender.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene3.jpg",
+              "caption": "I am the princess they're hunting.",
+              "narration": "She confesses it all—the runaway crown, the stolen name, the fear that haunts her every night.",
+              "durationSec": 7
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene4.jpg",
+              "caption": "Maybe I can finally trust someone.",
+              "narration": "For one fragile moment, their hands meet, and Elena dares to believe the enemy could become her sanctuary.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene5.jpg",
+              "caption": "Where did he go?",
+              "narration": "But dawn arrives cruel and cold, and Elena awakens to find Adrian's side of the bed empty.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene6.jpg",
+              "caption": "He signed my capture.",
+              "narration": "On the nightstand lies a document bearing the royal seal—and her own arrest warrant, signed in his hand.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene7.jpg",
+              "caption": "Every word was a lie.",
+              "narration": "Through the window she sees Adrian below, shaking hands with royal guards, betrayal etched into his triumphant smile.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep6/scene8.jpg",
+              "caption": "They're coming for me now.",
+              "narration": "As boots thunder up the stairs, Elena clutches her tiara one last time—love and treason now wearing the same face.",
               "durationSec": 9
             }
           ]
