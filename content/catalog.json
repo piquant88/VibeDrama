@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T14:13:26.046Z",
+  "updatedAt": "2026-08-30T14:19:20.435Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3114,6 +3114,61 @@
               "image": "her-highness-wears-an-apron/ep6/scene8.jpg",
               "caption": "They're coming for me now.",
               "narration": "As boots thunder up the stairs, Elena clutches her tiara one last time—love and treason now wearing the same face.",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep7",
+          "index": 7,
+          "title": "He Was the One Who Sold Her Kingdom",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene1.jpg",
+              "caption": "The papers that stole her throne.",
+              "narration": "The morning after his confession, Elara finds the truth buried in his own briefcase—a signed decree bearing her family's royal seal.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene2.jpg",
+              "caption": "He sold her kingdom—for a fortune.",
+              "narration": "Every whispered promise he ever made was a lie signed in ink. He was the one who sold her kingdom.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene3.jpg",
+              "caption": "He doesn't know she knows.",
+              "narration": "Damien enters, charming as ever, unaware that his darkest secret now trembles in her hands.",
+              "durationSec": 7
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene4.jpg",
+              "caption": "One wrong word ends everything.",
+              "narration": "She hides the decree behind her back, her heart pounding like a war drum. One wrong word could cost her everything.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene5.jpg",
+              "caption": "The seal falls—and so does her secret.",
+              "narration": "But the wax seal slips from her fingers, shattering on the marble floor between them.",
+              "durationSec": 7
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene6.jpg",
+              "caption": "The mask finally cracks.",
+              "narration": "His eyes drop to the seal. In an instant, the charming mask cracks into something cold and dangerous.",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene7.jpg",
+              "caption": "'I was never here to love you.'",
+              "narration": "'You were never a waitress,' he whispers. 'And I was never here to love you.'",
+              "durationSec": 7
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep7/scene8.jpg",
+              "caption": "Who's at the door?",
+              "narration": "Then a knock thunders at the door—royal guards, or something far worse. Elara's stolen future hangs on who stands outside.",
               "durationSec": 9
             }
           ]
