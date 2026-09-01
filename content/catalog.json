@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:19:20.435Z",
+  "updatedAt": "2026-09-01T13:59:38.998Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3170,6 +3170,61 @@
               "caption": "Who's at the door?",
               "narration": "Then a knock thunders at the door—royal guards, or something far worse. Elara's stolen future hangs on who stands outside.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep8",
+          "index": 8,
+          "title": "The Coronation Invitation Meant to Kill Her",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene1.jpg",
+              "caption": "A coronation invitation... in her enemy's hand.",
+              "narration": "The envelope arrives sealed in royal wax, gold thread woven through cream paper. Elara knows this crest — it once belonged to her family, before he stole it.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene2.jpg",
+              "caption": "He wants me to watch him take the crown.",
+              "narration": "Damian steps from the shadows, tall and immaculate in his black suit, the man who dethroned her. He smiles as though he hasn't already planned her death.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene3.jpg",
+              "caption": "The invitation is bait. I am the prey.",
+              "narration": "'Come to my coronation,' he whispers. 'Wear something worthy of a queen.' But Elara sees the guards behind him — and knows the invitation is a trap.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene4.jpg",
+              "caption": "They took everything but this.",
+              "narration": "Alone in the storeroom, she pulls the hidden tiara from beneath the flour sacks. Its diamonds glint — the last proof that she is the rightful heir.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene5.jpg",
+              "caption": "A secret ally... or another lie?",
+              "narration": "A note falls from the envelope's lining. Scrawled in a stranger's hand: 'Do not attend. He will kill you before the vows.' Someone inside his court is protecting her.",
+              "durationSec": 13
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene6.jpg",
+              "caption": "I will not hide as a waitress any longer.",
+              "narration": "But Elara has stopped running. She wipes her tears, lifts her chin, and sets the tiara upon her head. If death waits at the coronation, she will meet it as a queen.",
+              "durationSec": 14
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene7.jpg",
+              "caption": "He toasts to a crown he'll never keep.",
+              "narration": "At the grand cathedral, Damian raises a golden goblet in toast. He does not know she has slipped past his guards, hidden among the crowd, watching, waiting.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep8/scene8.jpg",
+              "caption": "The princess returns... as the shot rings out.",
+              "narration": "As the archbishop lifts the crown, Elara throws back her hood. Gasps ripple through the hall. Damian's smile freezes — and a gunshot cracks through the cathedral.",
+              "durationSec": 12
             }
           ]
         }
