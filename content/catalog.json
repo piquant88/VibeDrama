@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T13:59:38.998Z",
+  "updatedAt": "2026-09-02T13:21:48.365Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3225,6 +3225,61 @@
               "caption": "The princess returns... as the shot rings out.",
               "narration": "As the archbishop lifts the crown, Elara throws back her hood. Gasps ripple through the hall. Damian's smile freezes — and a gunshot cracks through the cathedral.",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep9",
+          "index": 9,
+          "title": "She Walks Back Into the Palace",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene1.jpg",
+              "caption": "She returns to the throne that was stolen.",
+              "narration": "The palace gates open before her like the jaws of a beast she once called home. Elena straightens her spine—no apron now, only a stolen gown and a heart full of vengeance.",
+              "durationSec": 14
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene2.jpg",
+              "caption": "The enemy she once loved.",
+              "narration": "Inside, Viktor waits—the man who dethroned her, who kissed her under diner lights and sold her crown by dawn. His smile is a blade wrapped in silk.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene3.jpg",
+              "caption": "He knows everything.",
+              "narration": "'You wore an apron to hide from me,' he murmurs. 'But queens can't hide forever.' Elena's fingers tighten around the concealed invitation—the one meant to be her death sentence.",
+              "durationSec": 13
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene4.jpg",
+              "caption": "A room full of traitors.",
+              "narration": "The great hall fills with the nobles who betrayed her. Every bow is a lie, every smile a knife. Elena walks the red carpet alone, surrounded by wolves in crowns.",
+              "durationSec": 13
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene5.jpg",
+              "caption": "Her birthright, within reach.",
+              "narration": "At the throne's foot, she sees it—the empty crown of her mother, glittering under the lights. So close. So heavy with betrayal.",
+              "durationSec": 10
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene6.jpg",
+              "caption": "It was a trap all along.",
+              "narration": "'Take it,' Viktor whispers behind her. 'Reach for the crown—and prove to them all you're the traitor's daughter.' It's the trap. She sees it now, too late.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene7.jpg",
+              "caption": "No way out.",
+              "narration": "Steel rings from every corner as palace guards draw their swords, encircling her. The doors slam shut. Elena is trapped in the heart of her stolen kingdom.",
+              "durationSec": 12
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep9/scene8.jpg",
+              "caption": "Someone she thought was dead...",
+              "narration": "Then a voice cuts through the silence—a voice she buried long ago. 'Arrest that man. The true queen has returned.' Elena turns, breathless, as the impossible figure steps from the shadows.",
+              "durationSec": 13
             }
           ]
         }
