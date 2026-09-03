@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T13:21:48.365Z",
+  "updatedAt": "2026-09-03T13:20:30.701Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3279,6 +3279,61 @@
               "image": "her-highness-wears-an-apron/ep9/scene8.jpg",
               "caption": "Someone she thought was dead...",
               "narration": "Then a voice cuts through the silence—a voice she buried long ago. 'Arrest that man. The true queen has returned.' Elena turns, breathless, as the impossible figure steps from the shadows.",
+              "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "her-highness-wears-an-apron-ep10",
+          "index": 10,
+          "title": "Crown, Enemy, or Both—Her Final Choice",
+          "scenes": [
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene1.jpg",
+              "caption": "The waitress returns as a queen.",
+              "narration": "Princess Elara walks the marble throne room, apron traded for a crimson coronation gown, her chestnut hair crowned in defiance. Every step echoes with the weight of a stolen kingdom.",
+              "durationSec": 13
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene2.jpg",
+              "caption": "The enemy she still loves.",
+              "narration": "Damian, the man who dethroned her, waits by the throne in his black military coat, a pistol hidden beneath his medals. His cold blue eyes betray a war between love and ambition.",
+              "durationSec": 14
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene3.jpg",
+              "caption": "She refuses to be a pawn.",
+              "narration": "'You invited me here to die,' Elara whispers, stepping closer. 'But I came to take back what's mine.'",
+              "durationSec": 8
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene4.jpg",
+              "caption": "The assassin hesitates.",
+              "narration": "He draws the pistol, hand trembling. 'They ordered your death. But I—I cannot pull the trigger.'",
+              "durationSec": 7
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene5.jpg",
+              "caption": "The real enemy arrives.",
+              "narration": "Suddenly the great doors burst open—armed guards flood in, loyal to the conspirators. Elara realizes the trap was never only his.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene6.jpg",
+              "caption": "He chooses her over power.",
+              "narration": "Damian shoves Elara behind him, raising his weapon at his own men. 'If you want her crown, you go through me first.'",
+              "durationSec": 10
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene7.jpg",
+              "caption": "The price of betrayal.",
+              "narration": "A gunshot cracks through the hall. Elara screams as Damian falls to his knees, crimson blooming across his chest.",
+              "durationSec": 9
+            },
+            {
+              "image": "her-highness-wears-an-apron/ep10/scene8.jpg",
+              "caption": "Her final choice awaits.",
+              "narration": "As Elara cradles him, the lead conspirator lowers his smoking gun and smiles: 'Now, Your Highness—the crown, or his life.' The screen cuts to black on her breaking heart.",
               "durationSec": 13
             }
           ]
