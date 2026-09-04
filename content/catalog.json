@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T13:20:30.701Z",
+  "updatedAt": "2026-09-04T13:14:38.883Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3335,6 +3335,84 @@
               "caption": "Her final choice awaits.",
               "narration": "As Elara cradles him, the lead conspirator lowers his smoking gun and smiles: 'Now, Your Highness—the crown, or his life.' The screen cuts to black on her breaking heart.",
               "durationSec": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-divorce-papers-she-never-signed",
+      "title": "The Divorce Papers She Never Signed",
+      "tagline": "They declared her dead to steal her fortune—now she's back to collect every cent, with interest.",
+      "genre": "Revenge",
+      "cover": "the-divorce-papers-she-never-signed/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Funeral Where She Wasn't Dead",
+        "Signing Away a Fortune She Never Owned",
+        "The Mistress Moves Into My Bedroom",
+        "A Stranger Offers Me a Blank Check",
+        "The Board Vote That Buried My Name",
+        "I Was the CEO They Fired",
+        "Midpoint: My Sister Held the Poison",
+        "The Ally Who Sold Me to My Enemy",
+        "Every Secret Account Bears My Signature",
+        "The Papers She Never Signed Sign Their End"
+      ],
+      "episodes": [
+        {
+          "id": "the-divorce-papers-she-never-signed-ep1",
+          "index": 1,
+          "title": "The Funeral Where She Wasn't Dead",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene1.jpg",
+              "caption": "They said I was dead. They were wrong.",
+              "narration": "They buried an empty casket and called it grief. But Vivienne Blackwood was very much alive—watching her own funeral from the shadows.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene2.jpg",
+              "caption": "My husband. My sister. My betrayal.",
+              "narration": "At the grave stood her husband Adrian—drying crocodile tears, his arm around another woman.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene3.jpg",
+              "caption": "They forged my death for my fortune.",
+              "narration": "The blonde was Celeste—her own sister. Together they'd forged the death certificate that made them millionaires.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene4.jpg",
+              "caption": "They left me to burn. I survived.",
+              "narration": "Six months ago they'd left her for dead in a burning car. But fate—and a stranger—had other plans.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene5.jpg",
+              "caption": "The papers I never signed changed everything.",
+              "narration": "Now she held the one thing they never expected—the divorce papers she never signed. Every asset still legally hers.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene6.jpg",
+              "caption": "Time to haunt the living.",
+              "narration": "As the mourners dispersed, Vivienne stepped from the shadows into the rain. It was time they saw a ghost.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene7.jpg",
+              "caption": "Hello, darling. Miss me?",
+              "narration": "Adrian turned—and the champagne glass slipped from his fingers, shattering on marble. His dead wife was smiling at him.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep1/scene8.jpg",
+              "caption": "I'm back to collect every cent.",
+              "narration": "Celeste screamed. Adrian went pale. And Vivienne raised the unsigned papers like a blade. The reckoning had only just begun.",
+              "durationSec": 9
             }
           ]
         }
