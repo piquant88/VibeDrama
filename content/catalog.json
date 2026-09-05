@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T13:14:38.883Z",
+  "updatedAt": "2026-09-05T12:28:38.736Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3413,6 +3413,61 @@
               "caption": "I'm back to collect every cent.",
               "narration": "Celeste screamed. Adrian went pale. And Vivienne raised the unsigned papers like a blade. The reckoning had only just begun.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep2",
+          "index": 2,
+          "title": "Signing Away a Fortune She Never Owned",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene1.jpg",
+              "caption": "They toasted my death. I toasted their downfall.",
+              "narration": "Elena Vance stands in the shadows of her own mansion, watching her husband celebrate her death with champagne. They think she's buried—but she's very much alive.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene2.jpg",
+              "caption": "He forged my name to bury me twice.",
+              "narration": "Marcus Vance, her ruthless husband, signs the estate papers with a stranger's forged signature—her signature. Every stroke of ink steals a fortune she never surrendered.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene3.jpg",
+              "caption": "My sister wore my jewels to my funeral.",
+              "narration": "Beside him stands Vivian, her own sister, wearing Elena's stolen diamond necklace like a trophy. Betrayal has a face, and it smiles.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene4.jpg",
+              "caption": "They killed me on paper before the plan began.",
+              "narration": "Elena slips into the study after midnight, uncovering the death certificate they filed—dated three days before she was ever 'gone.' The truth is worse than she feared.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene5.jpg",
+              "caption": "Every account emptied. Every trace erased.",
+              "narration": "A hidden ledger reveals millions funneled offshore in her name. Marcus didn't just want her dead—he wanted her invisible.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene6.jpg",
+              "caption": "One sound and my resurrection ends here.",
+              "narration": "Footsteps echo down the hall. Vivian's voice draws near, calling Marcus's name. Elena has seconds to vanish or be discovered.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene7.jpg",
+              "caption": "The papers she never signed. Now they'll know.",
+              "narration": "But she leaves them a message—a single divorce paper, unsigned, placed exactly where Marcus will find it. Her handwriting reads: 'I never signed.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep2/scene8.jpg",
+              "caption": "The corpse just signed her revenge in ink.",
+              "narration": "Marcus returns to find the document glaring back at him. His face drains white as he realizes—the dead woman knows everything. And she's coming.",
+              "durationSec": 11
             }
           ]
         }
