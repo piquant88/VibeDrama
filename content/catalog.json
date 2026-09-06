@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T12:28:38.736Z",
+  "updatedAt": "2026-09-06T12:41:29.082Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3468,6 +3468,61 @@
               "caption": "The corpse just signed her revenge in ink.",
               "narration": "Marcus returns to find the document glaring back at him. His face drains white as he realizes—the dead woman knows everything. And she's coming.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep3",
+          "index": 3,
+          "title": "The Mistress Moves Into My Bedroom",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene1.jpg",
+              "caption": "Someone's moving into my house.",
+              "narration": "Elena stands frozen at her own front door, watching another woman's suitcases roll into her marriage. The house she built with blood and sacrifice now smells of a stranger's perfume.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene2.jpg",
+              "caption": "She's throwing away my whole life.",
+              "narration": "Camila, the mistress, sashays through the master bedroom like she owns it, draping silk over the bed where Elena once slept. She laughs, tossing Elena's photographs into a wastebasket.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene3.jpg",
+              "caption": "He buried me to make room for her.",
+              "narration": "From the hallway, Elena watches her husband Marcus embrace the intruder, kissing her forehead like a devoted groom. The man who declared her dead now blooms with cruel happiness.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene4.jpg",
+              "caption": "They think the dead can't fight back.",
+              "narration": "Elena's fists clench as she remembers the forged death certificate, the stolen accounts, the funeral she attended in disguise. Every betrayal sharpens into a single, burning resolve.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene5.jpg",
+              "caption": "Did you see her too?",
+              "narration": "Camila spots her reflection in the mirror—and behind it, a ghost. She whirls around, but the hallway is empty, only a single black glove left on the floor.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene6.jpg",
+              "caption": "I built this fortune. I'll take it back.",
+              "narration": "That night, Elena slips into the mansion, her heels silent on the marble. She glides past the sleeping lovers and opens the hidden safe she alone knows the code to.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene7.jpg",
+              "caption": "He knew I was alive all along.",
+              "narration": "But the safe is empty—save for a note in her husband's handwriting. 'Welcome home, darling. I've been waiting for you.' The trap was never hers to spring.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep3/scene8.jpg",
+              "caption": "He turned my resurrection into a crime.",
+              "narration": "The bedroom light snaps on. Marcus stands smiling in the doorway, phone raised to his ear. 'Officer, the intruder who faked her death is right here—come arrest her.'",
+              "durationSec": 12
             }
           ]
         }
