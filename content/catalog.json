@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T12:41:29.082Z",
+  "updatedAt": "2026-09-07T14:53:07.629Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3523,6 +3523,61 @@
               "caption": "He turned my resurrection into a crime.",
               "narration": "The bedroom light snaps on. Marcus stands smiling in the doorway, phone raised to his ear. 'Officer, the intruder who faked her death is right here—come arrest her.'",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep4",
+          "index": 4,
+          "title": "A Stranger Offers Me a Blank Check",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene1.jpg",
+              "caption": "He found me at my lowest.",
+              "narration": "They think I'm broke and desperate, hiding in a rented room while they spend my fortune. But tonight, a stranger in a black coat finds me.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene2.jpg",
+              "caption": "A blank check. Any amount.",
+              "narration": "He slides a briefcase across the table and opens it. Inside sits a single blank check and a fountain pen.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene3.jpg",
+              "caption": "'Name your price.'",
+              "narration": "'Name your price,' he says. 'Walk away from the Ashford family forever, and this is yours.' My hands begin to tremble.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene4.jpg",
+              "caption": "I know exactly who sent him.",
+              "narration": "But I know this face. This is Richard's lawyer—the same man who declared me dead. They don't want to buy me. They want to bury me.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene5.jpg",
+              "caption": "I tore it in half.",
+              "narration": "'Tell Richard I'm not for sale,' I whisper, tearing the check in half. Voss's smile vanishes into something cruel.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene6.jpg",
+              "caption": "'The next visitor won't be generous.'",
+              "narration": "'You should have taken the money,' he says softly. 'Because the next visitor won't be so generous.' He turns and leaves.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene7.jpg",
+              "caption": "They're watching me right now.",
+              "narration": "I lock the door, heart pounding. Then my phone lights up—an unknown number. A photo loads: me, at this very window, taken minutes ago.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep4/scene8.jpg",
+              "caption": "The doorknob started to turn...",
+              "narration": "The text reads: 'Dead women shouldn't tear up checks.' Then, behind me, the doorknob slowly begins to turn.",
+              "durationSec": 8
             }
           ]
         }
