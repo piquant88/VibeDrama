@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T14:53:07.629Z",
+  "updatedAt": "2026-09-08T13:23:12.636Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3578,6 +3578,61 @@
               "caption": "The doorknob started to turn...",
               "narration": "The text reads: 'Dead women shouldn't tear up checks.' Then, behind me, the doorknob slowly begins to turn.",
               "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep5",
+          "index": 5,
+          "title": "The Board Vote That Buried My Name",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene1.jpg",
+              "caption": "They're voting to bury my name.",
+              "narration": "They gather in the glass tower to erase me from history. My name, my company, my legacy—reduced to a single line on a ballot they can't wait to strike.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene2.jpg",
+              "caption": "He toasts to my erasure.",
+              "narration": "Marcus raises his glass, toasting the wife he declared dead. He thinks the last obstacle is gone. He forgets ghosts keep their voting shares.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene3.jpg",
+              "caption": "Surprise. The dead voted.",
+              "narration": "The elevator doors part. I walk in wearing the crimson they buried me in. Every head turns. Every heart stops.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene4.jpg",
+              "caption": "'I never signed anything.'",
+              "narration": "Selena's glass shatters on the marble. Marcus goes white. 'You signed the divorce,' he chokes. I smile: 'I never signed anything.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene5.jpg",
+              "caption": "The forgery, exposed.",
+              "narration": "I slide the real papers across the table—proof the death certificate was forged, proof the shares were always mine. The board's loyalty flips in a heartbeat.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene6.jpg",
+              "caption": "The stranger owns everything now.",
+              "narration": "Then the doors open again. Adrian, the silver-haired stranger with the blank check, steps in holding forty-one percent of the company he bought overnight.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene7.jpg",
+              "caption": "Three words that changed everything.",
+              "narration": "'Cast your vote, gentlemen,' Adrian says. 'But it's her name on the door now.' Marcus lunges for me—and Adrian whispers three words that freeze the room.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep5/scene8.jpg",
+              "caption": "'She's my daughter.'",
+              "narration": "'She's my daughter.' The words detonate. Every deal, every lie, every betrayal—rewritten in an instant. And Marcus finally understands: he never stood a chance.",
+              "durationSec": 11
             }
           ]
         }
