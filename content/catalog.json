@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T13:23:12.636Z",
+  "updatedAt": "2026-09-09T13:31:39.979Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3633,6 +3633,61 @@
               "caption": "'She's my daughter.'",
               "narration": "'She's my daughter.' The words detonate. Every deal, every lie, every betrayal—rewritten in an instant. And Marcus finally understands: he never stood a chance.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep6",
+          "index": 6,
+          "title": "I Was the CEO They Fired",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene1.jpg",
+              "caption": "They took everything. Not for long.",
+              "narration": "They fired me from the company I built with my own blood. But the man with the blank check knew who I truly was.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene2.jpg",
+              "caption": "He knew the truth all along.",
+              "narration": "Elias Crane, billionaire investor, silver-haired and sharp in his charcoal suit, slides a folder across the marble table. Inside is proof of everything they stole from me.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene3.jpg",
+              "caption": "Forty percent. In my name.",
+              "narration": "'I own forty percent of the shares now,' he says. 'And they belong to you.' My hands tremble at the impossible truth.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene4.jpg",
+              "caption": "They celebrate too soon.",
+              "narration": "In the boardroom, my ex-husband Marcus toasts my downfall. His mistress Selena laughs at my empty chair.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene5.jpg",
+              "caption": "The dead CEO returns.",
+              "narration": "The elevator doors open. I walk in wearing the coat they buried me in. The champagne freezes halfway to his lips.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene6.jpg",
+              "caption": "Your vote means nothing now.",
+              "narration": "'The vote is void,' I announce. 'Controlling shares just changed hands.' Marcus's glass shatters on the floor.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene7.jpg",
+              "caption": "Meet my partner.",
+              "narration": "Elias enters behind me, hand on my shoulder. 'Meet your new majority partner,' I smile. Selena's face drains of all color.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep6/scene8.jpg",
+              "caption": "His father?!",
+              "narration": "But as Elias leans close, he whispers something that stops my heart: 'There's a reason I saved you, Vivian. I'm your husband's father.'",
+              "durationSec": 10
             }
           ]
         }
