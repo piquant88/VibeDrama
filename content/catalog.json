@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T13:31:39.979Z",
+  "updatedAt": "2026-09-10T13:23:00.102Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3688,6 +3688,61 @@
               "caption": "His father?!",
               "narration": "But as Elias leans close, he whispers something that stops my heart: 'There's a reason I saved you, Vivian. I'm your husband's father.'",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep7",
+          "index": 7,
+          "title": "Midpoint: My Sister Held the Poison",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene1.jpg",
+              "caption": "The vial they buried with my name.",
+              "narration": "They told the world I died of a sudden illness. Tonight, an old hospital vial resurfaces, and the truth begins to bleed through.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene2.jpg",
+              "caption": "She poured the tea herself.",
+              "narration": "I trusted only one person the night I collapsed. My little sister. The one who fed me my last cup of tea.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene3.jpg",
+              "caption": "My sister signed for the poison.",
+              "narration": "The lab report names the poison. The signature on the pharmacy log names the buyer. Camille. My own blood.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene4.jpg",
+              "caption": "They wear my life like a costume.",
+              "narration": "I find her in my old bedroom, wearing my pearls, laughing with my husband. Two thieves who thought death was permanent.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene5.jpg",
+              "caption": "Surprise. The dead came home.",
+              "narration": "When I step from the shadows, the pearls fall from her throat. My sister sees a ghost she thought she'd murdered.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene6.jpg",
+              "caption": "She's still holding the poison.",
+              "narration": "Camille sobs that she was forced, that Adrian made her do it. But her trembling hand still curls around a fresh vial.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene7.jpg",
+              "caption": "She never stopped choosing him.",
+              "narration": "I offer forgiveness, one hand extended. She takes it, weeping. Then I feel the cold prick of a needle sink into my wrist.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep7/scene8.jpg",
+              "caption": "To be continued...",
+              "narration": "My vision blurs, the room tilts, and above me Adrian smiles. This time, they intend to make sure I stay buried.",
+              "durationSec": 9
             }
           ]
         }
