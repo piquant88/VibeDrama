@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T13:23:00.102Z",
+  "updatedAt": "2026-09-11T13:21:38.010Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3743,6 +3743,61 @@
               "caption": "To be continued...",
               "narration": "My vision blurs, the room tilts, and above me Adrian smiles. This time, they intend to make sure I stay buried.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep8",
+          "index": 8,
+          "title": "The Ally Who Sold Me to My Enemy",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene1.jpg",
+              "caption": "He was the only ally I had left.",
+              "narration": "Vivian trusted only one person after her fake funeral—her old friend Marcus, who swore he'd help her reclaim everything.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene2.jpg",
+              "caption": "Everything I needed to destroy them.",
+              "narration": "He hands her a folder of evidence—proof of her husband's crimes. It feels too easy, too perfect.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene3.jpg",
+              "caption": "Why is HE calling you?",
+              "narration": "But as she reaches for it, his phone buzzes. A name flashes that makes her blood freeze.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene4.jpg",
+              "caption": "You've been working for him all along.",
+              "narration": "The caller is Julian—her husband, the man who declared her dead. Marcus's guilty eyes tell her everything.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene5.jpg",
+              "caption": "How much was my life worth to you?",
+              "narration": "\"How much did they pay you to sell me out?\" she demands. Marcus can't meet her eyes.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene6.jpg",
+              "caption": "Welcome to your own trap.",
+              "narration": "The lounge doors swing open. Julian steps in with the mistress on his arm, smiling like a predator.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene7.jpg",
+              "caption": "You walked right into my hands.",
+              "narration": "\"The folder was bait,\" Julian purrs. \"Everything you touched tonight is now evidence against you.\"",
+              "durationSec": 7
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep8/scene8.jpg",
+              "caption": "Did you really think I came alone?",
+              "narration": "Then Vivian smiles too—and pulls out a second phone. \"I recorded every word, Julian.\" His face drains white.",
+              "durationSec": 8
             }
           ]
         }
