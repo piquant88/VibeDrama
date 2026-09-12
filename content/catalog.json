@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T13:21:38.010Z",
+  "updatedAt": "2026-09-12T12:42:53.833Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3798,6 +3798,61 @@
               "caption": "Did you really think I came alone?",
               "narration": "Then Vivian smiles too—and pulls out a second phone. \"I recorded every word, Julian.\" His face drains white.",
               "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep9",
+          "index": 9,
+          "title": "Every Secret Account Bears My Signature",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene1.jpg",
+              "caption": "Every account carries my name.",
+              "narration": "They thought forging my name was easy. But every secret account they built to steal my fortune still bears my signature.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene2.jpg",
+              "caption": "A forgery is still a trail.",
+              "narration": "Marcus laundered millions through shell companies. What he forgot is that a forged signature is still a fingerprint.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene3.jpg",
+              "caption": "The dead came back to testify.",
+              "narration": "Down the hall, my husband Marcus toasts his mistress, certain the dead can't testify. He is wrong.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene4.jpg",
+              "caption": "Diana signed with my dead hand.",
+              "narration": "I trace every transfer back to one hidden vault account—the one my sister Diana opened in my name.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene5.jpg",
+              "caption": "Every cent, frozen in seconds.",
+              "narration": "With one call to my lawyer, I freeze it all. Their empire of lies collapses account by account.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene6.jpg",
+              "caption": "His empire evaporates in real time.",
+              "narration": "Marcus's phone erupts. Card declined. Accounts drained. Panic floods his golden penthouse.",
+              "durationSec": 6
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene7.jpg",
+              "caption": "The ghost walks in with proof.",
+              "narration": "I step into their party uninvited, the ghost they buried, holding the proof that damns them all.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep9/scene8.jpg",
+              "caption": "Diana aims the gun at me.",
+              "narration": "Marcus laughs coldly: 'Sign these and disappear, or your sister goes to prison.' But then Diana raises a gun—and aims it at me.",
+              "durationSec": 10
             }
           ]
         }
