@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T12:42:53.833Z",
+  "updatedAt": "2026-09-13T13:42:41.187Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3853,6 +3853,61 @@
               "caption": "Diana aims the gun at me.",
               "narration": "Marcus laughs coldly: 'Sign these and disappear, or your sister goes to prison.' But then Diana raises a gun—and aims it at me.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-divorce-papers-she-never-signed-ep10",
+          "index": 10,
+          "title": "The Papers She Never Signed Sign Their End",
+          "scenes": [
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene1.jpg",
+              "caption": "The dead woman returns.",
+              "narration": "They forged my death to seize my empire. Today, I walk into that boardroom alive, holding the divorce papers I never signed.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene2.jpg",
+              "caption": "He thought I was ashes.",
+              "narration": "Marcus turns pale as a ghost. His hands tremble when he sees the woman he swore he buried.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene3.jpg",
+              "caption": "She wore my life.",
+              "narration": "Beside him, Celeste clutches my old wedding ring. The mistress who slept in my bed, wearing my life like a stolen coat.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene4.jpg",
+              "caption": "Your signatures, not mine.",
+              "narration": "I spread the documents across the table. Every forged signature. Every secret account. Every crime with their names beneath mine.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene5.jpg",
+              "caption": "My own blood betrayed me.",
+              "narration": "My sister Diana lunges to grab the files. The same hand that once held the poison now shakes with fear.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene6.jpg",
+              "caption": "The reckoning arrives.",
+              "narration": "The doors burst open. Federal agents flood the room, warrants raised. The trap I set for three years finally snaps shut.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene7.jpg",
+              "caption": "I never saw his face until now.",
+              "narration": "Marcus drops to his knees, begging. But the man who bankrolled my resurrection steps from the shadows—and his face stops my heart cold.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-divorce-papers-she-never-signed/ep10/scene8.jpg",
+              "caption": "The game isn't over.",
+              "narration": "His voice cuts through the chaos: 'You collected their debts, Vivian. Now it's time to pay mine.' The revenge I won was never truly mine.",
+              "durationSec": 11
             }
           ]
         }
