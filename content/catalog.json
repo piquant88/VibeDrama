@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T13:42:41.187Z",
+  "updatedAt": "2026-09-14T15:45:01.553Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3908,6 +3908,84 @@
               "caption": "The game isn't over.",
               "narration": "His voice cuts through the chaos: 'You collected their debts, Vivian. Now it's time to pay mine.' The revenge I won was never truly mine.",
               "durationSec": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-ceo-s-deaf-cinderella",
+      "title": "The CEO's Deaf Cinderella",
+      "tagline": "They thought she couldn't hear their secrets—until silence became her deadliest weapon.",
+      "genre": "Revenge",
+      "cover": "the-ceo-s-deaf-cinderella/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Bride Who Read Their Lips",
+        "Signed in Silence, Sealed in Lies",
+        "The Whisper She Wasn't Meant to See",
+        "A Nod That Buried a Company",
+        "The Voice They Never Knew She Had",
+        "Midnight Betrayal in Suite 1201",
+        "The Husband Was the Enemy All Along",
+        "She Returns Wearing Their Ruin",
+        "The Boardroom Confession Caught on Camera",
+        "Silence Speaks the Final Verdict"
+      ],
+      "episodes": [
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep1",
+          "index": 1,
+          "title": "The Bride Who Read Their Lips",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene1.jpg",
+              "caption": "They think silence means she's blind to their lies.",
+              "narration": "They call her the silent bride, the poor orphan who married into the powerful Vance dynasty. What they don't know is that Elena reads every cruel word from their moving lips.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene2.jpg",
+              "caption": "'She'll never hear a thing.'",
+              "narration": "Across the ballroom, her new husband Adrian Vance smirks with his mistress, believing his deaf wife cannot understand a single whisper.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene3.jpg",
+              "caption": "She reads the words they think are secret.",
+              "narration": "But Elena sees it all. Every syllable of their betrayal forms clearly on their lips, sharper than any spoken sound.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene4.jpg",
+              "caption": "They plan to steal everything she owns.",
+              "narration": "'The company will be mine once she signs,' Adrian mouths. 'The little mute won't even know what she gave away.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene5.jpg",
+              "caption": "They forgot who her father really was.",
+              "narration": "Her fingers tighten around the crystal glass. Beneath the fragile bride they mock lies the sole heir of an empire they murdered to bury.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene6.jpg",
+              "caption": "The perfect wife. The perfect trap.",
+              "narration": "Tonight she smiles for their cameras, the perfect obedient wife. But every lie she reads becomes another nail she will drive into their coffin.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene7.jpg",
+              "caption": "'Your father is alive.'",
+              "narration": "Then, in the crowd, she reads three words on a stranger's lips that stop her cold: 'Your father lives.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep1/scene8.jpg",
+              "caption": "Her silence is about to become a weapon.",
+              "narration": "The glass slips from her hand and shatters. As every guest turns, Adrian's smile freezes—because his silent bride is walking straight toward the one secret that could destroy them all.",
+              "durationSec": 13
             }
           ]
         }
