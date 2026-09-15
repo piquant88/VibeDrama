@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T15:45:01.553Z",
+  "updatedAt": "2026-09-15T14:13:19.169Z",
   "series": [
     {
       "id": "contract-bride",
@@ -3986,6 +3986,61 @@
               "caption": "Her silence is about to become a weapon.",
               "narration": "The glass slips from her hand and shatters. As every guest turns, Adrian's smile freezes—because his silent bride is walking straight toward the one secret that could destroy them all.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep2",
+          "index": 2,
+          "title": "Signed in Silence, Sealed in Lies",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene1.jpg",
+              "caption": "The signature that seals her fate",
+              "narration": "They call her fragile, this deaf bride in white. But Elena signs her name to a marriage she never chose, her fingers steady while their poison drips.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene2.jpg",
+              "caption": "He underestimates his silent bride",
+              "narration": "Across the table sits Adrian, the cold CEO in his charcoal suit. He believes her silence makes her blind to their schemes.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene3.jpg",
+              "caption": "Every whisper leaves a trail",
+              "narration": "His mother whispers to his brother, lips barely moving. What she doesn't know—Elena reads every silent word.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene4.jpg",
+              "caption": "She reads her own death sentence",
+              "narration": "'Once the inheritance transfers, the deaf girl disappears.' Elena's heart pounds, but her face stays a perfect, smiling mask.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene5.jpg",
+              "caption": "The silent bride has secrets too",
+              "narration": "That night, alone, Elena unlocks a hidden drawer. Inside lie documents that could burn their empire to ash.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene6.jpg",
+              "caption": "Silence becomes her weapon",
+              "narration": "She photographs each page, her hands trembling with vengeance. They wanted a puppet—they created a predator.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene7.jpg",
+              "caption": "Caught in the act",
+              "narration": "Suddenly the door creaks open. Adrian stands in the frame, eyes narrowing at the papers scattered across the floor.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep2/scene8.jpg",
+              "caption": "He speaks her silent language",
+              "narration": "'What are you hiding, little bride?' he signs, slow and deliberate. Elena's blood runs cold—he knows sign language, and now he knows too much.",
+              "durationSec": 11
             }
           ]
         }
