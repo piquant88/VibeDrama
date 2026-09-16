@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T14:13:19.169Z",
+  "updatedAt": "2026-09-16T14:05:26.585Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4041,6 +4041,61 @@
               "caption": "He speaks her silent language",
               "narration": "'What are you hiding, little bride?' he signs, slow and deliberate. Elena's blood runs cold—he knows sign language, and now he knows too much.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep3",
+          "index": 3,
+          "title": "The Whisper She Wasn't Meant to See",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene1.jpg",
+              "caption": "They never knew silence could see.",
+              "narration": "Elena moves through the marble halls like a ghost, her silence mistaken for weakness. They forget she reads every word their lips betray.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene2.jpg",
+              "caption": "A whisper she was never meant to see.",
+              "narration": "Through a glass door, she watches her husband Adrian whisper to his mistress. Their lips form words meant to bury her forever.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene3.jpg",
+              "caption": "'She disappears.'",
+              "narration": "'Once the merger signs, she disappears.' Elena reads the sentence from his lips like a knife sliding between her ribs.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene4.jpg",
+              "caption": "Her silence becomes a weapon.",
+              "narration": "Her heart shatters, but her hands stay steady. Elena raises her phone and records every damning syllable.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene5.jpg",
+              "caption": "Almost caught.",
+              "narration": "The mistress turns suddenly, sensing eyes upon them. Elena presses herself against the cold pillar, breath frozen in her throat.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene6.jpg",
+              "caption": "Two smiles. One is a lie.",
+              "narration": "That night, Adrian smiles across the dinner table, unaware. Elena smiles back, the recording burning silently in her pocket.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene7.jpg",
+              "caption": "The evidence... vanished.",
+              "narration": "But when she opens her phone to save the truth, the file is already gone. Someone knew she was watching.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep3/scene8.jpg",
+              "caption": "'I hear you too.'",
+              "narration": "A message glows on her screen: 'I hear you too, Elena.' Her deadly silence just met an enemy who knows her secret.",
+              "durationSec": 10
             }
           ]
         }
