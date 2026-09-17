@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T14:05:26.585Z",
+  "updatedAt": "2026-09-17T14:10:09.901Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4096,6 +4096,61 @@
               "caption": "'I hear you too.'",
               "narration": "A message glows on her screen: 'I hear you too, Elena.' Her deadly silence just met an enemy who knows her secret.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep4",
+          "index": 4,
+          "title": "A Nod That Buried a Company",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene1.jpg",
+              "caption": "They thought silence made her weak.",
+              "narration": "Elena Vance walks into the boardroom, her heels silent against the marble, her heart louder than any voice they'll ever hear.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene2.jpg",
+              "caption": "He married her to hide the truth.",
+              "narration": "Across the table sits Marcus Kane, the CEO who wed her for silence, never knowing her eyes could steal every whispered lie.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene3.jpg",
+              "caption": "She reads the deal they buried.",
+              "narration": "The lawyer leans to Marcus, mouthing figures meant to vanish into air. But Elena reads every syllable off his moving lips.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene4.jpg",
+              "caption": "One nod is all they need.",
+              "narration": "They ask for her approval on the merger. One simple nod, they think, from the woman who cannot understand.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene5.jpg",
+              "caption": "She nods. They celebrate too soon.",
+              "narration": "Elena smiles softly, and she nods. The room exhales in triumph, unaware the nod is not surrender—it is a trap springing shut.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene6.jpg",
+              "caption": "Her silence recorded everything.",
+              "narration": "But under the table, her phone records their every mouthed confession, transcribed by an app she built in silence.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene7.jpg",
+              "caption": "A nod that buried a company.",
+              "narration": "That night, the merger collapses. Regulators storm the tower. Marcus watches his empire crumble from a single, silent nod.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep4/scene8.jpg",
+              "caption": "This is only the beginning.",
+              "narration": "Then his phone buzzes. A video of Elena, signing three chilling words: 'This is only the beginning.' The screen goes dark.",
+              "durationSec": 9
             }
           ]
         }
