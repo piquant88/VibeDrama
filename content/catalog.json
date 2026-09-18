@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T14:10:09.901Z",
+  "updatedAt": "2026-09-18T13:28:54.625Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4151,6 +4151,61 @@
               "caption": "This is only the beginning.",
               "narration": "Then his phone buzzes. A video of Elena, signing three chilling words: 'This is only the beginning.' The screen goes dark.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep5",
+          "index": 5,
+          "title": "The Voice They Never Knew She Had",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene1.jpg",
+              "caption": "They thought silence made her weak.",
+              "narration": "For years they mocked Elena, the deaf woman married into the Sinclair empire. Tonight, in the boardroom, she prepares to shatter their silence.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene2.jpg",
+              "caption": "He never guessed she read every lie.",
+              "narration": "Marcus, the ruthless CEO who married her for her father's shares, smirks, certain she cannot understand his schemes.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene3.jpg",
+              "caption": "Silence recorded everything.",
+              "narration": "For months she recorded their whispered betrayals on hidden cameras, translating every guilty lip into damning proof.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene4.jpg",
+              "caption": "The voice they never knew she had.",
+              "narration": "Then Elena rises—and for the first time, she speaks aloud, her trembling voice silencing the entire room.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene5.jpg",
+              "caption": "'I heard all of it.'",
+              "narration": "The executives gasp. Marcus's smirk collapses into horror as she reveals she heard—and understood—everything.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene6.jpg",
+              "caption": "Every secret, exposed.",
+              "narration": "She projects the footage across the walls—signatures forged, deals betrayed, her father's company stolen in plain sight.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene7.jpg",
+              "caption": "Silence became her weapon.",
+              "narration": "'You built an empire on my silence,' she declares. 'Now watch it fall with my voice.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep5/scene8.jpg",
+              "caption": "The trap was never his.",
+              "narration": "But as security storms in, they seize Elena instead of Marcus—and a chilling voice behind her whispers, 'You should have stayed silent.'",
+              "durationSec": 10
             }
           ]
         }
