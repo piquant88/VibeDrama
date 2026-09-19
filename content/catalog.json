@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T13:28:54.625Z",
+  "updatedAt": "2026-09-19T12:57:50.572Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4205,6 +4205,61 @@
               "image": "the-ceo-s-deaf-cinderella/ep5/scene8.jpg",
               "caption": "The trap was never his.",
               "narration": "But as security storms in, they seize Elena instead of Marcus—and a chilling voice behind her whispers, 'You should have stayed silent.'",
+              "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep6",
+          "index": 6,
+          "title": "Midnight Betrayal in Suite 1201",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene1.jpg",
+              "caption": "They thought silence made her blind too.",
+              "narration": "Midnight bleeds through the glass of Suite 1201, where Aria stands frozen in the shadows, her wedding ring cold against her finger. She sees the two figures inside—and reads every silent word they mouth.",
+              "durationSec": 15
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene2.jpg",
+              "caption": "'Once the deaf girl signs, the company is ours.'",
+              "narration": "Inside, her husband Damien loosens his tie beside a woman in crimson—Vanessa, his supposed enemy. Aria's breath catches as their lips form the deadliest confession.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene3.jpg",
+              "caption": "Every kiss had been a contract.",
+              "narration": "Aria's world collapses in perfect silence. The man who vowed to protect her has been the architect of her ruin all along.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene4.jpg",
+              "caption": "They forgot—she captures what she can't hear.",
+              "narration": "But grief hardens into something sharper. She lifts her phone, its screen already recording their reflected lips in the polished door glass.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene5.jpg",
+              "caption": "One wrong move and the truth dies here.",
+              "narration": "Vanessa suddenly turns toward the door, sensing a presence. Aria melts into the darkness of the corridor, heart hammering.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene6.jpg",
+              "caption": "He underestimated her one final time.",
+              "narration": "Damien pulls Vanessa back, laughing silently. 'She's harmless,' his lips mock. But on the wall, Aria's shadow tells another story.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene7.jpg",
+              "caption": "The Cinderella they buried is about to rise.",
+              "narration": "Aria clutches the recording to her chest—the weapon that will burn their empire to ash. Tonight, silence becomes a blade.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep6/scene8.jpg",
+              "caption": "Someone was watching the watcher.",
+              "narration": "Then her phone buzzes—a message from an unknown number: 'I saw you too. Delete it, or your sister pays.' Aria's blood runs cold.",
               "durationSec": 10
             }
           ]
