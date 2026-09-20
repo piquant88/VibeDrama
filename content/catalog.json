@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T12:57:50.572Z",
+  "updatedAt": "2026-09-20T13:30:04.147Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4260,6 +4260,61 @@
               "image": "the-ceo-s-deaf-cinderella/ep6/scene8.jpg",
               "caption": "Someone was watching the watcher.",
               "narration": "Then her phone buzzes—a message from an unknown number: 'I saw you too. Delete it, or your sister pays.' Aria's blood runs cold.",
+              "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep7",
+          "index": 7,
+          "title": "The Husband Was the Enemy All Along",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene1.jpg",
+              "caption": "She trusted him with everything.",
+              "narration": "Elena has trusted Adrian with her heart, her silence, her future. But tonight the lips she reads betray a truth colder than any lie.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene2.jpg",
+              "caption": "Her husband, toasting her enemies.",
+              "narration": "Through the glass door, she watches Adrian raise a glass with the very men who destroyed her father's company.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene3.jpg",
+              "caption": "'The perfect cover.'",
+              "narration": "His lips form words he thinks she'll never understand: 'Marrying the deaf girl was the perfect cover.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene4.jpg",
+              "caption": "The enemy she married.",
+              "narration": "Every whisper he ever hid behind her back now screams inside her mind. The husband was the enemy all along.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene5.jpg",
+              "caption": "She stops crying. She starts planning.",
+              "narration": "But Elena does not shatter. She lifts her chin, wipes the tears, and lets a slow, dangerous calm settle over her.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene6.jpg",
+              "caption": "Silence became her weapon.",
+              "narration": "In her palm rests a tiny recorder that captured every incriminating word. He gave her silence—she turned it into evidence.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene7.jpg",
+              "caption": "'You forgot I can read lips.'",
+              "narration": "She steps into the light, and Adrian's smug smile freezes. 'Darling,' she signs, then speaks aloud for the first time before them all.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep7/scene8.jpg",
+              "caption": "The one person he feared most.",
+              "narration": "As gasps fill the room, the office doors slam open behind her—and the one face Adrian feared most walks in. To be continued.",
               "durationSec": 10
             }
           ]
