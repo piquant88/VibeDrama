@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T13:30:04.147Z",
+  "updatedAt": "2026-09-21T15:44:06.602Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4316,6 +4316,61 @@
               "caption": "The one person he feared most.",
               "narration": "As gasps fill the room, the office doors slam open behind her—and the one face Adrian feared most walks in. To be continued.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep8",
+          "index": 8,
+          "title": "She Returns Wearing Their Ruin",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene1.jpg",
+              "caption": "She returns wearing their ruin.",
+              "narration": "They believed silence had broken her. But tonight, Elena walks back into the empire that betrayed her—wearing the proof of their ruin.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene2.jpg",
+              "caption": "He thought she couldn't hear.",
+              "narration": "Adrian, the husband who plotted against her, freezes as she raises a champagne glass. He never imagined she could read every lie from his lips.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene3.jpg",
+              "caption": "Every lie, exposed.",
+              "narration": "From her clutch she draws the signed documents—the very contracts they forged in Suite 1201. The screens above ignite with their secrets.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene4.jpg",
+              "caption": "I read every whisper.",
+              "narration": "His mistress Vivienne lunges to stop her, but Elena's gaze is ice. 'I read your whispers,' she signs. 'And I recorded them all.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene5.jpg",
+              "caption": "The empire falls.",
+              "narration": "The board members turn on Adrian, tearing away everything he stole. His empire crumbles in a single silent heartbeat.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene6.jpg",
+              "caption": "Destruction was always the plan.",
+              "narration": "Adrian grabs her wrist, desperate. 'You'll destroy us both.' Elena only smiles—because destruction was always the plan.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene7.jpg",
+              "caption": "The dead return too.",
+              "narration": "Then the doors burst open—police, and a face Elena thought was dead. Her presumed-late father, alive, staring straight at her.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep8/scene8.jpg",
+              "caption": "A secret even she never heard.",
+              "narration": "'Hello, daughter,' he mouths. Elena's weapon of silence suddenly turns against her—because he knows a secret even she never heard.",
+              "durationSec": 9
             }
           ]
         }
