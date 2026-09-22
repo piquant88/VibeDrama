@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T15:44:06.602Z",
+  "updatedAt": "2026-09-22T13:56:44.686Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4371,6 +4371,61 @@
               "caption": "A secret even she never heard.",
               "narration": "'Hello, daughter,' he mouths. Elena's weapon of silence suddenly turns against her—because he knows a secret even she never heard.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep9",
+          "index": 9,
+          "title": "The Boardroom Confession Caught on Camera",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene1.jpg",
+              "caption": "She returns to the room that betrayed her.",
+              "narration": "Elena walks into the boardroom in a blood-red gown, the same woman they once dismissed as fragile and silent. Today, every eye follows her—and every camera she planted is already recording.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene2.jpg",
+              "caption": "He smiles, not knowing he's already exposed.",
+              "narration": "Adrian, her husband and betrayer, forces a smile, unaware the hidden lenses catch his every lie. He believes silence still protects him.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene3.jpg",
+              "caption": "'She can't hear us.' She reads his lips.",
+              "narration": "'She can't hear us,' he whispers to his mistress, Vanessa. 'By morning, everything she owns is mine.' Elena reads every word from across the room.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene4.jpg",
+              "caption": "His secret plays for everyone to hear.",
+              "narration": "With a single tap, Elena projects the recorded confession onto the massive boardroom screen. Adrian's voice fills the room—his own damning words, in perfect clarity.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene5.jpg",
+              "caption": "The room turns against them.",
+              "narration": "Gasps ripple through the executives as betrayal is laid bare. Vanessa's face drains white; Adrian lunges toward the controls, but it's too late.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene6.jpg",
+              "caption": "'Silence was my weapon all along.'",
+              "narration": "'You taught me that silence was weakness,' Elena signs, then speaks aloud for the first time before them. 'It was my weapon all along.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene7.jpg",
+              "caption": "The empire collapses in a single vote.",
+              "narration": "The board votes instantly—Adrian is stripped of his title, his empire crumbling in seconds. He falls to his knees, ruined by his own confession.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep9/scene8.jpg",
+              "caption": "'Silence me now.' The game isn't over.",
+              "narration": "But as Elena turns to leave in victory, her phone buzzes with an unknown message: a photo of her long-lost sister, chained in the dark. 'Silence me now,' the text reads.",
+              "durationSec": 13
             }
           ]
         }
