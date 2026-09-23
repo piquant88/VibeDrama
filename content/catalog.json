@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T13:56:44.686Z",
+  "updatedAt": "2026-09-23T14:07:46.264Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4426,6 +4426,61 @@
               "caption": "'Silence me now.' The game isn't over.",
               "narration": "But as Elena turns to leave in victory, her phone buzzes with an unknown message: a photo of her long-lost sister, chained in the dark. 'Silence me now,' the text reads.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-ceo-s-deaf-cinderella-ep10",
+          "index": 10,
+          "title": "Silence Speaks the Final Verdict",
+          "scenes": [
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene1.jpg",
+              "caption": "She walks in—no longer invisible.",
+              "narration": "The courtroom falls silent as Elena Voss enters, her emerald gown blazing like vengeance itself. Every eye that once dismissed her now trembles beneath her gaze.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene2.jpg",
+              "caption": "He still thinks she's helpless.",
+              "narration": "Across the aisle stands Adrian Blackwood, her husband and betrayer, his silver-gray suit hiding a heart of ice. He smirks, certain she cannot fight what she cannot hear.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene3.jpg",
+              "caption": "His words become his cage.",
+              "narration": "The prosecutor plays the boardroom confession—Adrian's own voice admitting the fraud. Elena reads every guilty lip in the room as they gasp.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene4.jpg",
+              "caption": "The silence finally speaks.",
+              "narration": "Elena rises, and for the first time, she speaks aloud—the voice they never knew she had. 'I heard everything you thought was silent.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene5.jpg",
+              "caption": "Guilty—on every count.",
+              "narration": "Adrian lunges, screaming denials, but guards seize him. His empire crumbles in a single hammer of the gavel.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene6.jpg",
+              "caption": "Four silent words. One devastating secret.",
+              "narration": "As they drag him away, Adrian mouths four silent words to her: 'The child is alive.' Elena's world shatters in an instant.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene7.jpg",
+              "caption": "Victory tastes like betrayal.",
+              "narration": "Elena stumbles into the corridor, her triumph turned to terror. If her lost child lives, who has been hiding the truth all these years?",
+              "durationSec": 11
+            },
+            {
+              "image": "the-ceo-s-deaf-cinderella/ep10/scene8.jpg",
+              "caption": "The final verdict was only the beginning.",
+              "narration": "Her phone buzzes—an unknown number, a single photo of a little girl with Elena's green eyes. The caption reads: 'She's been waiting for you.' To be continued.",
+              "durationSec": 12
             }
           ]
         }
