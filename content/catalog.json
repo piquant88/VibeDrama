@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T14:07:46.264Z",
+  "updatedAt": "2026-09-24T14:05:52.416Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4481,6 +4481,84 @@
               "caption": "The final verdict was only the beginning.",
               "narration": "Her phone buzzes—an unknown number, a single photo of a little girl with Elena's green eyes. The caption reads: 'She's been waiting for you.' To be continued.",
               "durationSec": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-nanny-knew-his-secret",
+      "title": "The Nanny Knew His Secret",
+      "tagline": "She was hired to raise his son, but she already knew the truth that could destroy him.",
+      "genre": "Thriller",
+      "cover": "the-nanny-knew-his-secret/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Job Was a Trap I Set Myself",
+        "One Look at the Boy and I Nearly Confessed",
+        "He Locked the East Wing for a Reason",
+        "The Photo That Shouldn't Exist",
+        "His Dead Wife Called My Phone",
+        "I Trusted the Wrong Ally",
+        "The Nursery Camera Recorded Everything",
+        "He Knows Who I Really Am",
+        "The Body They Buried Wasn't Hers",
+        "I Chose the Child Over My Revenge"
+      ],
+      "episodes": [
+        {
+          "id": "the-nanny-knew-his-secret-ep1",
+          "index": 1,
+          "title": "The Job Was a Trap I Set Myself",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene1.jpg",
+              "caption": "The interview was never real.",
+              "narration": "Elena Vance stands before the towering glass mansion, her resume trembling in her hand. But the paper is a lie, and so is her smile. She's not here to raise a child—she's here for the truth.",
+              "durationSec": 15
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene2.jpg",
+              "caption": "He doesn't know who I am. Yet.",
+              "narration": "Julian Croft opens the door—tall, impeccable, a widower with cold gray eyes. He doesn't recognize her. But she remembers everything about the night that changed her life.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene3.jpg",
+              "caption": "The boy has his father's eyes.",
+              "narration": "A small boy peeks from behind his father's leg. Six years old, fragile, with those same gray eyes. Elena's breath catches—this innocent child holds the key to a buried secret.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene4.jpg",
+              "caption": "I'm in. God help me.",
+              "narration": "'You start tonight,' Julian says, handing her a set of keys. Elena's fingers close around them like a weapon. She's inside now. There's no turning back.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene5.jpg",
+              "caption": "Everything I've hidden for years.",
+              "narration": "That night, alone in her new room, Elena unlocks a hidden compartment in her suitcase. Inside: a faded photograph of a burning car and a name that ruined her family.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene6.jpg",
+              "caption": "He remembers something too.",
+              "narration": "Downstairs, Julian pours himself a drink, staring at an old file marked 'CONFIDENTIAL.' His hand shakes. He whispers, 'She looks just like her.' He already suspects.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene7.jpg",
+              "caption": "Someone's already in there.",
+              "narration": "Elena creeps toward Julian's locked office, heart pounding. The answer to her sister's death lies behind that door. She reaches for the handle—and it turns from the inside.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep1/scene8.jpg",
+              "caption": "The child knows the truth.",
+              "narration": "The door swings open. The little boy stands there, holding the burning-car photograph she thought was hidden. 'I know why you're really here,' he says softly. Elena's world shatters.",
+              "durationSec": 13
             }
           ]
         }
