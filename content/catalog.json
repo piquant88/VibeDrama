@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T14:05:52.416Z",
+  "updatedAt": "2026-09-25T14:28:45.172Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4559,6 +4559,61 @@
               "caption": "The child knows the truth.",
               "narration": "The door swings open. The little boy stands there, holding the burning-car photograph she thought was hidden. 'I know why you're really here,' he says softly. Elena's world shatters.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep2",
+          "index": 2,
+          "title": "One Look at the Boy and I Nearly Confessed",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene1.jpg",
+              "caption": "The man who ruined my life.",
+              "narration": "The mansion doors open, and there he stands. Daniel Cross, the man whose secret I've carried for five years.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene2.jpg",
+              "caption": "He has no idea who I am.",
+              "narration": "He doesn't recognize me. Good. But the file in my bag could burn his entire empire to ash.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene3.jpg",
+              "caption": "And then I saw the boy.",
+              "narration": "Then a small voice calls out. A boy rounds the staircase, and my heart stops cold.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene4.jpg",
+              "caption": "He has my sister's eyes.",
+              "narration": "He has her eyes. My sister's eyes. This is the child everyone said was gone.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene5.jpg",
+              "caption": "I almost told him the truth.",
+              "narration": "One look at the boy and I nearly confessed everything. The truth almost tore out of me.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene6.jpg",
+              "caption": "Patience. Revenge takes patience.",
+              "narration": "But I swallow it down. Revenge takes patience. I smile and offer him my hand.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene7.jpg",
+              "caption": "'You look familiar...'",
+              "narration": "'You look familiar,' Daniel says, stepping closer. My blood turns to ice.",
+              "durationSec": 6
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep2/scene8.jpg",
+              "caption": "The detective found something.",
+              "narration": "Then his phone buzzes. He glances down, and his face goes white. 'The detective found something,' he whispers.",
+              "durationSec": 8
             }
           ]
         }
