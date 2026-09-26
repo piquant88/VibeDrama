@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T14:28:45.172Z",
+  "updatedAt": "2026-09-26T13:39:36.251Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4614,6 +4614,61 @@
               "caption": "The detective found something.",
               "narration": "Then his phone buzzes. He glances down, and his face goes white. 'The detective found something,' he whispers.",
               "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep3",
+          "index": 3,
+          "title": "He Locked the East Wing for a Reason",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene1.jpg",
+              "caption": "He always locks the east wing at midnight.",
+              "narration": "The mansion sleeps, but I do not. Every night he vanishes behind that door, and every night I count the seconds until I can learn why.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene2.jpg",
+              "caption": "Julian says it's just her memory.",
+              "narration": "Julian Vance. Handsome, wealthy, grieving. He tells the staff his late wife's memory lives behind that lock. But I know grief doesn't need three deadbolts.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene3.jpg",
+              "caption": "Theo has her eyes. My sister's eyes.",
+              "narration": "The boy watches me from the stairs. Little Theo, eight years old, eyes exactly like the woman in my locket. My hands shake as I smile back.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene4.jpg",
+              "caption": "One key. Three locks. No turning back.",
+              "narration": "I found the spare key sewn into the housekeeper's apron. My heart pounds as the first lock surrenders. Whatever he's hiding, I owe it to her to find it.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene5.jpg",
+              "caption": "He's been watching me all along.",
+              "narration": "The door groans open. Inside, no shrine to a dead wife—only a wall of photographs. Photographs of me. Of my sister. Of a night I swore I'd forget.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene6.jpg",
+              "caption": "She never left this house alive.",
+              "narration": "Among the pictures, one headline screams the truth. My sister didn't leave. She never left this house alive. And Julian knew I'd come for the answer.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene7.jpg",
+              "caption": "'I know exactly who you are.'",
+              "narration": "Behind me, the door clicks shut. A slow, familiar voice fills the dark. 'I wondered how long you'd pretend to be a stranger, Clara.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep3/scene8.jpg",
+              "caption": "Theo knew the secret first.",
+              "narration": "He steps closer, and from the corner Theo whispers a warning I never expected: 'Run. He locks the door for the same reason he locked it on Mommy.'",
+              "durationSec": 12
             }
           ]
         }
