@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T13:39:36.251Z",
+  "updatedAt": "2026-09-27T14:36:02.299Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4668,6 +4668,61 @@
               "image": "the-nanny-knew-his-secret/ep3/scene8.jpg",
               "caption": "Theo knew the secret first.",
               "narration": "He steps closer, and from the corner Theo whispers a warning I never expected: 'Run. He locks the door for the same reason he locked it on Mommy.'",
+              "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep4",
+          "index": 4,
+          "title": "The Photo That Shouldn't Exist",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene1.jpg",
+              "caption": "He said this room was off-limits.",
+              "narration": "The east wing is forbidden, but tonight the lock gives way beneath my trembling fingers. Whatever he's hiding, I have to see it.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene2.jpg",
+              "caption": "A room full of forgotten faces.",
+              "narration": "Dust-covered frames line the walls, faces of a family I don't recognize. Then one photograph freezes the blood in my veins.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene3.jpg",
+              "caption": "That's... me. But how?",
+              "narration": "It's me. Ten years ago, laughing beside a woman I buried in my nightmares. A photo that should not exist.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene4.jpg",
+              "caption": "He hired me on purpose.",
+              "narration": "He knew. All this time, Adrian knew exactly who I was before he ever hired me.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene5.jpg",
+              "caption": "\"You weren't supposed to find that.\"",
+              "narration": "'You weren't supposed to find that,' he says, voice like ice closing around my throat.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene6.jpg",
+              "caption": "\"Whose son is he really?\"",
+              "narration": "I demand the truth. But his answer shatters everything I thought I understood about the boy sleeping upstairs.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene7.jpg",
+              "caption": "\"You were there that night.\"",
+              "narration": "'You already know the answer,' he whispers. 'He's the reason she died. And you were there.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep4/scene8.jpg",
+              "caption": "\"I know who you are too.\"",
+              "narration": "Then a small voice cuts through the dark. The boy stands in the doorway, holding a photo of his own. 'I know who you are too,' he says.",
               "durationSec": 12
             }
           ]
