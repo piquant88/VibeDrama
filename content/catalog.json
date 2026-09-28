@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T14:36:02.299Z",
+  "updatedAt": "2026-09-28T17:26:55.754Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4723,6 +4723,61 @@
               "image": "the-nanny-knew-his-secret/ep4/scene8.jpg",
               "caption": "\"I know who you are too.\"",
               "narration": "Then a small voice cuts through the dark. The boy stands in the doorway, holding a photo of his own. 'I know who you are too,' he says.",
+              "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep5",
+          "index": 5,
+          "title": "His Dead Wife Called My Phone",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene1.jpg",
+              "caption": "Margaret calling... but she's dead.",
+              "narration": "The nanny, Elena, sits alone in the nursery when her phone screen lights up with a name that cannot be real. Margaret. His dead wife. Her hands begin to tremble.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene2.jpg",
+              "caption": "'He's lying to you...'",
+              "narration": "She answers, breath caught in her throat. Only static hisses back, then a woman's faint, broken whisper: 'He's lying to you.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene3.jpg",
+              "caption": "He heard everything.",
+              "narration": "Footsteps thunder up the stairs. Adrian, the widowed father, appears in the doorway, jaw tight, eyes burning. 'Who are you talking to?'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene4.jpg",
+              "caption": "The whisper won't stop.",
+              "narration": "Elena hides the phone behind her back, forcing a fragile smile. But the call is still connected, and Margaret's whisper leaks into the silent room.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene5.jpg",
+              "caption": "'This number died with her.'",
+              "narration": "Adrian snatches the phone, staring at the screen. His face drains white. 'This number was buried with her,' he breathes.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene6.jpg",
+              "caption": "It knows my real name.",
+              "narration": "From the phone speaker, the voice sharpens into a scream of Elena's real name — a name she never told anyone in this house.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene7.jpg",
+              "caption": "He finally sees the truth.",
+              "narration": "Adrian turns slowly, eyes cold with dawning realization. 'You knew Margaret,' he says. 'You've known all along.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep5/scene8.jpg",
+              "caption": "'Mommy came home.'",
+              "narration": "Then the locked east wing door creaks open on its own down the hall. And a small voice — his son's — calls out: 'Mommy came home.'",
               "durationSec": 12
             }
           ]
