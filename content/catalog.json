@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T17:26:55.754Z",
+  "updatedAt": "2026-09-29T15:27:17.300Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4779,6 +4779,61 @@
               "caption": "'Mommy came home.'",
               "narration": "Then the locked east wing door creaks open on its own down the hall. And a small voice — his son's — calls out: 'Mommy came home.'",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep6",
+          "index": 6,
+          "title": "I Trusted the Wrong Ally",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene1.jpg",
+              "caption": "I had to trust someone.",
+              "narration": "The phone call from a dead woman still rings in my ears. I need answers, and only one person in this house has offered me kindness.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene2.jpg",
+              "caption": "He seemed so trustworthy.",
+              "narration": "Marcus, the family's loyal housekeeper, finds me trembling in the corridor. His silver hair and gentle eyes have always felt safe.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene3.jpg",
+              "caption": "I told him all my secrets.",
+              "narration": "I tell him everything — the photo, the locked wing, the impossible call. His face softens with concern, and I finally exhale.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene4.jpg",
+              "caption": "Midnight. The garden. The truth.",
+              "narration": "'You're not safe here,' he whispers. 'Meet me in the garden at midnight. I'll show you the truth.' My heart races with hope.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene5.jpg",
+              "caption": "He wasn't alone.",
+              "narration": "At midnight I slip into the frozen garden. But through the fogged glass, I see Marcus — speaking to the master of the house.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene6.jpg",
+              "caption": "He betrayed me.",
+              "narration": "'She knows too much,' Marcus says coldly. 'We handle her tonight — like we handled the wife.' My blood turns to ice.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene7.jpg",
+              "caption": "The dead were still warning me.",
+              "narration": "I stumble backward, and my phone lights up in my hand. The dead wife's number again — with one final message.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep6/scene8.jpg",
+              "caption": "I trusted the wrong ally.",
+              "narration": "The text reads: 'He's behind you.' I turn — and Marcus is already there, smiling, a syringe glinting in his hand.",
+              "durationSec": 9
             }
           ]
         }
