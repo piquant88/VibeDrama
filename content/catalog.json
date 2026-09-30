@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T15:27:17.300Z",
+  "updatedAt": "2026-09-30T15:43:32.748Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4834,6 +4834,61 @@
               "caption": "I trusted the wrong ally.",
               "narration": "The text reads: 'He's behind you.' I turn — and Marcus is already there, smiling, a syringe glinting in his hand.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep7",
+          "index": 7,
+          "title": "The Nursery Camera Recorded Everything",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene1.jpg",
+              "caption": "The bear was always watching.",
+              "narration": "The nursery is silent, but the little camera in the teddy bear's eye has been watching all along. Tonight, I finally find its hidden memory card.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene2.jpg",
+              "caption": "The night everything changed.",
+              "narration": "I load the footage onto my phone with trembling hands. What I see freezes my blood — the night his wife supposedly died.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene3.jpg",
+              "caption": "The boy saw it all.",
+              "narration": "On the screen, Julian carries a limp figure past the crib. The son I was hired to protect was in the room the whole time.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene4.jpg",
+              "caption": "She's still breathing.",
+              "narration": "But the woman in the video turns her face to the camera — and she is alive, blinking, terrified. The dead wife never died.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene5.jpg",
+              "caption": "He knows I know.",
+              "narration": "Behind me, the nursery door creaks. Julian stands in the doorway, and he has seen the screen glowing in my hands.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene6.jpg",
+              "caption": "She's my sister.",
+              "narration": "'You weren't supposed to find that,' he whispers. I finally say the words I've hidden for months: the missing woman is my sister.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene7.jpg",
+              "caption": "She's still in this house.",
+              "narration": "His face shatters, then hardens. 'Then you already know she's still in this house,' he says, glancing toward the locked east wing.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep7/scene8.jpg",
+              "caption": "Three taps. Come find me.",
+              "narration": "A faint knocking echoes from behind the east wing walls — three slow taps, my sister's old signal. She's alive, and she's begging me to come.",
+              "durationSec": 11
             }
           ]
         }
