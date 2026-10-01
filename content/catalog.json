@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T15:43:32.748Z",
+  "updatedAt": "2026-10-01T16:05:45.776Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4889,6 +4889,61 @@
               "caption": "Three taps. Come find me.",
               "narration": "A faint knocking echoes from behind the east wing walls — three slow taps, my sister's old signal. She's alive, and she's begging me to come.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep8",
+          "index": 8,
+          "title": "He Knows Who I Really Am",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene1.jpg",
+              "caption": "He's been standing there the whole time.",
+              "narration": "The nursery camera footage ends, and in its silence I feel his shadow fall across the doorway. He already knows I watched it.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene2.jpg",
+              "caption": "\"I know who you really are.\"",
+              "narration": "'You're not the nanny I hired,' he says. His voice is calm, and that terrifies me more than rage ever could.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene3.jpg",
+              "caption": "The proof is in my hand.",
+              "narration": "I clutch the photo that shouldn't exist, the one that ties him to the night everything shattered. My hands won't stop shaking.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene4.jpg",
+              "caption": "\"She was my sister.\"",
+              "narration": "'I came for my sister,' I confess. The words I've buried for a year finally break free.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene5.jpg",
+              "caption": "\"You don't know the whole truth.\"",
+              "narration": "But Julian only smiles, slow and sad. 'Then you don't know what she did to me,' he whispers.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene6.jpg",
+              "caption": "The boy is awake.",
+              "narration": "From down the hall, the boy's small voice calls my name. Both our heads snap toward the sound.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene7.jpg",
+              "caption": "\"He's not my son.\"",
+              "narration": "'He's not my son,' Julian says, eyes locked on mine. 'And deep down, you already suspected that.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep8/scene8.jpg",
+              "caption": "It's too late to run.",
+              "narration": "Then my dead sister's phone lights up in my pocket — a new message: 'Get out before he tells you the rest.' But Julian is already locking the door.",
+              "durationSec": 13
             }
           ]
         }
