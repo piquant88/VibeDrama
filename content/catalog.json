@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T16:05:45.776Z",
+  "updatedAt": "2026-10-02T15:29:21.945Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4944,6 +4944,61 @@
               "caption": "It's too late to run.",
               "narration": "Then my dead sister's phone lights up in my pocket — a new message: 'Get out before he tells you the rest.' But Julian is already locking the door.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep9",
+          "index": 9,
+          "title": "The Body They Buried Wasn't Hers",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene1.jpg",
+              "caption": "The grave holds a lie.",
+              "narration": "The cemetery is silent except for my own ragged breathing. Tonight, I finally learn what they buried in his wife's grave.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene2.jpg",
+              "caption": "He followed me here.",
+              "narration": "Daniel finds me before I can run. His eyes are cold now — the warmth he showed his son is gone.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene3.jpg",
+              "caption": "\"You have to see for yourself.\"",
+              "narration": "\"Dig,\" he says, pressing a shovel into my trembling hands. He needs me to see it with my own eyes.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene4.jpg",
+              "caption": "It was never her.",
+              "narration": "The coffin lid splinters open. Inside is not his wife — but sandbags and a child's blue blanket.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene5.jpg",
+              "caption": "His wife is alive.",
+              "narration": "\"She's alive,\" Daniel whispers. \"And she's the one who sent you to me.\" My whole world tilts.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene6.jpg",
+              "caption": "She's calling. Again.",
+              "narration": "My phone buzzes against the cold dirt. The screen glows with the name I feared most: his dead wife.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene7.jpg",
+              "caption": "\"The boy was never his.\"",
+              "narration": "I answer. A woman's voice says the one thing that shatters us both: \"The boy was never his.\"",
+              "durationSec": 8
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep9/scene8.jpg",
+              "caption": "Someone has the boy.",
+              "narration": "Headlights blaze behind us. A car door opens, and a silhouette steps out holding Daniel's son by the hand.",
+              "durationSec": 9
             }
           ]
         }
