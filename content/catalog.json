@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T15:29:21.945Z",
+  "updatedAt": "2026-10-03T14:10:47.163Z",
   "series": [
     {
       "id": "contract-bride",
@@ -4999,6 +4999,61 @@
               "caption": "Someone has the boy.",
               "narration": "Headlights blaze behind us. A car door opens, and a silhouette steps out holding Daniel's son by the hand.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-nanny-knew-his-secret-ep10",
+          "index": 10,
+          "title": "I Chose the Child Over My Revenge",
+          "scenes": [
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene1.jpg",
+              "caption": "The moment I'd waited years for",
+              "narration": "The truth I buried for years sits trembling in my hands. One word, and Julian Thorne's empire crumbles. But little Noah is watching me from the doorway.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene2.jpg",
+              "caption": "He knows it ends tonight",
+              "narration": "Julian storms in, his face carved from guilt and fear. He knows what I'm holding. He knows it ends tonight.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene3.jpg",
+              "caption": "Everyone deserves the truth",
+              "narration": "'You killed her and let the world mourn a lie,' I whisper. 'Everyone deserves to know what you did.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene4.jpg",
+              "caption": "Please don't leave",
+              "narration": "Then Noah runs to me, tiny arms wrapping my legs. 'Please don't leave like Mommy did,' he sobs. My revenge shatters.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene5.jpg",
+              "caption": "I chose the child",
+              "narration": "I look at this broken child who calls me safe. The evidence slips from my fingers. I choose him over everything I came for.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene6.jpg",
+              "caption": "Why didn't you?",
+              "narration": "Julian exhales, almost grateful. 'You could have destroyed me,' he breathes. 'Why didn't you?' But I see something else in his eyes now.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene7.jpg",
+              "caption": "You're next",
+              "narration": "That night my phone lights up. A message from the wife everyone buried. 'He let you keep the boy because you're next.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-nanny-knew-his-secret/ep10/scene8.jpg",
+              "caption": "The trap was always mine",
+              "narration": "Downstairs, a door clicks shut and locks. Julian's footsteps fade. And I realize the trap I set for him was the one he set for me.",
+              "durationSec": 11
             }
           ]
         }
