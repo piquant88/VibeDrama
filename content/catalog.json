@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T14:10:47.163Z",
+  "updatedAt": "2026-10-04T14:41:27.107Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5054,6 +5054,84 @@
               "caption": "The trap was always mine",
               "narration": "Downstairs, a door clicks shut and locks. Julian's footsteps fade. And I realize the trap I set for him was the one he set for me.",
               "durationSec": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-heiress-they-buried-alive",
+      "title": "The Heiress They Buried Alive",
+      "tagline": "They faked her death to steal her fortune—now she's back to bury them all.",
+      "genre": "Revenge",
+      "cover": "the-heiress-they-buried-alive/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Night They Signed My Death Certificate",
+        "Buried With a Breath Still in Me",
+        "A Stranger's Face in the Mirror",
+        "The Will Reading I Wasn't Supposed to Hear",
+        "Dancing With the Man Who Poisoned Me",
+        "The Sister Who Lit My Funeral Pyre",
+        "He Knew I Was Alive All Along",
+        "The Photograph That Proves the Murder",
+        "They Opened My Coffin and Found It Empty",
+        "I Return at My Own Memorial"
+      ],
+      "episodes": [
+        {
+          "id": "the-heiress-they-buried-alive-ep1",
+          "index": 1,
+          "title": "The Night They Signed My Death Certificate",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene1.jpg",
+              "caption": "They buried me alive.",
+              "narration": "They called it an accident. But I know the truth—my own family signed my death certificate while my heart still beat.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene2.jpg",
+              "caption": "My stepmother's cold smile.",
+              "narration": "My stepmother, Vivian, held the pen that killed me—smiling as she forged my final signature.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene3.jpg",
+              "caption": "The husband who betrayed me.",
+              "narration": "My husband, Marcus, stood beside her—the man who swore to protect me, now toasting to my fortune.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene4.jpg",
+              "caption": "Lowered into the dark.",
+              "narration": "They sealed me in a casket of mahogany and lies, lowering me into the cold black earth.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene5.jpg",
+              "caption": "Someone heard me scream.",
+              "narration": "But fate is a cruel accountant. A gravedigger heard my screams beneath the soil.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene6.jpg",
+              "caption": "Pulled from my own grave.",
+              "narration": "He dragged me back to the living, half-buried, half-breathing, wholly reborn.",
+              "durationSec": 5
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene7.jpg",
+              "caption": "Three years. One purpose.",
+              "narration": "Three years I let them believe I was gone. Three years I sharpened my vengeance like a blade.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep1/scene8.jpg",
+              "caption": "The dead have returned.",
+              "narration": "Tonight, I walk back into their mansion—and watch the color drain from the faces of the dead woman's murderers.",
+              "durationSec": 9
             }
           ]
         }
