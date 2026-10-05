@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T14:41:27.107Z",
+  "updatedAt": "2026-10-05T18:04:06.841Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5131,6 +5131,61 @@
               "image": "the-heiress-they-buried-alive/ep1/scene8.jpg",
               "caption": "The dead have returned.",
               "narration": "Tonight, I walk back into their mansion—and watch the color drain from the faces of the dead woman's murderers.",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep2",
+          "index": 2,
+          "title": "Buried With a Breath Still in Me",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene1.jpg",
+              "caption": "Buried—but still breathing.",
+              "narration": "Darkness swallows me whole, but my heart refuses to stop. They sealed the coffin with a breath still trapped inside my chest.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene2.jpg",
+              "caption": "They couldn't wait to spend my fortune.",
+              "narration": "My fingernails tear against the wood as I scream into the earth. Six feet above, they are already dividing my empire.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene3.jpg",
+              "caption": "A funeral, or a celebration?",
+              "narration": "Above ground, my stepmother Vivian toasts in black lace, her cruel smile gleaming. Beside her, my husband Marcus signs away everything I owned.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene4.jpg",
+              "caption": "Someone heard me.",
+              "narration": "A groundskeeper hears the muffled pounding. His lantern trembles as the grave itself seems to breathe.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene5.jpg",
+              "caption": "The dead don't stay buried.",
+              "narration": "With one final blow, splinters explode and my hand bursts into the cold night air. I crawl from my own grave, reborn in rage.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene6.jpg",
+              "caption": "Tell no one I breathe.",
+              "narration": "The old man recoils, whispering that I am a ghost. I grip his collar and swear I am very much alive—and I remember everything.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene7.jpg",
+              "caption": "The grave is empty.",
+              "narration": "In the mansion, Vivian's phone lights up with a photo of the empty grave. The glass shatters in her trembling hand.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep2/scene8.jpg",
+              "caption": "Now I bury them all.",
+              "narration": "From the shadows of the gate, I watch their lights blaze on. They buried an heiress—but they dug up a reckoning.",
               "durationSec": 9
             }
           ]
