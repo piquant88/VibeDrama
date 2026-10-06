@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T18:04:06.841Z",
+  "updatedAt": "2026-10-06T15:45:18.637Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5187,6 +5187,61 @@
               "caption": "Now I bury them all.",
               "narration": "From the shadows of the gate, I watch their lights blaze on. They buried an heiress—but they dug up a reckoning.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep3",
+          "index": 3,
+          "title": "A Stranger's Face in the Mirror",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene1.jpg",
+              "caption": "They buried me. But I breathe still.",
+              "narration": "Clawing from the shallow grave, Elena Vance crawls into the rain, her white burial dress soaked in mud and blood. The family that buried her thinks she is gone forever.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene2.jpg",
+              "caption": "Who is this stranger in the glass?",
+              "narration": "She stumbles to an abandoned cabin, catching her reflection in a cracked, filthy mirror. The hollow eyes staring back do not feel like her own anymore.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene3.jpg",
+              "caption": "My murderer mourns me on live TV.",
+              "narration": "On the television, her stepmother Vivian weeps crocodile tears beside Elena's own gilded coffin. 'She was my daughter,' she lies to the cameras.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene4.jpg",
+              "caption": "Let the dead girl stay buried.",
+              "narration": "Elena scrubs the grime away and a cold resolve hardens her face. If Elena Vance is dead, then a stranger will rise to destroy them.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene5.jpg",
+              "caption": "They drink to my death.",
+              "narration": "In a gleaming penthouse, her stepbrother Marcus signs away her inheritance, laughing with Vivian over champagne. They toast to the fortune they stole from a grave.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene6.jpg",
+              "caption": "A stranger enters. The reckoning begins.",
+              "narration": "Weeks later, a mysterious veiled woman glides into the Vance charity gala, every head turning. No one recognizes the ghost walking among them.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene7.jpg",
+              "caption": "You buried the wrong girl.",
+              "narration": "She slides a single black funeral invitation across the table to Vivian, whose smile freezes to ice. On it, Elena's own name, written in red.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep3/scene8.jpg",
+              "caption": "To be continued...",
+              "narration": "Vivian lifts the veil with a trembling hand and gasps—face to face with the daughter she buried alive. 'You're supposed to be dead,' she chokes, as the lights go black.",
+              "durationSec": 13
             }
           ]
         }
