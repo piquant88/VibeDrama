@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:45:18.637Z",
+  "updatedAt": "2026-10-07T16:10:07.908Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5242,6 +5242,61 @@
               "caption": "To be continued...",
               "narration": "Vivian lifts the veil with a trembling hand and gasps—face to face with the daughter she buried alive. 'You're supposed to be dead,' she chokes, as the lights go black.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep4",
+          "index": 4,
+          "title": "The Will Reading I Wasn't Supposed to Hear",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene1.jpg",
+              "caption": "I came back for the reading of my own will.",
+              "narration": "They think I'm ashes in a marble urn. But tonight, I slip into my own mansion wearing a stranger's face, to hear them divide my corpse's fortune.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene2.jpg",
+              "caption": "My grieving widower didn't waste a single day.",
+              "narration": "My husband Damien sits at the head of the table, mourning for an audience, his hand already resting on another woman's thigh.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene3.jpg",
+              "caption": "'The entire Vale estate passes to...'",
+              "narration": "The lawyer unseals the envelope. My name is spoken like a curse they're finally free of.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene4.jpg",
+              "caption": "There's a clause they never saw.",
+              "narration": "'Everything,' he reads, 'to my beloved husband, Damien.' I watch my killer smile. But the lawyer isn't finished.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene5.jpg",
+              "caption": "Unless she's alive. The room froze.",
+              "narration": "'Unless,' the lawyer continues, 'the heiress is found alive.' The glass shatters in Damien's hand. Blood on the white tablecloth.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene6.jpg",
+              "caption": "They all turned to look at the ghost.",
+              "narration": "From the shadows, I step forward and let my hood fall. A stranger's face, but my mother's diamond around my throat.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene7.jpg",
+              "caption": "'Then explain this, husband.'",
+              "narration": "'My wife is dead,' Damien hisses. I smile and place a blood-stained hospital bracelet on the table—the one he buried me in.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep4/scene8.jpg",
+              "caption": "The real will reading starts now.",
+              "narration": "The doors slam shut behind me. Locked. And every face at this table suddenly realizes—the heiress they buried alive came home to collect.",
+              "durationSec": 10
             }
           ]
         }
