@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T16:10:07.908Z",
+  "updatedAt": "2026-10-08T16:11:48.223Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5296,6 +5296,61 @@
               "image": "the-heiress-they-buried-alive/ep4/scene8.jpg",
               "caption": "The real will reading starts now.",
               "narration": "The doors slam shut behind me. Locked. And every face at this table suddenly realizes—the heiress they buried alive came home to collect.",
+              "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep5",
+          "index": 5,
+          "title": "Dancing With the Man Who Poisoned Me",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene1.jpg",
+              "caption": "He doesn't know the dead have returned.",
+              "narration": "The ballroom glitters, and so does the poison still coursing through my memory. Tonight I wear another woman's face, but the hatred is entirely my own.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene2.jpg",
+              "caption": "The man who poisoned me offers his hand.",
+              "narration": "Adrian Vance approaches, charming as the night he raised a laced glass to my lips. He smiles at a stranger, never knowing it's the ghost he created.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene3.jpg",
+              "caption": "I dance with my own murderer.",
+              "narration": "His hand finds my waist, warm and treacherous. I let him pull me close, counting the heartbeats until his downfall.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene4.jpg",
+              "caption": "Does he recognize me?",
+              "narration": "'You remind me of someone,' he whispers. My blood turns to ice, but my smile never wavers.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene5.jpg",
+              "caption": "One sentence, and his confidence cracks.",
+              "narration": "I lean closer, breathing the words like perfume. 'Perhaps I remind you of your sins.' His step falters.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene6.jpg",
+              "caption": "My stepsister senses the dead walking.",
+              "narration": "Across the room, my scheming stepsister Celeste watches, her champagne frozen midair. She sees something impossible in my eyes.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene7.jpg",
+              "caption": "He holds the pendant from my grave.",
+              "narration": "The music swells as Adrian spins me, and a diamond slips from my glove—the very pendant they buried me in. He catches it, and the color drains from his face.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep5/scene8.jpg",
+              "caption": "The buried heiress just revealed herself.",
+              "narration": "'This belonged to a dead woman,' he gasps. I meet his terrified eyes. 'Then why,' I whisper, 'is she asking for this dance?'",
               "durationSec": 10
             }
           ]
