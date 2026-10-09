@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T16:11:48.223Z",
+  "updatedAt": "2026-10-09T15:53:43.920Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5352,6 +5352,61 @@
               "caption": "The buried heiress just revealed herself.",
               "narration": "'This belonged to a dead woman,' he gasps. I meet his terrified eyes. 'Then why,' I whisper, 'is she asking for this dance?'",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep6",
+          "index": 6,
+          "title": "The Sister Who Lit My Funeral Pyre",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene1.jpg",
+              "caption": "My sister lit my funeral pyre.",
+              "narration": "The flames flicker in my memory. I watch the woman who held the torch—my own sister, Celeste—laugh over champagne, never knowing I breathe again.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene2.jpg",
+              "caption": "They don't recognize the dead.",
+              "narration": "I step from the shadows wearing a stranger's face—new auburn hair, scarred cheek hidden by veil. Vivienne, the heiress they buried, risen from ash.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene3.jpg",
+              "caption": "'Have we met?'",
+              "narration": "Celeste approaches, offering her hand to a stranger. 'Have we met?' she purrs. My pulse screams murderer, but my smile is ice.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene4.jpg",
+              "caption": "The locket from my grave.",
+              "narration": "I slip the burned locket into her palm—the one she tossed into my coffin. Her face drains white. She remembers.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene5.jpg",
+              "caption": "'You lit the fire.'",
+              "narration": "'Where did you get this?' she hisses, nails biting my wrist. I lean close enough to whisper. 'You gave it to me—the night you lit the fire.'",
+              "durationSec": 12
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene6.jpg",
+              "caption": "The dead has a face.",
+              "narration": "The veil falls. Celeste staggers back, recognition exploding across her face. Guests turn. The music dies.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene7.jpg",
+              "caption": "'Now I bury you.'",
+              "narration": "'You're dead,' Celeste chokes. 'I buried you myself.' I smile. 'And now, dear sister, I've come to bury you.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep6/scene8.jpg",
+              "caption": "'Arrest the impostor.'",
+              "narration": "Then the ballroom doors slam open—and the man who poisoned me walks in, flanked by police, pointing straight at me. 'Arrest her. She's an impostor.'",
+              "durationSec": 11
             }
           ]
         }
