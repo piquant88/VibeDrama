@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T15:53:43.920Z",
+  "updatedAt": "2026-10-10T15:06:15.618Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5407,6 +5407,61 @@
               "caption": "'Arrest the impostor.'",
               "narration": "Then the ballroom doors slam open—and the man who poisoned me walks in, flanked by police, pointing straight at me. 'Arrest her. She's an impostor.'",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep7",
+          "index": 7,
+          "title": "He Knew I Was Alive All Along",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene1.jpg",
+              "caption": "He stayed behind... waiting for me.",
+              "narration": "The ballroom empties, but one man lingers in the shadows—my husband, Adrian, who swore he wept at my grave. His smile tells me everything: he never believed I was gone.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene2.jpg",
+              "caption": "He called me by my real name.",
+              "narration": "'Elena,' he whispers my real name, the one I buried with my old face. My heart stops—the stranger's mask I wear was supposed to be perfect.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene3.jpg",
+              "caption": "A husband never forgets his wife's eyes.",
+              "narration": "He steps closer, trailing a finger along my jaw. 'I knew the moment you walked in. A husband never forgets his wife's eyes—not even after he kills her.'",
+              "durationSec": 12
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene4.jpg",
+              "caption": "Why did he let me live?",
+              "narration": "Terror floods me, but I force a laugh. If he's known all along, why keep my secret? Why let me live among the wolves?",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene5.jpg",
+              "caption": "He wants the fortune too.",
+              "narration": "'Because,' he murmurs, 'I need you alive, darling. Your sister is about to inherit everything—and I want it back.' The betrayal runs deeper than I ever imagined.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene6.jpg",
+              "caption": "Come alone, or he exposes me.",
+              "narration": "He presses a cold object into my palm—a key. 'Midnight. The vault beneath the estate. Come alone, or I tell them all who you really are.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene7.jpg",
+              "caption": "My sister saw everything.",
+              "narration": "As he walks away, my sister Vivienne appears at the staircase, watching us with venom in her eyes. She saw the exchange. She knows something is wrong.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep7/scene8.jpg",
+              "caption": "They trapped me... together.",
+              "narration": "At midnight I descend into the vault—but the door slams shut behind me. In the darkness, two voices laugh: Adrian and Vivienne. They planned this together. And the walls begin to close.",
+              "durationSec": 14
             }
           ]
         }
