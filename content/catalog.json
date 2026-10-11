@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T15:06:15.618Z",
+  "updatedAt": "2026-10-11T15:23:59.623Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5462,6 +5462,61 @@
               "caption": "They trapped me... together.",
               "narration": "At midnight I descend into the vault—but the door slams shut behind me. In the darkness, two voices laugh: Adrian and Vivienne. They planned this together. And the walls begin to close.",
               "durationSec": 14
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep8",
+          "index": 8,
+          "title": "The Photograph That Proves the Murder",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene1.jpg",
+              "caption": "The darkroom never lies.",
+              "narration": "They thought the darkroom held only shadows. But in that red glow, I found the one truth they couldn't bury with me.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene2.jpg",
+              "caption": "Caught in silver and poison.",
+              "narration": "A single photograph surfaces in the chemical bath—my husband's hand pouring something into my wine glass. The night I died.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene3.jpg",
+              "caption": "My husband. My murderer.",
+              "narration": "Julian. My beloved husband. The man who kissed me goodnight and sealed my coffin. His face smiles in the photo like a devil at prayer.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene4.jpg",
+              "caption": "She watched me fall.",
+              "narration": "And beside him—my sister Cordelia, watching, waiting, her diamond earrings catching the light as her twin died.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene5.jpg",
+              "caption": "Proof enough to bury them.",
+              "narration": "My fingers tremble. This fragile square of paper is the noose that will hang them both. Years of grief condensed into evidence.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene6.jpg",
+              "caption": "I'm not alone.",
+              "narration": "But as I turn to leave, footsteps echo on the stairs. Someone knew I'd come here. Someone has been watching me the whole time.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene7.jpg",
+              "caption": "Stay dead, darling.",
+              "narration": "The door swings open. Julian stands there, gun gleaming, that terrible smile returning. 'You should have stayed dead, darling,' he whispers.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep8/scene8.jpg",
+              "caption": "Two guns. One truth. No escape.",
+              "narration": "I raise the photograph like a shield. 'Shoot me, and the world sees everything.' But then—a second gun clicks behind MY head. Cordelia has been waiting.",
+              "durationSec": 11
             }
           ]
         }
