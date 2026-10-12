@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T15:23:59.623Z",
+  "updatedAt": "2026-10-12T18:42:54.094Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5517,6 +5517,61 @@
               "caption": "Two guns. One truth. No escape.",
               "narration": "I raise the photograph like a shield. 'Shoot me, and the world sees everything.' But then—a second gun clicks behind MY head. Cordelia has been waiting.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep9",
+          "index": 9,
+          "title": "They Opened My Coffin and Found It Empty",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene1.jpg",
+              "caption": "My coffin was empty.",
+              "narration": "The graveyard is silent as they pry the lid away. My own coffin gapes open to the moonlight—and there is nothing inside but satin and lies.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene2.jpg",
+              "caption": "Vivienne realizes I survived.",
+              "narration": "My sister Vivienne clutches the headstone, her perfect face draining of color. She buried me alive—now she knows the grave gave me back.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene3.jpg",
+              "caption": "They don't know it's me.",
+              "narration": "From the shadows I watch them panic. I am Elena now—new face, dark hair, a scar they'll never recognize until it's too late.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene4.jpg",
+              "caption": "Julian demands they find her.",
+              "narration": "Julian, the husband who poisoned my wine, storms in demanding answers. 'Dig every grave if you must—find her body!' But there is no body to find.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene5.jpg",
+              "caption": "The evidence changes hands.",
+              "narration": "In my gloved hand I hold the photograph—the one that proves they murdered me. Tonight I slip it into Vivienne's coat without a sound.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene6.jpg",
+              "caption": "She finds the proof against herself.",
+              "narration": "Vivienne's fingers find the photo. She gasps as she sees her own hand lighting my funeral pyre, captured forever in silver and shadow.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene7.jpg",
+              "caption": "He sees me at last.",
+              "narration": "Then Julian turns—and his eyes lock onto mine across the open grave. Recognition floods his face like ice water. He knows. He has always known.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep9/scene8.jpg",
+              "caption": "The reckoning begins.",
+              "narration": "'Hello, husband,' I whisper. 'You buried the wrong woman.' Behind him, police lights begin to flash—and I am only just beginning.",
+              "durationSec": 9
             }
           ]
         }
