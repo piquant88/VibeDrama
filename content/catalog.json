@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T18:42:54.094Z",
+  "updatedAt": "2026-10-13T16:46:43.980Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5572,6 +5572,61 @@
               "caption": "The reckoning begins.",
               "narration": "'Hello, husband,' I whisper. 'You buried the wrong woman.' Behind him, police lights begin to flash—and I am only just beginning.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-heiress-they-buried-alive-ep10",
+          "index": 10,
+          "title": "I Return at My Own Memorial",
+          "scenes": [
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene1.jpg",
+              "caption": "My funeral. My return.",
+              "narration": "The chapel doors groan open as mourners weep over my portrait. They buried me to steal everything I owned—but death returned me their most unwelcome guest.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene2.jpg",
+              "caption": "The sister who lit my pyre.",
+              "narration": "My sister Vivian clutches the coffin, pretending to grieve. Her tears dry the instant she senses me behind her.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene3.jpg",
+              "caption": "He knew all along.",
+              "narration": "Damien, my husband—the man who poisoned my wine—goes white as the dead. He signed my death certificate with a steady hand.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene4.jpg",
+              "caption": "Look who survived.",
+              "narration": "I lift my veil slowly, letting them drink in the face they thought was buried. Gasps ripple through the marble hall like a tide of guilt.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene5.jpg",
+              "caption": "The dead keep promises.",
+              "narration": "'You cannot be real,' Vivian whispers, stumbling backward into the candles. But the dead keep their promises better than the living.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene6.jpg",
+              "caption": "Proof on the coffin.",
+              "narration": "I set the photograph upon my own coffin—the proof of their murder. 'Shall I read my eulogy, or shall you confess yours?'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene7.jpg",
+              "caption": "He won't let me live twice.",
+              "narration": "Damien lunges, grabbing my wrist, his whisper venom. 'Finish what the grave started,' he hisses—and the chapel lights die to black.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-heiress-they-buried-alive/ep10/scene8.jpg",
+              "caption": "One shot. Who falls?",
+              "narration": "A single gunshot cracks through the darkness. When the candles flare again—one of us lies bleeding on my grave, and no one knows who pulled the trigger.",
+              "durationSec": 12
             }
           ]
         }
