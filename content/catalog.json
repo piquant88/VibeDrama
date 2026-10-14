@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T16:46:43.980Z",
+  "updatedAt": "2026-10-14T14:23:47.020Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5627,6 +5627,84 @@
               "caption": "One shot. Who falls?",
               "narration": "A single gunshot cracks through the darkness. When the candles flare again—one of us lies bleeding on my grave, and no one knows who pulled the trigger.",
               "durationSec": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-barista-who-bankrupted-him",
+      "title": "The Barista Who Bankrupted Him",
+      "tagline": "He ruined her family for sport—now she's serving his empire one quiet betrayal at a time.",
+      "genre": "Revenge",
+      "cover": "the-barista-who-bankrupted-him/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Man Who Signed Away My Father",
+        "Hired to Serve the Enemy",
+        "The Password He Should Have Changed",
+        "One Cup, One Confession",
+        "The Rival Who Offered Me a Deal",
+        "Midnight in His Private Vault",
+        "The Ally Who Sold Me Out",
+        "When He Learned My Real Name",
+        "The Board Votes at Dawn",
+        "The Empire Was Mine All Along"
+      ],
+      "episodes": [
+        {
+          "id": "the-barista-who-bankrupted-him-ep1",
+          "index": 1,
+          "title": "The Man Who Signed Away My Father",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene1.jpg",
+              "caption": "Seven years ago, he destroyed us.",
+              "narration": "Seven years ago, a single signature erased everything my father built. I was seventeen, watching his hands tremble as he signed his life away.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene2.jpg",
+              "caption": "Marcus Vane. The man who smiled.",
+              "narration": "The man across the table smiled like a wolf. Marcus Vane didn't need our company — he destroyed it for sport.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene3.jpg",
+              "caption": "I buried my father. And my mercy.",
+              "narration": "That night my father's heart gave out. I promised him I would make Vane pay — not with violence, but with patience.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene4.jpg",
+              "caption": "Now I serve his empire. One cup at a time.",
+              "narration": "Today, I pour coffee in the lobby of the empire he built on our ruin. He doesn't recognize the girl he erased.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene5.jpg",
+              "caption": "He never looks at the help.",
+              "narration": "\"Make it strong,\" he says, never looking up from his phone. He has no idea the barista knows every secret in his accounts.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene6.jpg",
+              "caption": "One drive. His whole empire.",
+              "narration": "Hidden in my apron is a flash drive — a copy of the very files that can unravel him. His assistant handed it to me, believing I was loyal.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene7.jpg",
+              "caption": "\"You have your father's eyes.\"",
+              "narration": "But as I turn to leave, a hand grips my wrist. Marcus Vane is staring at me now — truly staring. \"You have your father's eyes,\" he whispers.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep1/scene8.jpg",
+              "caption": "He knows. Everything changes now.",
+              "narration": "My heart stops. Seven years of planning, and he remembers. The game I thought I controlled has just begun — and now he knows my name.",
+              "durationSec": 11
             }
           ]
         }
