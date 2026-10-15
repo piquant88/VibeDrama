@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T14:23:47.020Z",
+  "updatedAt": "2026-10-15T14:00:48.975Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5705,6 +5705,61 @@
               "caption": "He knows. Everything changes now.",
               "narration": "My heart stops. Seven years of planning, and he remembers. The game I thought I controlled has just begun — and now he knows my name.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep2",
+          "index": 2,
+          "title": "Hired to Serve the Enemy",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene1.jpg",
+              "caption": "I walked into the lion's den willingly.",
+              "narration": "The elevator doors open onto the top floor of Castellan Tower. I straighten my apron and remind myself why I'm here.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene2.jpg",
+              "caption": "The monster doesn't recognize his prey.",
+              "narration": "Marcus Castellan. The man who signed away my father's company with a smile. Today he doesn't even look up at me.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene3.jpg",
+              "caption": "Yes, sir. Whatever you say, sir.",
+              "narration": "'The new coffee girl,' he says. 'Don't speak unless spoken to.' I smile and pour. He has no idea what I'm capable of.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene4.jpg",
+              "caption": "My father's ruin, printed in black ink.",
+              "narration": "On his desk, a folder marked 'Harrington Acquisition.' My father's name. My hands tremble, but I memorize every number.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene5.jpg",
+              "caption": "Every secret, saved to my phone.",
+              "narration": "That night I photograph his private ledgers. Every secret account, every lie. The empire he built on our bones has cracks.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene6.jpg",
+              "caption": "He wasn't supposed to be here.",
+              "narration": "But Marcus returns early. 'Working late?' His voice freezes my blood. I slide the phone into my apron just in time.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene7.jpg",
+              "caption": "Please don't remember my mother's eyes.",
+              "narration": "He steps closer, studying my face. 'You remind me of someone,' he murmurs. My heart stops. Does he finally see her?",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep2/scene8.jpg",
+              "caption": "The trap just snapped shut on me.",
+              "narration": "Then his phone rings. 'Security — someone accessed my private files tonight.' His cold eyes lock onto mine. 'Don't move.'",
+              "durationSec": 9
             }
           ]
         }
