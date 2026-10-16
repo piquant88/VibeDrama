@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T14:00:48.975Z",
+  "updatedAt": "2026-10-16T13:47:50.040Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5760,6 +5760,61 @@
               "caption": "The trap just snapped shut on me.",
               "narration": "Then his phone rings. 'Security — someone accessed my private files tonight.' His cold eyes lock onto mine. 'Don't move.'",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep3",
+          "index": 3,
+          "title": "The Password He Should Have Changed",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene1.jpg",
+              "caption": "He trusts the hands that will ruin him.",
+              "narration": "The espresso machine hisses as I slide Elias Vance his morning cup, my smile polished to perfection. He has no idea the woman in the apron memorized the four digits that unlock his entire world.",
+              "durationSec": 15
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene2.jpg",
+              "caption": "A password he should have changed.",
+              "narration": "He typed it in front of me last week, confident and careless — zero-four-one-one, his dead wife's anniversary. The arrogance of a man who never imagined the help was watching.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene3.jpg",
+              "caption": "For you, Papa.",
+              "narration": "That night I stay late, alone in the executive lounge. My fingers tremble over his laptop, but my father's ruined face steadies them.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene4.jpg",
+              "caption": "His empire, wide open.",
+              "narration": "The screen unlocks. Account balances, offshore transfers, the secret files that buried my family — all laid bare before me.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene5.jpg",
+              "caption": "Every file is a bullet.",
+              "narration": "I copy everything to a hidden drive, each file a bullet I'm loading. One click at a time, I turn his own secrets into weapons.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene6.jpg",
+              "caption": "He came back.",
+              "narration": "Then headlights sweep across the glass. Footsteps echo down the marble hall. He came back.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene7.jpg",
+              "caption": "'Working late?'",
+              "narration": "I slam the laptop shut and spin around — and there he stands, Elias, watching me from the doorway. 'Working late?' he asks, and his smile doesn't reach his eyes.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep3/scene8.jpg",
+              "caption": "He saw the drive.",
+              "narration": "His gaze drifts to the USB drive still glinting in my palm. 'That,' he says softly, 'doesn't belong to you.' My heart stops as his hand reaches toward me.",
+              "durationSec": 13
             }
           ]
         }
