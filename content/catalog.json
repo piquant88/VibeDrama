@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T13:47:50.040Z",
+  "updatedAt": "2026-10-17T12:45:04.324Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5815,6 +5815,61 @@
               "caption": "He saw the drive.",
               "narration": "His gaze drifts to the USB drive still glinting in my palm. 'That,' he says softly, 'doesn't belong to you.' My heart stops as his hand reaches toward me.",
               "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep4",
+          "index": 4,
+          "title": "One Cup, One Confession",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene1.jpg",
+              "caption": "Every cup I serve him is a lie.",
+              "narration": "The espresso machine hisses like a warning. Clara pours the perfect cup, but her eyes hold a decade of ruin she intends to repay.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene2.jpg",
+              "caption": "He doesn't even know my face.",
+              "narration": "Damien Crane strides in, the tycoon who buried her father in debt for amusement. He never recognizes the barista he destroyed.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene3.jpg",
+              "caption": "The confession hides under his coffee.",
+              "narration": "She slides the cup across the counter, a hidden flash drive taped beneath the saucer. One sip, one secret stolen.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene4.jpg",
+              "caption": "Stay calm. He can't remember.",
+              "narration": "\"You remind me of someone,\" he murmurs. Clara's heart stops—but she smiles like ice.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene5.jpg",
+              "caption": "His voice. His crime. My proof.",
+              "narration": "In the storeroom, she plays the stolen recording. His own voice confesses to forging her father's bankruptcy papers.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene6.jpg",
+              "caption": "Why does he say my mother's name?",
+              "narration": "But the recording holds more than fraud—Damien whispers a name. Her mother's name. They knew each other.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene7.jpg",
+              "caption": "Someone is watching me.",
+              "narration": "Her phone buzzes. A text from an unknown number: 'I know what you're doing. Meet me, or he finds out first.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep4/scene8.jpg",
+              "caption": "He knew my name all along.",
+              "narration": "She turns—and Damien stands in the doorway, the empty saucer in his hand. 'Looking for this, Clara?'",
+              "durationSec": 8
             }
           ]
         }
