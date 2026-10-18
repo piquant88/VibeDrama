@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T12:45:04.324Z",
+  "updatedAt": "2026-10-18T13:03:20.239Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5870,6 +5870,61 @@
               "caption": "He knew my name all along.",
               "narration": "She turns—and Damien stands in the doorway, the empty saucer in his hand. 'Looking for this, Clara?'",
               "durationSec": 8
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep5",
+          "index": 5,
+          "title": "The Rival Who Offered Me a Deal",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene1.jpg",
+              "caption": "Every betrayal starts with a quiet night.",
+              "narration": "The city sleeps, but I don't. Not when Damon Vale's empire still breathes on the ruins of my father's name.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene2.jpg",
+              "caption": "The rival arrives.",
+              "narration": "Then she walks in—Selene Cross, Damon's fiercest competitor, heels sharp as knives, eyes sharper.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene3.jpg",
+              "caption": "She knows my secret.",
+              "narration": "\"I know what you're doing to Damon,\" she whispers. \"And I want to help you finish him.\"",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene4.jpg",
+              "caption": "The deal on the table.",
+              "narration": "A folder slides across the counter. Inside—proof that could topple his entire fortune overnight.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene5.jpg",
+              "caption": "Can I trust a predator?",
+              "narration": "\"But I don't trust her,\" my heart screams. Enemies of enemies are still enemies.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene6.jpg",
+              "caption": "One signature. Total ruin.",
+              "narration": "\"One signature,\" Selene purrs, \"and his empire becomes ours. Betray him completely.\"",
+              "durationSec": 6
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene7.jpg",
+              "caption": "He saw it all.",
+              "narration": "But as I reach for the pen, the shop door chimes. Damon stands in the doorway—watching everything.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep5/scene8.jpg",
+              "caption": "Everything unravels now.",
+              "narration": "\"So,\" Damon says, voice ice, \"my little barista has been plotting with my enemy.\" My revenge hangs by a thread.",
+              "durationSec": 9
             }
           ]
         }
