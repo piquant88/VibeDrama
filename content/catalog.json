@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T13:03:20.239Z",
+  "updatedAt": "2026-10-19T16:16:54.254Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5925,6 +5925,61 @@
               "caption": "Everything unravels now.",
               "narration": "\"So,\" Damon says, voice ice, \"my little barista has been plotting with my enemy.\" My revenge hangs by a thread.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep6",
+          "index": 6,
+          "title": "Midnight in His Private Vault",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene1.jpg",
+              "caption": "Midnight. His private vault.",
+              "narration": "The vault's steel door clicks open at midnight. Everything he stole from my father sleeps inside these walls.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene2.jpg",
+              "caption": "He signed away my father. Now I take it back.",
+              "narration": "I was hired to pour his coffee. Tonight I pour over his secrets. Every file here is a grave my family lies in.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene3.jpg",
+              "caption": "The forgery that destroyed us.",
+              "narration": "Then I see it — the deed to our house, forged with my father's signature. His crime, laid bare in ink.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene4.jpg",
+              "caption": "He's coming down.",
+              "narration": "Footsteps. His footsteps. The man who ruined us is descending into his own tomb of lies.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene5.jpg",
+              "caption": "Don't breathe. Don't move.",
+              "narration": "I kill the flashlight and press into the dark. One breath, one heartbeat between me and discovery.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene6.jpg",
+              "caption": "He knew my name all along.",
+              "narration": "He stops. He smiles at the empty safe where the deed should be. 'I always knew you'd come, Mara.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene7.jpg",
+              "caption": "The trap was always mine to walk into.",
+              "narration": "My blood freezes. He never changed the password — because he wanted me inside. This was never my trap. It was his.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep6/scene8.jpg",
+              "caption": "What did MY family do to HIM?",
+              "narration": "He raises a phone, my father's old voice recording playing from its speaker. 'Now,' he whispers, 'let's talk about what your family really did to me.'",
+              "durationSec": 11
             }
           ]
         }
