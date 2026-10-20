@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T16:16:54.254Z",
+  "updatedAt": "2026-10-20T14:10:03.182Z",
   "series": [
     {
       "id": "contract-bride",
@@ -5980,6 +5980,61 @@
               "caption": "What did MY family do to HIM?",
               "narration": "He raises a phone, my father's old voice recording playing from its speaker. 'Now,' he whispers, 'let's talk about what your family really did to me.'",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep7",
+          "index": 7,
+          "title": "The Ally Who Sold Me Out",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene1.jpg",
+              "caption": "I trusted the wrong ally.",
+              "narration": "The rival promised me everything. But betrayal always wears a familiar face.",
+              "durationSec": 6
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene2.jpg",
+              "caption": "He was never on my side.",
+              "narration": "Daniel Voss, the rival who swore to help me destroy the empire. His smile was the first lie.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene3.jpg",
+              "caption": "The evidence left my hands.",
+              "narration": "I handed him the vault files. Proof that could ruin Preston. I thought we were partners.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene4.jpg",
+              "caption": "My enemy and my ally... allies.",
+              "narration": "But that night, I saw them together. Daniel and the man I hunted, laughing over wine.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene5.jpg",
+              "caption": "He sold me to the devil.",
+              "narration": "The files weren't for justice. They were a gift, bought with my ruin.",
+              "durationSec": 6
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene6.jpg",
+              "caption": "'I know who you are, little barista.'",
+              "narration": "My phone buzzed. A message from Preston himself. He knew everything.",
+              "durationSec": 5
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene7.jpg",
+              "caption": "The walls are closing in.",
+              "narration": "Everything I built, every quiet betrayal—exposed. And the only one who knew my secret just sold it.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep7/scene8.jpg",
+              "caption": "He came for me himself.",
+              "narration": "Then the elevator opened. Preston stepped out, smiling. 'Let's talk about your father,' he said.",
+              "durationSec": 7
             }
           ]
         }
