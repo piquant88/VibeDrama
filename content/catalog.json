@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T14:10:03.182Z",
+  "updatedAt": "2026-10-21T14:23:09.475Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6035,6 +6035,61 @@
               "caption": "He came for me himself.",
               "narration": "Then the elevator opened. Preston stepped out, smiling. 'Let's talk about your father,' he said.",
               "durationSec": 7
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep8",
+          "index": 8,
+          "title": "When He Learned My Real Name",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene1.jpg",
+              "caption": "He never knew who I really was.",
+              "narration": "For six months I poured his coffee, learning his secrets drop by drop. He never once asked the name of the woman who hated him most.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene2.jpg",
+              "caption": "The file he was never meant to see.",
+              "narration": "Then the folder arrived on his desk — my father's old bankruptcy file. And stapled to it, a photograph of a little girl he destroyed.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene3.jpg",
+              "caption": "The truth, hiding in plain sight.",
+              "narration": "I watched through the glass as the color drained from his face. He finally understood. The barista and the daughter were the same.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene4.jpg",
+              "caption": "'Who are you really?'",
+              "narration": "He stormed into the café, slamming the photo on my counter. 'Who are you really?' he demanded. I smiled and set down his cup.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene5.jpg",
+              "caption": "'My name is Elena Marchetti.'",
+              "narration": "'My name is Elena Marchetti,' I whispered. 'You signed away my father's life with a pen. I'm just returning the favor.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene6.jpg",
+              "caption": "It was her all along.",
+              "narration": "His knees nearly buckled. Every betrayal, every stolen password, every midnight theft — suddenly it all had my name on it.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene7.jpg",
+              "caption": "'It's already too late.'",
+              "narration": "'You think knowing my name saves you?' I said. 'It's already too late. The board meets in one hour.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep8/scene8.jpg",
+              "caption": "'The money's already gone?'",
+              "narration": "Then his phone buzzed. He glanced down — and his face shattered. 'Elena,' he breathed, 'that's not possible... the money's already gone?'",
+              "durationSec": 10
             }
           ]
         }
