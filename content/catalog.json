@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T14:23:09.475Z",
+  "updatedAt": "2026-10-22T14:24:36.165Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6090,6 +6090,61 @@
               "caption": "'The money's already gone?'",
               "narration": "Then his phone buzzed. He glanced down — and his face shattered. 'Elena,' he breathed, 'that's not possible... the money's already gone?'",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep9",
+          "index": 9,
+          "title": "The Board Votes at Dawn",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene1.jpg",
+              "caption": "The board votes at dawn.",
+              "narration": "The sun hasn't risen, but the knives are already out. Clara Reyes—the barista he never saw coming—stands in the shadows of the boardroom, her heart pounding like a war drum.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene2.jpg",
+              "caption": "He walks in sure he's already won.",
+              "narration": "Julian Croft enters like a king expecting a coronation. He doesn't know the throne has already been sold beneath him.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene3.jpg",
+              "caption": "Everything he hid, now in the open.",
+              "narration": "On the long table, the dossier Clara assembled waits—every stolen signature, every buried lie. The evidence that will bury him.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene4.jpg",
+              "caption": "You never imagined this.",
+              "narration": "'You hired a barista to pour your coffee,' Clara whispers. 'You never imagined she'd pour out your empire.' The board members freeze.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene5.jpg",
+              "caption": "The empire begins to tremble.",
+              "narration": "Julian's smile cracks. For the first time, the man who ruined her father looks afraid.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene6.jpg",
+              "caption": "One by one, the hands rise.",
+              "narration": "The vote begins. Hands rise against him, one by one, each a nail in the coffin of everything he built on lies.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene7.jpg",
+              "caption": "He still has one card left.",
+              "narration": "It's over. Clara has won. But as the tally lands, Julian pulls a single folded paper from his jacket—and smiles again.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep9/scene8.jpg",
+              "caption": "The name on that paper... is hers.",
+              "narration": "'Before you celebrate,' he says, 'read who really owns your father's debt now.' Clara's victory shatters in an instant.",
+              "durationSec": 9
             }
           ]
         }
