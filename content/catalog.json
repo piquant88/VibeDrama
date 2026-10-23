@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T14:24:36.165Z",
+  "updatedAt": "2026-10-23T14:07:08.983Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6145,6 +6145,61 @@
               "caption": "The name on that paper... is hers.",
               "narration": "'Before you celebrate,' he says, 'read who really owns your father's debt now.' Clara's victory shatters in an instant.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-barista-who-bankrupted-him-ep10",
+          "index": 10,
+          "title": "The Empire Was Mine All Along",
+          "scenes": [
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene1.jpg",
+              "caption": "The empire changes hands.",
+              "narration": "The boardroom falls silent as the final vote lands. Everything Julian Vance built now bows to me.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene2.jpg",
+              "caption": "One signature ends his reign.",
+              "narration": "He signed away my father's company for sport. Today I sign away his.",
+              "durationSec": 6
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene3.jpg",
+              "caption": "The barista was the heir.",
+              "narration": "\"You were just a barista,\" he whispers. I smile. \"I was always the owner you never saw.\"",
+              "durationSec": 8
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene4.jpg",
+              "caption": "They always answered to me.",
+              "narration": "The board members rise one by one, applauding the woman who dismantled a tyrant from inside his own walls.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene5.jpg",
+              "caption": "The cup where it began.",
+              "narration": "I hand him a single coffee cup — the same cup from the day we met. \"One last confession,\" I say.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene6.jpg",
+              "caption": "He finally reads the name.",
+              "narration": "On the cup, a name he destroyed years ago — my father's. Julian's hands tremble as the truth consumes him.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene7.jpg",
+              "caption": "A ghost resurfaces.",
+              "narration": "But as security arrives to escort him out, my phone buzzes. A message from a number I buried long ago.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-barista-who-bankrupted-him/ep10/scene8.jpg",
+              "caption": "Your father is alive.",
+              "narration": "The message reads: \"Your father is alive. And he knows what you've done.\" The empire was mine — but the war just began.",
+              "durationSec": 10
             }
           ]
         }
