@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T14:07:08.983Z",
+  "updatedAt": "2026-10-24T13:09:57.433Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6199,6 +6199,84 @@
               "image": "the-barista-who-bankrupted-him/ep10/scene8.jpg",
               "caption": "Your father is alive.",
               "narration": "The message reads: \"Your father is alive. And he knows what you've done.\" The empire was mine — but the war just began.",
+              "durationSec": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-waitress-who-signed-his-death",
+      "title": "The Waitress Who Signed His Death",
+      "tagline": "She forged one signature to survive the night—now a billionaire dynasty wants her buried with its secret.",
+      "genre": "Thriller",
+      "cover": "the-waitress-who-signed-his-death/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Signature on the Dying Man's Napkin",
+        "She Woke Up Named in His Will",
+        "The Widow Who Was Never His Wife",
+        "Every Camera Erased But One",
+        "The Brother Who Offered Her Protection",
+        "Midnight: The Lawyer She Trusted Sold Her",
+        "The Body in the Account She Never Opened",
+        "He Confessed, But Not to Loving Her",
+        "The Forgery Was His Idea All Along",
+        "Her Last Signature Burns the Empire Down"
+      ],
+      "episodes": [
+        {
+          "id": "the-waitress-who-signed-his-death-ep1",
+          "index": 1,
+          "title": "The Signature on the Dying Man's Napkin",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene1.jpg",
+              "caption": "Just another dead-end shift.",
+              "narration": "Mara Kline works the midnight shift, counting pennies she doesn't have while her rent screams past due. She never notices the old man in the corner booth watching her like she's his last hope.",
+              "durationSec": 15
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene2.jpg",
+              "caption": "\"Sign it... or you're next.\"",
+              "narration": "The man grabs her wrist, trembling, pressing a napkin into her palm. 'Sign it,' he rasps, 'or they win—and you're next.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene3.jpg",
+              "caption": "One forged name changes everything.",
+              "narration": "Terrified and broke, Mara scrawls her name across the napkin, mimicking his shaking signature. In that instant, she becomes a witness to something she can't understand.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene4.jpg",
+              "caption": "He's dead. And she signed it.",
+              "narration": "The old man's eyes roll back. He collapses into the booth, the coffee cup shattering on the floor beside his lifeless hand.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene5.jpg",
+              "caption": "They came for the napkin.",
+              "narration": "Headlights flood the windows. Three black cars glide to a stop, and men in tailored suits step into the neon rain, eyes fixed on her.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene6.jpg",
+              "caption": "\"That signature belongs to us.\"",
+              "narration": "Mara stuffs the napkin into her apron as a cold-eyed woman in black enters. 'That signature belongs to my family,' she says. 'And so, now, do you.'",
+              "durationSec": 12
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene7.jpg",
+              "caption": "Run. Don't look back.",
+              "narration": "Mara bolts through the kitchen, heart pounding, the napkin burning in her pocket like a brand. Behind her, footsteps multiply into a hunt.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep1/scene8.jpg",
+              "caption": "Her mother's name... already signed.",
+              "narration": "She escapes into the alley—only to freeze. On the napkin, beneath her forged name, is a second signature already there: her own mother's.",
               "durationSec": 10
             }
           ]
