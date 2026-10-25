@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T13:09:57.433Z",
+  "updatedAt": "2026-10-25T13:36:49.627Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6278,6 +6278,55 @@
               "caption": "Her mother's name... already signed.",
               "narration": "She escapes into the alley—only to freeze. On the napkin, beneath her forged name, is a second signature already there: her own mother's.",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep2",
+          "index": 2,
+          "title": "She Woke Up Named in His Will",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep2/scene1.jpg",
+              "caption": "They found me before I even made coffee.",
+              "narration": "Mara wakes to pounding on her apartment door, the forged napkin still burning in her memory. Three lawyers in black stand in the hallway, holding a document that bears her name.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep2/scene2.jpg",
+              "caption": "Sole heir. To a stranger.",
+              "narration": "The lead attorney reads the words that stop her heart: she is the sole heir to Augustus Thorne's billions. She has never heard the name of the man who died at her diner.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep2/scene3.jpg",
+              "caption": "The family wants me gone already.",
+              "narration": "At the gleaming Thorne estate, the dynasty gathers like wolves. Celeste Thorne, the widow in black silk, studies Mara with a smile sharp as a blade.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep2/scene4.jpg",
+              "caption": "Why is he holding MY hand?",
+              "narration": "Alone in the study, Mara finds a photograph hidden in the will's folder—Augustus shaking hands with her, years ago, a day she cannot remember. Someone has been watching her for a long time.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep2/scene5.jpg",
+              "caption": "He knows what I did.",
+              "narration": "Celeste's son, Julian Thorne, corners her—handsome, dangerous, whispering that the signature she forged can send her to prison. Or make her his accomplice.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep2/scene6.jpg",
+              "caption": "There was never just one signature.",
+              "narration": "That night, a text lights her phone: a photo of the napkin she forged, with three words. 'Sign the next.' Her hands shake as a second document slides under her door.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep2/scene7.jpg",
+              "caption": "The man I signed for isn't dead.",
+              "narration": "She opens the door to an empty corridor—then sees the security monitor flickering. On every screen, the dead man Augustus is standing, alive, watching her.",
+              "durationSec": 11
             }
           ]
         }
