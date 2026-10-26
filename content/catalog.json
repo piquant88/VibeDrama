@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:36:49.627Z",
+  "updatedAt": "2026-10-26T15:56:06.202Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6327,6 +6327,61 @@
               "caption": "The man I signed for isn't dead.",
               "narration": "She opens the door to an empty corridor—then sees the security monitor flickering. On every screen, the dead man Augustus is standing, alive, watching her.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep3",
+          "index": 3,
+          "title": "The Widow Who Was Never His Wife",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene1.jpg",
+              "caption": "They buried a stranger. They named me his wife.",
+              "narration": "They called her the widow. But Mara Vance never spoke a single vow to the man now cold in a marble crypt.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene2.jpg",
+              "caption": "A marriage I never agreed to.",
+              "narration": "The lawyer slides a marriage certificate across the table. Her signature stares back—but she never signed it.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene3.jpg",
+              "caption": "The brother who wants me gone.",
+              "narration": "Dorian Castell, the dead man's brother, watches her like a wolf circling. If she was the wife, she owns half an empire.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene4.jpg",
+              "caption": "He knew my name before we met.",
+              "narration": "In the dead man's phone she finds a voice memo—her own name, whispered in fear, recorded the night he died.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene5.jpg",
+              "caption": "The first widow never left this house.",
+              "narration": "The housekeeper grabs her wrist. 'They killed the first widow too. Run before midnight.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene6.jpg",
+              "caption": "There was no way out.",
+              "narration": "Mara races through the estate gates—only to find Dorian waiting beside her car, keys already in his hand.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene7.jpg",
+              "caption": "I'm not the first. I'm the next.",
+              "narration": "'The real widow is still alive,' he murmurs. 'And she signed your death the same night you signed his.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep3/scene8.jpg",
+              "caption": "She has my face. And my name.",
+              "narration": "Headlights blaze behind them. A second woman steps from the shadows—wearing Mara's face.",
+              "durationSec": 6
             }
           ]
         }
