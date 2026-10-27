@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T15:56:06.202Z",
+  "updatedAt": "2026-10-27T15:11:38.644Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6382,6 +6382,61 @@
               "caption": "She has my face. And my name.",
               "narration": "Headlights blaze behind them. A second woman steps from the shadows—wearing Mara's face.",
               "durationSec": 6
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep4",
+          "index": 4,
+          "title": "Every Camera Erased But One",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene1.jpg",
+              "caption": "Every camera erased but one.",
+              "narration": "The security office hums with dead screens. Every camera from that fatal night has been wiped clean—except one that no one was supposed to find.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene2.jpg",
+              "caption": "The one tape that can bury me.",
+              "narration": "On the single surviving feed, Mara sees herself pressing the old man's hand to the napkin. Proof she forged the signature.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene3.jpg",
+              "caption": "You weren't supposed to see that.",
+              "narration": "Behind her, the dynasty's fixer steps from the shadows. Gray suit, colder eyes. He already knows what she's watching.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene4.jpg",
+              "caption": "Run—it's the only evidence left.",
+              "narration": "She rips the drive from the console and runs. Footsteps thunder through the marble corridor behind her.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene5.jpg",
+              "caption": "Hand it over, little waitress.",
+              "narration": "The false widow, Celeste, blocks the exit in black silk. 'Give it to me, and I'll let you live tonight.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene6.jpg",
+              "caption": "There was a second napkin?",
+              "narration": "Mara's phone buzzes—a message from a dead man's lawyer. 'Don't trust the widow. Trust the second napkin.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene7.jpg",
+              "caption": "Get in if you want to live.",
+              "narration": "Headlights explode through the windows. A black car smashes the glass, door swinging open toward her.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep4/scene8.jpg",
+              "caption": "The dead man is driving.",
+              "narration": "The driver turns—and it's the billionaire everyone swore was dead. 'You signed my death,' he whispers. 'Now help me stay alive.'",
+              "durationSec": 9
             }
           ]
         }
