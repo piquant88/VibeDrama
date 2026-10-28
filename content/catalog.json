@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T15:11:38.644Z",
+  "updatedAt": "2026-10-28T15:47:42.739Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6437,6 +6437,69 @@
               "caption": "The dead man is driving.",
               "narration": "The driver turns—and it's the billionaire everyone swore was dead. 'You signed my death,' he whispers. 'Now help me stay alive.'",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep5",
+          "index": 5,
+          "title": "The Brother Who Offered Her Protection",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene1.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene1.mp3",
+              "caption": "One photo could save her—or bury her.",
+              "narration": "Mara stands frozen in the mansion's marble foyer, the last surviving camera footage trembling on her phone. She survived the night only to inherit a war.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene2.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene2.mp3",
+              "caption": "The brother arrives with an offer.",
+              "narration": "A tall man in a charcoal suit descends the staircase—Julian Vance, the dead man's younger brother. His smile is warm, but his eyes measure her like a debt.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene3.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene3.mp3",
+              "caption": "'Trust me completely.'",
+              "narration": "'They want you silenced, Mara,' Julian whispers, pressing a heavy brass key into her palm. 'But I can protect you—if you trust me completely.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene4.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene4.mp3",
+              "caption": "Kindness in this house is a weapon.",
+              "narration": "She remembers the forged signature, the dying man's whisper, the fortune now chained to her name. Every instinct screams that kindness here is a trap.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene5.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene5.mp3",
+              "caption": "They were watching her all along.",
+              "narration": "Julian leads her to a hidden study and unlocks a steel cabinet. Inside lie documents bearing her photograph—dossiers assembled long before she ever signed.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene6.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene6.mp3",
+              "caption": "A ring that shouldn't exist.",
+              "narration": "'I'm the only Vance who wants you alive,' he says. But Mara spots a second gold wedding band hidden in his desk drawer—identical to the fake widow's.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene7.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene7.mp3",
+              "caption": "'Run before the door locks.'",
+              "narration": "Her phone buzzes—an unknown message: 'He killed his brother. Run before the door locks.' Behind her, the study door clicks shut on its own.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep5/scene8.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep5/scene8.mp3",
+              "caption": "The protector becomes the predator.",
+              "narration": "Julian turns the lock slowly, that warm smile curling into something lethal. 'Now,' he murmurs, 'let's talk about the secret you really signed away.'",
+              "durationSec": 11
             }
           ]
         }
