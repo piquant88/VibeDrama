@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T15:47:42.739Z",
+  "updatedAt": "2026-10-29T15:55:28.984Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6500,6 +6500,69 @@
               "caption": "The protector becomes the predator.",
               "narration": "Julian turns the lock slowly, that warm smile curling into something lethal. 'Now,' he murmurs, 'let's talk about the secret you really signed away.'",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep6",
+          "index": 6,
+          "title": "Midnight: The Lawyer She Trusted Sold Her",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene1.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene1.mp3",
+              "caption": "She came for the truth. He prepared her grave.",
+              "narration": "Midnight bleeds into the law office where Mara came for salvation. She clutches the napkin, the only proof she isn't a murderer.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene2.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene2.mp3",
+              "caption": "The man sworn to protect her.",
+              "narration": "Daniel Voss, her lawyer, smiles the way sharks smile before the water turns red. 'You're finally safe,' he lies.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene3.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene3.mp3",
+              "caption": "She was sold like a parcel.",
+              "narration": "But on his phone glows a message she was never meant to see: 'The girl is delivered. Payment confirmed.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene4.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene4.mp3",
+              "caption": "The trap snaps shut.",
+              "narration": "'You signed his will, Mara. Now the Hartwell dynasty needs you silent.' The door locks with a cruel click.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene5.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene5.mp3",
+              "caption": "Run. There's nowhere to go.",
+              "narration": "She bolts for the elevator, heels skidding on marble. Behind her, two silhouettes rise from the shadows.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene6.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene6.mp3",
+              "caption": "Her protector. Or her executioner?",
+              "narration": "The doors slide open—and there stands Julian Hartwell, the brother who swore to save her, gun drawn.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene7.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene7.mp3",
+              "caption": "The barrel turns toward her heart.",
+              "narration": "'Get in,' Julian breathes, 'if you still want to live.' But the gun isn't pointed at the men—it's aimed at her.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep6/scene8.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep6/scene8.mp3",
+              "caption": "Trust was the deadliest lie.",
+              "narration": "Mara realizes the truth too late—everyone who offered her safety was selling her all along. The doors begin to close.",
+              "durationSec": 9
             }
           ]
         }
