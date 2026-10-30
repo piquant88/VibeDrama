@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T15:55:28.984Z",
+  "updatedAt": "2026-10-30T15:40:20.437Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6562,6 +6562,69 @@
               "audio": "the-waitress-who-signed-his-death/ep6/scene8.mp3",
               "caption": "Trust was the deadliest lie.",
               "narration": "Mara realizes the truth too late—everyone who offered her safety was selling her all along. The doors begin to close.",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep7",
+          "index": 7,
+          "title": "The Body in the Account She Never Opened",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene1.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene1.mp3",
+              "caption": "An account she never opened.",
+              "narration": "The bank statement burns in Mara's trembling hands. An account in her name holds forty million dollars—money she never deposited, never touched.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene2.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene2.mp3",
+              "caption": "The box is occupied.",
+              "narration": "The teller's smile freezes. 'This account, ma'am—it was flagged. There's a deposit box attached. And it's... occupied.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene3.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene3.mp3",
+              "caption": "A body. In her name.",
+              "narration": "Deep in the vault, the steel door groans open. Inside the long box lies a man—gray, lifeless, clutching a napkin she recognizes.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene4.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene4.mp3",
+              "caption": "The lawyer who betrayed me.",
+              "narration": "It's the lawyer. The one who sold her at midnight. Now his dead eyes accuse her from a grave with her signature on the lease.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene5.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene5.mp3",
+              "caption": "Only me, Mara.",
+              "narration": "Footsteps echo. Julian, the brother who offered protection, steps from the shadows. 'I told you to trust only me.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene6.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene6.mp3",
+              "caption": "The seat was always yours.",
+              "narration": "'You framed me,' she whispers. Julian's smile never wavers. 'No. I saved you a seat at the family's table—as the murderer.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene7.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene7.mp3",
+              "caption": "Hands where I can see them!",
+              "narration": "Sirens scream outside. Police flood the vault, guns raised at Mara, the dead man, the forty million with her name on everything.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep7/scene8.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep7/scene8.mp3",
+              "caption": "He's... alive.",
+              "narration": "As cuffs close around her wrists, Mara sees it—the dead lawyer's eyes flutter open. He was never dead at all.",
               "durationSec": 9
             }
           ]
