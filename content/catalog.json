@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T15:40:20.437Z",
+  "updatedAt": "2026-10-31T15:10:05.070Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6626,6 +6626,69 @@
               "caption": "He's... alive.",
               "narration": "As cuffs close around her wrists, Mara sees it—the dead lawyer's eyes flutter open. He was never dead at all.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep8",
+          "index": 8,
+          "title": "He Confessed, But Not to Loving Her",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene1.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene1.mp3",
+              "caption": "They told me he'd finally confess.",
+              "narration": "The interrogation room is cold, but Mara's hands burn where the cuffs bite. Across the steel table sits Julian Vane, the brother who swore he'd protect her.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene2.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene2.mp3",
+              "caption": "He admitted everything. I thought I was free.",
+              "narration": "\"I did it,\" Julian says, voice steady as a blade. \"I moved the money. I opened the account under her name.\" Mara's heart leaps—he's saving her.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene3.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene3.mp3",
+              "caption": "His eyes said something else entirely.",
+              "narration": "But then his eyes slide to hers, and there's no love in them—only calculation. \"I confessed to the fraud,\" he adds. \"Not to protecting her.\"",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene4.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene4.mp3",
+              "caption": "The body... I knew that face.",
+              "narration": "The detective slides a photograph across the table. The dead man from the account—it's not a stranger. It's Mara's missing brother.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene5.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene5.mp3",
+              "caption": "He killed my brother to frame me.",
+              "narration": "\"You wanted me buried with the Vane secret,\" Mara whispers. \"But you buried him first.\" Julian only smiles, slow and cruel.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene6.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene6.mp3",
+              "caption": "And then SHE walked in.",
+              "narration": "The door bursts open. A woman in black strides in—the widow who was never his wife, Celeste. \"This interview is over,\" she commands.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene7.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene7.mp3",
+              "caption": "She had the one video they couldn't erase.",
+              "narration": "Celeste tosses a phone onto the table. On the screen—a video of Mara signing the napkin, timestamped before the old man died. \"I own you both now,\" she says.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep8/scene8.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep8/scene8.mp3",
+              "caption": "One more signature. One more life.",
+              "narration": "Then Celeste leans close to Mara's ear. \"Your brother isn't dead,\" she breathes. \"But he will be—unless you sign one more name.\" The pen drops before Mara.",
+              "durationSec": 12
             }
           ]
         }
