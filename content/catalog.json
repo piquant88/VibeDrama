@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T15:10:05.070Z",
+  "updatedAt": "2026-11-01T15:52:25.016Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6689,6 +6689,62 @@
               "caption": "One more signature. One more life.",
               "narration": "Then Celeste leans close to Mara's ear. \"Your brother isn't dead,\" she breathes. \"But he will be—unless you sign one more name.\" The pen drops before Mara.",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep9",
+          "index": 9,
+          "title": "The Forgery Was His Idea All Along",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep9/scene1.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep9/scene1.mp3",
+              "caption": "The forgery matches his writing. How?",
+              "narration": "Mara stares at the napkin signature she forged to survive one terrible night. But the ink lines match a letter she's never seen before—written in his hand.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep9/scene2.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep9/scene2.mp3",
+              "caption": "He knew me before that night.",
+              "narration": "A hidden envelope slides from the letter. Inside, Ellis Vance's voice on a tiny recorder whispers her name before she ever met him.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep9/scene3.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep9/scene3.mp3",
+              "caption": "He chose me to beat them.",
+              "narration": "The recording reveals the truth—Ellis chose her to forge his will, to outsmart the family that wanted him dead. She was never a victim. She was his weapon.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep9/scene4.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep9/scene4.mp3",
+              "caption": "You weren't supposed to find that.",
+              "narration": "Julian Vance bursts through the door, his charcoal suit crisp, his smile cruel. He already knows what she's heard.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep9/scene5.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep9/scene5.mp3",
+              "caption": "Two brothers. One trap. Me.",
+              "narration": "Mara backs away, clutching the recorder like a lifeline. Every lie finally fits—Ellis used her, and Julian intends to finish what the family started.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep9/scene6.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep9/scene6.mp3",
+              "caption": "The traitor is standing with you.",
+              "narration": "Then Ellis's voice speaks again—naming the one person in the room who betrayed everyone. The recorder points straight at Julian.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep9/scene7.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep9/scene7.mp3",
+              "caption": "The dead man walks back in.",
+              "narration": "Julian lunges for the device. But behind him, a figure thought long dead steps from the dark—Ellis Vance, very much alive.",
+              "durationSec": 9
             }
           ]
         }
