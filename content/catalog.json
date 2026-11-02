@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T15:52:25.016Z",
+  "updatedAt": "2026-11-02T19:16:31.085Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6745,6 +6745,69 @@
               "caption": "The dead man walks back in.",
               "narration": "Julian lunges for the device. But behind him, a figure thought long dead steps from the dark—Ellis Vance, very much alive.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-waitress-who-signed-his-death-ep10",
+          "index": 10,
+          "title": "Her Last Signature Burns the Empire Down",
+          "scenes": [
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene1.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene1.mp3",
+              "caption": "One signature started this. One will end it.",
+              "narration": "They told me a signature could kill a man. Tonight I learn it can bury an empire.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene2.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene2.mp3",
+              "caption": "The brother who lied with a smile.",
+              "narration": "Julian promised he'd protect me. But the ink on my fingers says he only ever protected himself.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene3.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene3.mp3",
+              "caption": "Celeste knew the truth all along.",
+              "narration": "The widow who was never his wife steps from the shadows. Her secret is the knife I've been hiding.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene4.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene4.mp3",
+              "caption": "The forgery was never my crime.",
+              "narration": "I spread the forged will across the table—every lie stamped in his handwriting, not mine.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene5.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene5.mp3",
+              "caption": "The man who auctioned my life.",
+              "narration": "Victor, the lawyer who sold me, reaches for his phone. One call and I'm the body in that account.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene6.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene6.mp3",
+              "caption": "My last signature. Live to everyone.",
+              "narration": "So I sign it. My real name, at last—broadcasting every secret to the world watching live.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene7.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene7.mp3",
+              "caption": "The empire falls in real time.",
+              "narration": "Screens across the city ignite with their crimes. The empire burns—and Julian whispers my name like a verdict.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-waitress-who-signed-his-death/ep10/scene8.jpg",
+              "audio": "the-waitress-who-signed-his-death/ep10/scene8.mp3",
+              "caption": "The dead man was never dead.",
+              "narration": "Then the lights die. A gun cocks in the dark. And a voice I buried eight episodes ago says, 'You signed the wrong man's death.'",
+              "durationSec": 11
             }
           ]
         }
