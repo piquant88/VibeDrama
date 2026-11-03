@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T19:16:31.085Z",
+  "updatedAt": "2026-11-03T16:53:18.990Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6808,6 +6808,92 @@
               "caption": "The dead man was never dead.",
               "narration": "Then the lights die. A gun cocks in the dark. And a voice I buried eight episodes ago says, 'You signed the wrong man's death.'",
               "durationSec": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-surrogate-s-stolen-crown",
+      "title": "The Surrogate's Stolen Crown",
+      "tagline": "She carried their heir in secret—now she'll inherit everything they tried to bury.",
+      "genre": "Revenge",
+      "cover": "the-surrogate-s-stolen-crown/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "She Signed the Contract to Carry Their Baby",
+        "The Night They Declared Her Dead",
+        "She Returned With His Son's Eyes",
+        "The DNA Test He Begged Her to Hide",
+        "Dinner With the Family That Buried Her",
+        "Her Secret Marriage Certificate Surfaces",
+        "The Betrayal Hidden in Her Own Sister's Smile",
+        "He Chose the Company Over Their Child",
+        "The Will That Named Her Sole Heir",
+        "Checkmate: The Crown Was Always Hers"
+      ],
+      "episodes": [
+        {
+          "id": "the-surrogate-s-stolen-crown-ep1",
+          "index": 1,
+          "title": "She Signed the Contract to Carry Their Baby",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene1.mp3",
+              "caption": "The price of desperation.",
+              "narration": "Elena stares at the contract that will change her life forever. Three hundred thousand dollars to carry a stranger's child—and bury her own dignity with it.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene2.mp3",
+              "caption": "The woman who buys everything.",
+              "narration": "Across the table sits Victoria Ashford, matriarch of a billion-dollar dynasty. Her smile is ice wrapped in silk.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene3.mp3",
+              "caption": "Carry the heir. Then vanish.",
+              "narration": "'You will carry my grandchild in silence,' Victoria commands. 'And when it's born, you will disappear.' Elena's hand trembles as she signs.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene4.mp3",
+              "caption": "She signed away everything.",
+              "narration": "Elena needs the money to save her dying mother. She tells herself it's only a transaction. She has no idea whose child she truly carries.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene5.mp3",
+              "caption": "They took her child away.",
+              "narration": "Nine months later, Elena cradles the newborn she swore not to love. But the moment they rip the baby from her arms, something inside her shatters.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene6.mp3",
+              "caption": "You were just the vessel.",
+              "narration": "Victoria tosses a check onto the bed like garbage. 'You were never the mother,' she sneers. 'You were the vessel.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene7.mp3",
+              "caption": "The father sees her at last.",
+              "narration": "But as Elena is forced out the door, a tall man in a black suit freezes at the sight of her. It's Adrian Ashford—Victoria's son. The father.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep1/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep1/scene8.mp3",
+              "caption": "The secret that burns it all down.",
+              "narration": "'Who is this woman?' Adrian demands. Victoria's face drains white—because the contract hid a secret that could destroy them all.",
+              "durationSec": 9
             }
           ]
         }
