@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T16:53:18.990Z",
+  "updatedAt": "2026-11-04T16:56:22.809Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6894,6 +6894,69 @@
               "caption": "The secret that burns it all down.",
               "narration": "'Who is this woman?' Adrian demands. Victoria's face drains white—because the contract hid a secret that could destroy them all.",
               "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep2",
+          "index": 2,
+          "title": "The Night They Declared Her Dead",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene1.mp3",
+              "caption": "They left her to labor alone.",
+              "narration": "The hospital corridor glows cold and merciless as Elena clutches her swollen belly, her water breaking in a rush of panic. No one answers her cries.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene2.mp3",
+              "caption": "The matriarch had other plans.",
+              "narration": "From the shadows, Victoria Ashford—the matriarch in black—watches without a trace of mercy. 'Once the child is born,' she whispers, 'the mother disappears.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene3.mp3",
+              "caption": "They took him in seconds.",
+              "narration": "Hours later, a newborn's cry pierces the air. Elena reaches for her son—but gloved hands snatch him away before she can touch his skin.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene4.mp3",
+              "caption": "Silenced before she could fight.",
+              "narration": "Then the drugs hit her veins. Elena's vision blurs as a syringe empties into her IV, her screams fading into silence.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene5.mp3",
+              "caption": "One signature erased her life.",
+              "narration": "Victoria signs the death certificate with a steady hand. 'Complications during childbirth,' she lies. 'The surrogate did not survive.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene6.mp3",
+              "caption": "Death couldn't hold her.",
+              "narration": "But in the morgue's freezing dark, Elena's fingers twitch. Her heart still beats—faint, defiant, alive.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene7.mp3",
+              "caption": "She rose to reclaim everything.",
+              "narration": "She tears the tag from her toe and rises, trembling with rage. Somewhere out there, her son is in the arms of her enemies.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep2/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep2/scene8.mp3",
+              "caption": "They buried the wrong woman.",
+              "narration": "Elena stumbles to the window and sees the Ashford limousine pulling away—with her baby inside. 'You buried the wrong woman,' she vows. And the war begins.",
+              "durationSec": 11
             }
           ]
         }
