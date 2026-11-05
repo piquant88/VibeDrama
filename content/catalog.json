@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T16:56:22.809Z",
+  "updatedAt": "2026-11-05T17:11:28.372Z",
   "series": [
     {
       "id": "contract-bride",
@@ -6957,6 +6957,69 @@
               "caption": "They buried the wrong woman.",
               "narration": "Elena stumbles to the window and sees the Ashford limousine pulling away—with her baby inside. 'You buried the wrong woman,' she vows. And the war begins.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep3",
+          "index": 3,
+          "title": "She Returned With His Son's Eyes",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene1.mp3",
+              "caption": "The dead woman returns.",
+              "narration": "Three years ago they signed her death certificate. Today, Elena walks back through the marble doors they thought would be her tomb.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene2.mp3",
+              "caption": "The boy with his father's eyes.",
+              "narration": "Beside her, a small boy clutches her hand. His eyes—gray as winter steel—are unmistakably the Ashford bloodline.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene3.mp3",
+              "caption": "The woman who killed me.",
+              "narration": "Victoria Ashford, the matriarch who ordered her erased, freezes at the top of the staircase. Her wine glass shatters on the floor.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene4.mp3",
+              "caption": "You forgot the heir.",
+              "narration": "'You buried me,' Elena says softly. 'But you forgot to bury what I carried inside me.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene5.mp3",
+              "caption": "The husband who let her die.",
+              "narration": "Damien Ashford descends the stairs, his face draining white. The son he mourned. The woman he betrayed.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene6.mp3",
+              "caption": "One word changes everything.",
+              "narration": "The boy looks up at Damien and whispers one word that stops the room cold: 'Father?'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene7.mp3",
+              "caption": "The heir inherits everything.",
+              "narration": "Elena smiles, slow and merciless. 'Every share, every estate, every secret—it all belongs to him now. By blood.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep3/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep3/scene8.mp3",
+              "caption": "Another heir is alive.",
+              "narration": "But as the family lawyer steps forward, he drops a bombshell: 'There's a problem. The child... isn't the only heir who survived.'",
+              "durationSec": 10
             }
           ]
         }
