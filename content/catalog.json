@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T17:11:28.372Z",
+  "updatedAt": "2026-11-06T16:38:44.839Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7019,6 +7019,69 @@
               "audio": "the-surrogate-s-stolen-crown/ep3/scene8.mp3",
               "caption": "Another heir is alive.",
               "narration": "But as the family lawyer steps forward, he drops a bombshell: 'There's a problem. The child... isn't the only heir who survived.'",
+              "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep4",
+          "index": 4,
+          "title": "The DNA Test He Begged Her to Hide",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene1.mp3",
+              "caption": "The truth is finally in my hands.",
+              "narration": "The envelope trembles in Elena's hands, its seal hiding the truth that could shatter an empire. She has waited three years for this single sheet of paper.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene2.mp3",
+              "caption": "He knew. He always knew.",
+              "narration": "Damien storms in, panic carved across his handsome face. He knows exactly what that document proves.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene3.mp3",
+              "caption": "Burn it. Please. Hide the truth.",
+              "narration": "'Burn it,' he begs, gripping her wrist. 'No one can ever see those results—not my family, not the world.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene4.mp3",
+              "caption": "You buried me. I came back.",
+              "narration": "Elena pulls free, her voice ice. 'You declared me dead to steal my son. Why would I protect you now?'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene5.mp3",
+              "caption": "99.9%. My son. My blood.",
+              "narration": "She tears open the envelope. The words blur through her tears: 99.9% match. The boy is hers.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene6.mp3",
+              "caption": "They'll destroy you both!",
+              "narration": "Damien lunges for the paper. 'If this gets out, they'll take everything from you—and from him!'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene7.mp3",
+              "caption": "The matriarch heard everything.",
+              "narration": "A cold voice cuts through the chaos. His mother, the matriarch, stands at the top of the grand staircase, having heard it all.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep4/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep4/scene8.mp3",
+              "caption": "She never leaves alive.",
+              "narration": "'So the dead girl carries my grandson,' the matriarch whispers, lifting a phone. 'Then let's make sure she never leaves this house alive.'",
               "durationSec": 10
             }
           ]
