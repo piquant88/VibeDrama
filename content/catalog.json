@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T16:38:44.839Z",
+  "updatedAt": "2026-11-07T15:30:59.418Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7083,6 +7083,69 @@
               "caption": "She never leaves alive.",
               "narration": "'So the dead girl carries my grandson,' the matriarch whispers, lifting a phone. 'Then let's make sure she never leaves this house alive.'",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep5",
+          "index": 5,
+          "title": "Dinner With the Family That Buried Her",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene1.mp3",
+              "caption": "The woman they declared dead returns.",
+              "narration": "They buried me on paper three years ago. Tonight, I sit at their dinner table, and they don't recognize the ghost they made.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene2.mp3",
+              "caption": "The family that buried her toasts her arrival.",
+              "narration": "Vivian, the matriarch who signed my death certificate, smiles like I'm a stranger. Her son Adrian can barely meet my eyes.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene3.mp3",
+              "caption": "A toast to old secrets.",
+              "narration": "'You look so familiar,' Vivian purrs. I raise my glass. 'Perhaps we've met—over a contract.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene4.mp3",
+              "caption": "The heir they never knew existed.",
+              "narration": "Then a small boy runs in—my son—with Adrian's exact eyes. The fork slips from Vivian's hand.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene5.mp3",
+              "caption": "He finally speaks her name.",
+              "narration": "'Say hello to your grandmother,' I whisper. Adrian stands, trembling. 'Elena... it's really you.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene6.mp3",
+              "caption": "The matriarch bares her claws.",
+              "narration": "Vivian's shock turns to venom. 'You signed everything away. That child is ours—and so is his inheritance.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene7.mp3",
+              "caption": "The crown changes hands.",
+              "narration": "I slide a document across the table. 'Then you'll want to read who really owns this estate now.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep5/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep5/scene8.mp3",
+              "caption": "The ghost had a partner all along.",
+              "narration": "Vivian reads the name on the deed and goes white. 'This is impossible.' The doors burst open—and the one man they thought dead walks in.",
+              "durationSec": 11
             }
           ]
         }
