@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T15:30:59.418Z",
+  "updatedAt": "2026-11-08T15:51:01.552Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7146,6 +7146,69 @@
               "caption": "The ghost had a partner all along.",
               "narration": "Vivian reads the name on the deed and goes white. 'This is impossible.' The doors burst open—and the one man they thought dead walks in.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep6",
+          "index": 6,
+          "title": "Her Secret Marriage Certificate Surfaces",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene1.mp3",
+              "caption": "She brought the one thing they tried to destroy.",
+              "narration": "The family gala glitters with champagne and lies, but Elena arrives carrying something sharper than any toast. In her trembling hand rests a folded document the Ashcrofts prayed had burned years ago.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene2.mp3",
+              "caption": "He recognizes it instantly.",
+              "narration": "Damien freezes mid-sentence, his glass slipping in his grip. He knows that envelope—he signed what's inside it under the old chapel's candlelight.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene3.mp3",
+              "caption": "A marriage certificate. Theirs.",
+              "narration": "\"Tell them what we are, Damien,\" Elena whispers, unfolding the paper. The gold seal of a marriage certificate catches the light for all to see.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene4.mp3",
+              "caption": "The matriarch strikes back.",
+              "narration": "The matriarch, Vivienne, lunges forward, her diamond rings flashing like claws. \"That paper is a forgery—you were never one of us!\"",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene5.mp3",
+              "caption": "Every signature tells the truth.",
+              "narration": "But Elena only smiles, calm as winter. \"Then explain why his signature matches the deed to everything you own.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene6.mp3",
+              "caption": "The whole empire hangs in the balance.",
+              "narration": "A gasp ripples through the crowd as the truth lands. If the marriage is real, so is Elena's claim—to the name, the fortune, the heir.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene7.mp3",
+              "caption": "He knows a secret she doesn't.",
+              "narration": "Damien reaches for her, voice breaking. \"Elena, there's something about that certificate you don't know.\" Her smile falters for the first time.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep6/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep6/scene8.mp3",
+              "caption": "Already married... to someone else?",
+              "narration": "Suddenly the ballroom doors burst open. A stranger steps in holding a second, identical certificate—and declares, \"That marriage was never legal. Because she was already married to me.\"",
+              "durationSec": 12
             }
           ]
         }
