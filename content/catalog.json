@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T15:51:01.552Z",
+  "updatedAt": "2026-11-09T19:35:49.944Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7209,6 +7209,69 @@
               "caption": "Already married... to someone else?",
               "narration": "Suddenly the ballroom doors burst open. A stranger steps in holding a second, identical certificate—and declares, \"That marriage was never legal. Because she was already married to me.\"",
               "durationSec": 12
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep7",
+          "index": 7,
+          "title": "The Betrayal Hidden in Her Own Sister's Smile",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene1.mp3",
+              "caption": "The sister she trusted held the deadliest secret.",
+              "narration": "The marriage certificate trembles in Vivian's hands. She thought she knew every secret in this family—but her own sister's smile was the sharpest blade of all.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene2.mp3",
+              "caption": "That smile hid a lifetime of lies.",
+              "narration": "Across the room, Clara adjusts her flawless smile—the same smile she wore the night Vivian was declared dead.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene3.mp3",
+              "caption": "'You were always the disposable one.'",
+              "narration": "'You signed me away,' Vivian whispers. 'You forged my death and sold my son's future.' Clara only laughs, soft and cruel.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene4.mp3",
+              "caption": "The mastermind was never the husband.",
+              "narration": "Clara reveals the truth: she was the architect of it all. The contract, the fake funeral, the stolen inheritance—every cruelty had her fingerprints.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene5.mp3",
+              "caption": "The boy runs to the wrong arms.",
+              "narration": "A child's footsteps echo. Little Leo, with his father's unmistakable eyes, runs into the room—straight toward the woman who betrayed his mother.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene6.mp3",
+              "caption": "Even her child was turned against her.",
+              "narration": "'Auntie Clara!' Leo cries, hugging her legs. Vivian's heart shatters—her sister has been poisoning her son against her all along.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene7.mp3",
+              "caption": "'He'll never remember you existed.'",
+              "narration": "Clara leans close, voice venomous. 'He calls me mother now. And by midnight, the courts will too.' She slides a custody document across the table.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep7/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep7/scene8.mp3",
+              "caption": "Someone just forged her signature tonight.",
+              "narration": "But as Vivian reads the signature at the bottom, her tears turn to ice. It isn't Clara's name—it's her own. And the ink is still wet.",
+              "durationSec": 11
             }
           ]
         }
