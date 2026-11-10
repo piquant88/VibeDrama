@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T19:35:49.944Z",
+  "updatedAt": "2026-11-10T16:51:58.270Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7271,6 +7271,69 @@
               "audio": "the-surrogate-s-stolen-crown/ep7/scene8.mp3",
               "caption": "Someone just forged her signature tonight.",
               "narration": "But as Vivian reads the signature at the bottom, her tears turn to ice. It isn't Clara's name—it's her own. And the ink is still wet.",
+              "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep8",
+          "index": 8,
+          "title": "He Chose the Company Over Their Child",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene1.mp3",
+              "caption": "Our son is dying, Adrian.",
+              "narration": "Elena stands in the hospital corridor, clutching her newborn son as monitors scream behind her. The child's tiny hand grips her finger, fighting for life.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene2.mp3",
+              "caption": "He came for the deal, not the child.",
+              "narration": "Adrian arrives in a tailored charcoal suit, phone pressed to his ear, closing a billion-dollar merger. He doesn't even look at the incubator.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene3.mp3",
+              "caption": "One signature could save him.",
+              "narration": "The surgeon demands his signature to authorize the emergency operation. Adrian hesitates, calculating the scandal, the shareholders, the price of mercy.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene4.mp3",
+              "caption": "He pushed the papers away.",
+              "narration": "\"If his name goes on record, the board will know everything,\" Adrian whispers. He slides the form back, unsigned, choosing the empire over his blood.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene5.mp3",
+              "caption": "You chose them over your own child.",
+              "narration": "Elena's world shatters. The man she once loved just traded their son's life for a boardroom vote.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene6.mp3",
+              "caption": "She signed with another man's name.",
+              "narration": "Then she rises, spine like steel, and signs the form herself—with a name Adrian never expected to see. Her secret husband's name.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene7.mp3",
+              "caption": "My husband owns what you buried.",
+              "narration": "\"Legal guardian,\" she declares. \"My husband holds the rights to this child now—and to everything your family hid.\" Adrian's face drains white.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep8/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep8/scene8.mp3",
+              "caption": "The real heir just arrived.",
+              "narration": "As the surgery doors swing shut, Elena's phone lights up. A message from her secret husband: \"I'm walking in now.\" And the elevator opens behind Adrian.",
               "durationSec": 11
             }
           ]
