@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T16:51:58.270Z",
+  "updatedAt": "2026-11-11T16:57:29.471Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7335,6 +7335,69 @@
               "caption": "The real heir just arrived.",
               "narration": "As the surgery doors swing shut, Elena's phone lights up. A message from her secret husband: \"I'm walking in now.\" And the elevator opens behind Adrian.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep9",
+          "index": 9,
+          "title": "The Will That Named Her Sole Heir",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene1.mp3",
+              "caption": "The will is read today.",
+              "narration": "The lawyer's voice cuts through the silence like a blade. The patriarch's final will has arrived, and no one in this family is prepared for its verdict.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene2.mp3",
+              "caption": "She waited three years for this.",
+              "narration": "Elena stands apart, her raven hair pinned back, her green eyes cold and composed. They buried her once—now she waits for the truth to rise.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene3.mp3",
+              "caption": "He already fears the answer.",
+              "narration": "Adrian grips the table, his jaw tight, dread flooding his handsome face. He chose the company over their child—and now fate turns the knife.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene4.mp3",
+              "caption": "Sole heir. Everything.",
+              "narration": "'The entire estate,' the lawyer declares, 'is left to Elena—and her son, the only true heir of this bloodline.' Gasps shatter the room.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene5.mp3",
+              "caption": "Her sister's smile finally breaks.",
+              "narration": "Her sister Vivian lunges forward, smile twisted into fury. 'This is impossible! She signed everything away!' But her lies crumble before them all.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene6.mp3",
+              "caption": "The boy with his father's eyes.",
+              "narration": "Elena lifts a small boy into the light, his hazel eyes a mirror of Adrian's own. 'Meet your heir,' she whispers. 'The child you called dead.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene7.mp3",
+              "caption": "Too late to beg.",
+              "narration": "Adrian falls to his knees, voice breaking. 'Elena, please—let me be his father.' But her eyes hold only the memory of the night they left her for dead.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep9/scene8.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep9/scene8.mp3",
+              "caption": "Her husband is alive?",
+              "narration": "As Elena turns to leave, the lawyer's phone rings—his face goes pale. 'Madam... your husband is alive. And he's coming to claim his share.' The crown is far from won.",
+              "durationSec": 13
             }
           ]
         }
