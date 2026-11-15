@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T16:57:29.471Z",
+  "updatedAt": "2026-11-15T16:08:11.503Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7397,6 +7397,62 @@
               "audio": "the-surrogate-s-stolen-crown/ep9/scene8.mp3",
               "caption": "Her husband is alive?",
               "narration": "As Elena turns to leave, the lawyer's phone rings—his face goes pale. 'Madam... your husband is alive. And he's coming to claim his share.' The crown is far from won.",
+              "durationSec": 13
+            }
+          ]
+        },
+        {
+          "id": "the-surrogate-s-stolen-crown-ep10",
+          "index": 10,
+          "title": "Checkmate: The Crown Was Always Hers",
+          "scenes": [
+            {
+              "image": "the-surrogate-s-stolen-crown/ep10/scene1.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep10/scene1.mp3",
+              "caption": "She came back to collect.",
+              "narration": "The boardroom falls silent as Clara walks in, the will clutched in her trembling hand. They buried her once—today she returns to inherit everything.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep10/scene2.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep10/scene2.mp3",
+              "caption": "'You were supposed to stay dead.'",
+              "narration": "Adrian rises, his navy suit crisp, his guilt heavier than any crown. 'You were supposed to stay dead,' he whispers.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep10/scene3.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep10/scene3.mp3",
+              "caption": "Every betrayal was predicted.",
+              "narration": "Her sister Vanessa lunges for the document, blonde hair flying. But Clara only smiles—she anticipated every move.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep10/scene4.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep10/scene4.mp3",
+              "caption": "Sole heir. Full control.",
+              "narration": "The lawyer reads the verdict: sole heir, full control, every share now hers. The family that erased her watches their empire crumble.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep10/scene5.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep10/scene5.mp3",
+              "caption": "'This crown was always ours.'",
+              "narration": "Clara lifts her son into her arms—the boy with Adrian's eyes, the heir they tried to deny. 'This crown was always ours.'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep10/scene6.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep10/scene6.mp3",
+              "caption": "The man who chose wrong.",
+              "narration": "Adrian drops to his knees, reaching for the child he abandoned. 'Let me be his father—let me fix everything.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-surrogate-s-stolen-crown/ep10/scene7.jpg",
+              "audio": "the-surrogate-s-stolen-crown/ep10/scene7.mp3",
+              "caption": "Someone knows her secret.",
+              "narration": "Clara turns toward the door, her heels echoing like a final verdict. But as she steps into the hall, a stranger whispers her true name—one she never told anyone.",
               "durationSec": 13
             }
           ]
