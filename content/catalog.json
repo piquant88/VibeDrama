@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T16:08:11.503Z",
+  "updatedAt": "2026-11-16T19:22:59.286Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7454,6 +7454,92 @@
               "caption": "Someone knows her secret.",
               "narration": "Clara turns toward the door, her heels echoing like a final verdict. But as she steps into the hall, a stranger whispers her true name—one she never told anyone.",
               "durationSec": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-valet-who-owned-her-nights",
+      "title": "The Valet Who Owned Her Nights",
+      "tagline": "She slapped the parking valet—unaware he secretly held the deed to her father's empire.",
+      "genre": "Revenge",
+      "cover": "the-valet-who-owned-her-nights/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "She Slapped the Valet and Tossed Him a Coin",
+        "He Parked Her Car—And Pocketed Her Family's Secret",
+        "The Charity Gala Where Nobody Recognized the Owner",
+        "Her Father Begs a Stranger to Save the Company",
+        "The Kiss That Was Really a Trap",
+        "Midnight Confession: He's the Man Who Bought Her Debt",
+        "Betrayed by Her Sister, Sold to Her Enemy",
+        "The Valet Removes His Mask at the Board Meeting",
+        "She Chooses Love the Night He Loses Everything",
+        "The Empire Is Hers—If She Says His Name Out Loud"
+      ],
+      "episodes": [
+        {
+          "id": "the-valet-who-owned-her-nights-ep1",
+          "index": 1,
+          "title": "She Slapped the Valet and Tossed Him a Coin",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene1.mp3",
+              "caption": "Her empire. His silence.",
+              "narration": "The city's richest heiress arrives, draped in arrogance and diamonds. She does not see the man who will one day own her entire world.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene2.mp3",
+              "caption": "Just a valet. Or so she thinks.",
+              "narration": "Adrian, the quiet valet, reaches for her keys. His hands are calm, but his eyes burn with buried purpose.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene3.mp3",
+              "caption": "\"You dared touch my car?\"",
+              "narration": "A scratch on her car—she blames him instantly. Her fury erupts before he can speak a single word.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene4.mp3",
+              "caption": "The slap that started a war.",
+              "narration": "Her palm cracks across his face, loud as thunder. The crowd gasps, but Adrian does not flinch.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene5.mp3",
+              "caption": "\"Pick it up, servant.\"",
+              "narration": "She tosses a single gold coin at his feet, a final humiliation. 'That's all your dignity is worth.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene6.mp3",
+              "caption": "He owns everything she has.",
+              "narration": "Adrian kneels, lifts the coin, and smiles. In his jacket rests a folded deed—the deed to her father's empire.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene7.mp3",
+              "caption": "Everything belongs to him now.",
+              "narration": "That night, her father's lawyers deliver the news that shatters her throne. The empire has a new master.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep1/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep1/scene8.mp3",
+              "caption": "The valet owns her nights now.",
+              "narration": "The next morning, he stands in her marble hall—no longer a valet, but her new boss. 'Good morning,' he says. 'You're late for work.'",
+              "durationSec": 11
             }
           ]
         }
