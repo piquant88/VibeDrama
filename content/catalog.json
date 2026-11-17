@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T19:22:59.286Z",
+  "updatedAt": "2026-11-17T18:16:37.079Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7539,6 +7539,69 @@
               "audio": "the-valet-who-owned-her-nights/ep1/scene8.mp3",
               "caption": "The valet owns her nights now.",
               "narration": "The next morning, he stands in her marble hall—no longer a valet, but her new boss. 'Good morning,' he says. 'You're late for work.'",
+              "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep2",
+          "index": 2,
+          "title": "He Parked Her Car—And Pocketed Her Family's Secret",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene1.mp3",
+              "caption": "She never saw it coming.",
+              "narration": "Isabella Stone struts toward her crimson sports car, heiress to an empire she believes untouchable. But the valet's eyes hold a secret that could shatter her entire world.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene2.mp3",
+              "caption": "The valet holds everything.",
+              "narration": "Adrian the valet opens her door with a knowing smile, his worn uniform hiding the heart of a dethroned prince. In his pocket rests a folded document—the deed to her father's fortune.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene3.mp3",
+              "caption": "\"You peasant.\"",
+              "narration": "\"You scratched my paint, you peasant,\" Isabella hisses, stabbing a manicured finger at his chest. Adrian's jaw tightens—she has no idea who she's humiliating.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene4.mp3",
+              "caption": "The empire was built on a lie.",
+              "narration": "From the folded deed, Adrian glimpses a signature—her father's name, forged in desperation. The Stone empire was never truly theirs.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene5.mp3",
+              "caption": "They have met before.",
+              "narration": "Isabella freezes as a faded photo slips from his jacket—a younger version of her father shaking hands with a boy. That boy was Adrian.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene6.mp3",
+              "caption": "\"Where did you get this?\"",
+              "narration": "\"Where did you get this?\" she whispers, voice trembling. Adrian leans close, his breath cold against her ear.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene7.mp3",
+              "caption": "Twenty years of secrets.",
+              "narration": "\"Ask your father,\" Adrian murmurs, \"what he buried twenty years ago.\" Isabella's world spins as sirens scream in the distance.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep2/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep2/scene8.mp3",
+              "caption": "The dead man returns.",
+              "narration": "As Isabella grabs her phone to call her father, a black limousine screeches to a halt—and the man stepping out is supposed to be dead.",
               "durationSec": 11
             }
           ]
