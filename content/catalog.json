@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T18:16:37.079Z",
+  "updatedAt": "2026-11-18T17:52:36.698Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7602,6 +7602,69 @@
               "audio": "the-valet-who-owned-her-nights/ep2/scene8.mp3",
               "caption": "The dead man returns.",
               "narration": "As Isabella grabs her phone to call her father, a black limousine screeches to a halt—and the man stepping out is supposed to be dead.",
+              "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep3",
+          "index": 3,
+          "title": "The Charity Gala Where Nobody Recognized the Owner",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene1.mp3",
+              "caption": "She arrives like a queen—blind to her fall.",
+              "narration": "The chandeliers blaze over the charity gala, and Vivian sweeps in like she owns the night. She does not know that tonight, the man she slapped owns everything.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene2.mp3",
+              "caption": "The valet becomes the ghost at her feast.",
+              "narration": "Across the marble floor stands Adrian—no longer in a valet's jacket, but in a tailored tuxedo. In his pocket rests the deed to her father's empire.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene3.mp3",
+              "caption": "She almost remembers the hand she struck.",
+              "narration": "Their eyes meet across the room. She feels a flicker of recognition—but dismisses it. A man like that could never be beneath her.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene4.mp3",
+              "caption": "A mystery benefactor steps into the light.",
+              "narration": "The host takes the stage. 'Please welcome our mystery benefactor—the gala's largest donor.' Every head turns, searching for a stranger.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene5.mp3",
+              "caption": "The valet ascends the stage she thought was hers.",
+              "narration": "Adrian walks forward, calm and unhurried, climbing the stage. Vivian's champagne glass trembles in her hand.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene6.mp3",
+              "caption": "\"You slapped me—and tipped me a coin.\"",
+              "narration": "'You slapped me yesterday,' he says into the microphone, eyes fixed on her. 'And tossed me a coin.' The room gasps.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene7.mp3",
+              "caption": "The deed to her empire—in his hand.",
+              "narration": "He lifts a folded document into the light. 'This is the deed to the Sinclair empire. Your father's empire. Now mine.' Vivian's world shatters.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep3/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep3/scene8.mp3",
+              "caption": "\"Vivian… what have you done?\"",
+              "narration": "Her father bursts through the crowd, face white as ash. 'Vivian—what have you done?' And Adrian only smiles, because the revenge has just begun.",
               "durationSec": 11
             }
           ]
