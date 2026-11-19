@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T17:52:36.698Z",
+  "updatedAt": "2026-11-19T18:02:01.212Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7666,6 +7666,69 @@
               "caption": "\"Vivian… what have you done?\"",
               "narration": "Her father bursts through the crowd, face white as ash. 'Vivian—what have you done?' And Adrian only smiles, because the revenge has just begun.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep4",
+          "index": 4,
+          "title": "Her Father Begs a Stranger to Save the Company",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene1.mp3",
+              "caption": "The empire is collapsing.",
+              "narration": "The towers of Ashford Holdings tremble as creditors circle like vultures. Richard Ashford, once untouchable, now stands cornered in his own boardroom.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene2.mp3",
+              "caption": "Isabella refuses to see the truth.",
+              "narration": "His daughter Isabella sweeps in, poised and cold, still believing money can fix everything.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene3.mp3",
+              "caption": "A stranger now owns everything.",
+              "narration": "'There is one man who holds our fate,' Richard whispers. 'A silent investor who bought our debt overnight.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene4.mp3",
+              "caption": "The savior arrives.",
+              "narration": "The elevator opens. A tall figure steps out in a tailored black suit—calm, commanding, impossibly familiar.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene5.mp3",
+              "caption": "A proud man begs.",
+              "narration": "Richard rushes forward, pride shattered, and grips the stranger's hands. 'Please—save my company. I beg you.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene6.mp3",
+              "caption": "She recognizes him.",
+              "narration": "Isabella's breath catches. That face—the valet she slapped and humiliated. Now he holds her kingdom in his palm.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene7.mp3",
+              "caption": "The valet remembers everything.",
+              "narration": "Adrian turns to her slowly, that same cold smile. 'We've met before, haven't we, Miss Ashford?'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep4/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep4/scene8.mp3",
+              "caption": "The price will be her.",
+              "narration": "He slides a document across the table—the deed to everything—and leans in. 'I'll save your empire... for a price only you can pay.'",
+              "durationSec": 10
             }
           ]
         }
