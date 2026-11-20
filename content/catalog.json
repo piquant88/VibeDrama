@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T18:02:01.212Z",
+  "updatedAt": "2026-11-20T17:38:04.034Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7729,6 +7729,69 @@
               "caption": "The price will be her.",
               "narration": "He slides a document across the table—the deed to everything—and leans in. 'I'll save your empire... for a price only you can pay.'",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep5",
+          "index": 5,
+          "title": "The Kiss That Was Really a Trap",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene1.mp3",
+              "caption": "She thinks she's winning tonight.",
+              "narration": "Isabella descends the marble staircase in crimson silk, convinced she has finally cornered the mysterious stranger who holds her family's fate.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene2.mp3",
+              "caption": "The valet she humiliated—transformed.",
+              "narration": "Adrian waits in the shadows, the man she once slapped, now dressed in flawless black, the deed hidden against his heart.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene3.mp3",
+              "caption": "She offers a kiss to buy his silence.",
+              "narration": "\"One kiss,\" she whispers, \"and I'll forget you ever existed.\" She believes seduction will erase her mistakes.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene4.mp3",
+              "caption": "The kiss was a decoy all along.",
+              "narration": "Adrian leans in slowly, his lips a breath from hers—but his hand slips into her clutch, stealing the signed contract she'd hidden.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene5.mp3",
+              "caption": "Recognition hits like lightning.",
+              "narration": "She feels the betrayal too late. Her eyes fly open, and in his smile she finally recognizes the valet she tossed a coin.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene6.mp3",
+              "caption": "The valet reveals everything.",
+              "narration": "\"You,\" she gasps. \"The parking valet.\" Adrian lifts the deed aloft. \"I own your nights now—and your father's empire.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene7.mp3",
+              "caption": "A secret that shatters everything.",
+              "narration": "Her father storms in, face ashen, and whispers a secret that freezes the whole room: \"Adrian is not a stranger. He is your brother.\"",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep5/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep5/scene8.mp3",
+              "caption": "To be continued...",
+              "narration": "Isabella stumbles backward, the chandelier light spinning, as Adrian's triumphant smile cracks into something far more dangerous. The truth has only begun to burn.",
+              "durationSec": 11
             }
           ]
         }
