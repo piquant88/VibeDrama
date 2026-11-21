@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T17:38:04.034Z",
+  "updatedAt": "2026-11-21T16:39:30.687Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7791,6 +7791,69 @@
               "audio": "the-valet-who-owned-her-nights/ep5/scene8.mp3",
               "caption": "To be continued...",
               "narration": "Isabella stumbles backward, the chandelier light spinning, as Adrian's triumphant smile cracks into something far more dangerous. The truth has only begun to burn.",
+              "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep6",
+          "index": 6,
+          "title": "Midnight Confession: He's the Man Who Bought Her Debt",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene1.mp3",
+              "caption": "Midnight. The truth can't wait any longer.",
+              "narration": "The penthouse clock strikes midnight. Vivienne Ashford stares at the man she once slapped, her world tilting beneath her designer heels.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene2.mp3",
+              "caption": "The valet was never just a valet.",
+              "narration": "Damien Cross—the valet in the worn gray uniform—now wears a tailored black suit. The disguise is gone. The empire is his.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene3.mp3",
+              "caption": "\"I own everything your family hid.\"",
+              "narration": "'I bought your father's debt,' he says, voice low as thunder. 'Every brick, every secret—I own it all.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene4.mp3",
+              "caption": "Her name. His signature. Her ruin.",
+              "narration": "Vivienne's trembling fingers grip the document. The deed to the Ashford empire bears his signature, not her father's.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene5.mp3",
+              "caption": "\"I never forgot the coin you threw.\"",
+              "narration": "'That slap,' Damien whispers, stepping closer. 'And that coin you tossed me. I kept them both—as a promise.'",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene6.mp3",
+              "caption": "The coin falls. So does her pride.",
+              "narration": "She slaps the coin from his hand. It spins across the marble, ringing like a verdict neither can escape.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene7.mp3",
+              "caption": "\"You own the empire. Never me.\"",
+              "narration": "'Then take it back,' she hisses. 'Take it all—but you'll never own me.' His smile is pure ice.",
+              "durationSec": 8
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep6/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep6/scene8.mp3",
+              "caption": "One text. Everything shatters.",
+              "narration": "Then his phone lights up—a message that drains the color from his face. 'Your father just confessed everything to the police.' The game has changed.",
               "durationSec": 11
             }
           ]
