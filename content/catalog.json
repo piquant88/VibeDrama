@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T16:39:30.687Z",
+  "updatedAt": "2026-11-22T16:57:25.581Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7855,6 +7855,69 @@
               "caption": "One text. Everything shatters.",
               "narration": "Then his phone lights up—a message that drains the color from his face. 'Your father just confessed everything to the police.' The game has changed.",
               "durationSec": 11
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep7",
+          "index": 7,
+          "title": "Betrayed by Her Sister, Sold to Her Enemy",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene1.mp3",
+              "caption": "The morning everything fell apart.",
+              "narration": "Vivienne Carrington wakes to an empty mansion, the family fortune already crumbling beneath her feet. She doesn't yet know the knife is coming from her own blood.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene2.mp3",
+              "caption": "My sister came with a gift... and a blade.",
+              "narration": "Her younger sister Celeste arrives, smiling too sweetly, clutching a leather folder. In it lies the signature that will destroy everything.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene3.mp3",
+              "caption": "You sold me out to survive.",
+              "narration": "'I sold your shares, Vivienne. Every last one.' The words land like a physical blow. Betrayal wears the face she trusted most.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene4.mp3",
+              "caption": "The man I humiliated now owns me.",
+              "narration": "A tall figure steps through the doors—Damien Cross, the former valet she once slapped. Now he holds the deed to her father's empire, and to her.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene5.mp3",
+              "caption": "I was the payment all along.",
+              "narration": "'Your sister needed a buyer,' Damien says softly. 'I needed you.' Vivienne realizes she was the price of Celeste's freedom.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene6.mp3",
+              "caption": "The contract that owned her nights.",
+              "narration": "He lays a glittering diamond contract on the table. 'You belong to me now—nights included.' Her pride shatters against his cold triumph.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene7.mp3",
+              "caption": "Father saw everything.",
+              "narration": "Celeste slips away with the money, blowing a mocking kiss. But as she reaches the door, a second figure blocks her path—their father.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep7/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep7/scene8.mp3",
+              "caption": "One secret changes everything... next episode.",
+              "narration": "'The deal is void,' her father roars, revealing a secret that turns every alliance to ash. Damien's grip tightens—he has one card left to play. And Vivienne is caught between all three.",
+              "durationSec": 14
             }
           ]
         }
