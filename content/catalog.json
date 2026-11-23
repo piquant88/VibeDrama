@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T16:57:25.581Z",
+  "updatedAt": "2026-11-23T20:57:04.581Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7918,6 +7918,69 @@
               "caption": "One secret changes everything... next episode.",
               "narration": "'The deal is void,' her father roars, revealing a secret that turns every alliance to ash. Damien's grip tightens—he has one card left to play. And Vivienne is caught between all three.",
               "durationSec": 14
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep8",
+          "index": 8,
+          "title": "The Valet Removes His Mask at the Board Meeting",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene1.mp3",
+              "caption": "He walks in like he owns the room.",
+              "narration": "The boardroom falls silent as the valet walks in, dressed in a flawless charcoal suit. No one recognizes the man they once humiliated.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene2.mp3",
+              "caption": "It's... him?",
+              "narration": "Isabelle freezes. The parking valet she slapped now stands at the head of her father's table.",
+              "durationSec": 7
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene3.mp3",
+              "caption": "The man who owns everything.",
+              "narration": "\"Allow me to introduce myself properly,\" he says, placing a folder on the table. \"I'm the majority shareholder now.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene4.mp3",
+              "caption": "Betrayed by his own blindness.",
+              "narration": "Her father rises, trembling. \"You're the stranger who bought our debt... you were under my nose the whole time.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene5.mp3",
+              "caption": "Do you remember me now?",
+              "narration": "He turns to Isabelle, eyes burning with memory. \"You tossed me a coin and told me to know my place.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene6.mp3",
+              "caption": "The traitor's turn is coming.",
+              "narration": "Her sister smirks from the corner, the traitor who sold Isabelle to him. But his gaze suddenly shifts to her.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene7.mp3",
+              "caption": "No one is safe.",
+              "narration": "\"You thought you were my ally,\" he tells the sister coldly. \"You were merely a tool.\" The room gasps.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep8/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep8/scene8.mp3",
+              "caption": "Sign... or lose everything.",
+              "narration": "He pulls one final document from his coat—a marriage contract bearing Isabelle's name. \"Now, sign. Or watch your father fall.\"",
+              "durationSec": 9
             }
           ]
         }
