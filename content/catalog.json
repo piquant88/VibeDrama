@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T20:57:04.581Z",
+  "updatedAt": "2026-11-24T20:00:41.069Z",
   "series": [
     {
       "id": "contract-bride",
@@ -7980,6 +7980,69 @@
               "audio": "the-valet-who-owned-her-nights/ep8/scene8.mp3",
               "caption": "Sign... or lose everything.",
               "narration": "He pulls one final document from his coat—a marriage contract bearing Isabelle's name. \"Now, sign. Or watch your father fall.\"",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep9",
+          "index": 9,
+          "title": "She Chooses Love the Night He Loses Everything",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene1.mp3",
+              "caption": "He owns everything now.",
+              "narration": "The board room empties, but Elena remains frozen, staring at the man she once slapped. Adrian Cole, former valet, now holds her father's entire empire in his hands.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene2.mp3",
+              "caption": "The empire falls tonight.",
+              "narration": "Her phone buzzes—the empire is collapsing, stock crashing by the second. Everything her family built, gone in a single night.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene3.mp3",
+              "caption": "Save it... or lose it all.",
+              "narration": "Adrian steps closer, his voice low. 'I could save it all—or watch it burn. The choice was always yours.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene4.mp3",
+              "caption": "Father begs her to surrender.",
+              "narration": "Her father bursts in, ruined and desperate, begging her to sign away her freedom to save the family name.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene5.mp3",
+              "caption": "She sees the real him.",
+              "narration": "But Elena looks at Adrian—not the deed, not the money. In his eyes she sees the man who never lied about his heart.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene6.mp3",
+              "caption": "She chooses love over everything.",
+              "narration": "She tears the contract in half. 'Let it all burn. I choose you, Adrian—not the empire.'",
+              "durationSec": 7
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene7.mp3",
+              "caption": "Nobody expected this.",
+              "narration": "Adrian's cold mask shatters—he never expected her to choose him. But before he can speak, the doors fly open.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep9/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep9/scene8.mp3",
+              "caption": "Her betrayal isn't over yet.",
+              "narration": "Elena's sister strides in with police and a damning document. 'Arrest him—Adrian Cole stole this company through fraud.' Elena's heart stops.",
               "durationSec": 9
             }
           ]
