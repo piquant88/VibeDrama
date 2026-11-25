@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T20:00:41.069Z",
+  "updatedAt": "2026-11-25T19:00:55.828Z",
   "series": [
     {
       "id": "contract-bride",
@@ -8043,6 +8043,69 @@
               "audio": "the-valet-who-owned-her-nights/ep9/scene8.mp3",
               "caption": "Her betrayal isn't over yet.",
               "narration": "Elena's sister strides in with police and a damning document. 'Arrest him—Adrian Cole stole this company through fraud.' Elena's heart stops.",
+              "durationSec": 9
+            }
+          ]
+        },
+        {
+          "id": "the-valet-who-owned-her-nights-ep10",
+          "index": 10,
+          "title": "The Empire Is Hers—If She Says His Name Out Loud",
+          "scenes": [
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene1.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene1.mp3",
+              "caption": "The empire is hers—for a price.",
+              "narration": "The boardroom falls silent as Adrian lays the final deed on the marble table. One signature stands between Elena and the empire her father built.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene2.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene2.mp3",
+              "caption": "Say my name, and it's all yours.",
+              "narration": "'Everything you lost, everything they stole—it returns to you tonight,' he whispers. 'But only if you say my name out loud. Claim me, Elena.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene3.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene3.mp3",
+              "caption": "Her sister waits for her to break.",
+              "narration": "Her trembling lips part—but across the room her sister Vivian smiles like a serpent. 'Say it, Elena. Destroy what little pride you have left.'",
+              "durationSec": 11
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene4.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene4.mp3",
+              "caption": "The valet she once despised.",
+              "narration": "Elena remembers the coin she once tossed at his feet—the night she called him nothing. Now that nothing owns her entire world.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene5.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene5.mp3",
+              "caption": "A father's dying plea.",
+              "narration": "Her father clutches his chest from his wheelchair. 'Please, daughter—our name, our legacy, it all ends if you refuse him.'",
+              "durationSec": 9
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene6.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene6.mp3",
+              "caption": "She finally says his name.",
+              "narration": "'Adrian.' The name escapes her like a confession. The room gasps. He closes his eyes, victory and heartbreak colliding in a single breath.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene7.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene7.mp3",
+              "caption": "The betrayal no one saw coming.",
+              "narration": "But as the pen touches paper, Vivian lunges forward. 'Stop! That deed is a forgery—and I can prove he never owned a thing!'",
+              "durationSec": 10
+            },
+            {
+              "image": "the-valet-who-owned-her-nights/ep10/scene8.jpg",
+              "audio": "the-valet-who-owned-her-nights/ep10/scene8.mp3",
+              "caption": "Everything is about to collapse.",
+              "narration": "Adrian's face drains white. The empire, the revenge, the love—everything hangs on a secret he thought was buried forever.",
               "durationSec": 9
             }
           ]
