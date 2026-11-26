@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T19:00:55.828Z",
+  "updatedAt": "2026-11-26T18:52:54.773Z",
   "series": [
     {
       "id": "contract-bride",
@@ -8107,6 +8107,92 @@
               "caption": "Everything is about to collapse.",
               "narration": "Adrian's face drains white. The empire, the revenge, the love—everything hangs on a secret he thought was buried forever.",
               "durationSec": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-mechanic-who-married-a-mafia-queen",
+      "title": "The Mechanic Who Married a Mafia Queen",
+      "tagline": "He fixed her car; she made him sign a vow that could get them both killed.",
+      "genre": "Thriller",
+      "cover": "the-mechanic-who-married-a-mafia-queen/cover.jpg",
+      "freeEpisodeCount": 3,
+      "coinsPerEpisode": 25,
+      "plannedEpisodeTitles": [
+        "The Stranger Who Paid in Cash and Secrets",
+        "She Needs a Husband by Midnight",
+        "The Vow That Came With a Loaded Gun",
+        "Dinner With the Family That Buries Rivals",
+        "The Name Tattooed Over His Heart",
+        "He Finds Her Divorce Papers—Already Signed",
+        "The Brother Who Sold Her to the Enemy",
+        "A Wedding Dress Soaked in Blood",
+        "The Mechanic Was Never Who He Said",
+        "She Pulls the Trigger to Save Him"
+      ],
+      "episodes": [
+        {
+          "id": "the-mechanic-who-married-a-mafia-queen-ep1",
+          "index": 1,
+          "title": "The Stranger Who Paid in Cash and Secrets",
+          "scenes": [
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene1.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene1.mp3",
+              "caption": "Just another broke mechanic. Until tonight.",
+              "narration": "Diego Reyes closes his garage at midnight, oil on his hands, debt on his shoulders. He does not know a single car is about to rewrite his entire life.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene2.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene2.mp3",
+              "caption": "The woman who owns the night.",
+              "narration": "Then she arrives — Isabella Moretti, cold as winter, beautiful as a loaded gun. Her black sedan is bleeding smoke, but her eyes never blink.",
+              "durationSec": 11
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene3.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene3.mp3",
+              "caption": "Nobody pays this much to fix an engine.",
+              "narration": "'Fix it fast,' she says, dropping a brick of cash on his workbench. Diego counts fifty thousand dollars and feels his stomach drop.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene4.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene4.mp3",
+              "caption": "He opened the wrong hood.",
+              "narration": "Under the hood he finds no engine trouble — only a hidden compartment, a gun, and a passport that isn't hers. Some secrets you can never un-see.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene5.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene5.mp3",
+              "caption": "Two choices. Both deadly.",
+              "narration": "'You've seen too much,' Isabella whispers, pressing cold steel to his jaw. 'Now you have only two choices, mechanic — and both of them end in blood.'",
+              "durationSec": 12
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene6.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene6.mp3",
+              "caption": "Marry me. Or die.",
+              "narration": "She slides a paper across the hood — not a receipt, but a marriage vow. 'Sign it. Become my husband tonight, or become a corpse by dawn.'",
+              "durationSec": 12
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene7.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene7.mp3",
+              "caption": "One name changes everything.",
+              "narration": "His hand trembles as the pen touches the paper. One signature binds him to the most feared crime queen in the city — and marks them both for death.",
+              "durationSec": 13
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep1/scene8.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep1/scene8.mp3",
+              "caption": "The war just began — on their wedding night.",
+              "narration": "The moment he signs, headlights flood the garage and gunfire shatters the glass. 'They found us,' Isabella hisses. 'Welcome to the family, husband.'",
+              "durationSec": 10
             }
           ]
         }
