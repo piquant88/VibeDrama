@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T18:52:54.773Z",
+  "updatedAt": "2026-11-27T18:44:38.202Z",
   "series": [
     {
       "id": "contract-bride",
@@ -8193,6 +8193,69 @@
               "caption": "The war just began — on their wedding night.",
               "narration": "The moment he signs, headlights flood the garage and gunfire shatters the glass. 'They found us,' Isabella hisses. 'Welcome to the family, husband.'",
               "durationSec": 10
+            }
+          ]
+        },
+        {
+          "id": "the-mechanic-who-married-a-mafia-queen-ep2",
+          "index": 2,
+          "title": "She Needs a Husband by Midnight",
+          "scenes": [
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene1.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene1.mp3",
+              "caption": "She needs a husband by midnight.",
+              "narration": "Midnight looms over the garage, and Elena Moreau walks in like a storm wrapped in silk. She slams a leather briefcase onto Marco's workbench, her eyes colder than the steel around them.",
+              "durationSec": 14
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene2.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene2.mp3",
+              "caption": "\"Marry me. Now.\"",
+              "narration": "\"I need a husband. Tonight. And you're the only man in this city who doesn't know who I am.\" Marco laughs, until he sees she isn't joking.",
+              "durationSec": 12
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene3.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene3.mp3",
+              "caption": "A fortune, or a death sentence.",
+              "narration": "She opens the briefcase — stacks of cash beside a document stamped with a crimson seal. \"My father's empire passes to me only if I'm wed before dawn.\"",
+              "durationSec": 12
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene4.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene4.mp3",
+              "caption": "Sign, or die.",
+              "narration": "\"Sign this vow, and you live rich. Refuse, and we both die before sunrise.\" Marco's hands tremble as he grips the pen.",
+              "durationSec": 10
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene5.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene5.mp3",
+              "caption": "The vow is signed.",
+              "narration": "The pen scratches ink across the line. In that instant, a wedding becomes a weapon aimed at both their hearts.",
+              "durationSec": 9
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene6.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene6.mp3",
+              "caption": "They're already here.",
+              "narration": "Headlights flood the garage. Black SUVs screech to a halt outside. Elena's face drains white. \"They found us. Already.\"",
+              "durationSec": 9
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene7.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene7.mp3",
+              "caption": "No way out.",
+              "narration": "Armed men in dark suits pour from the vehicles, weapons raised toward the garage door. Marco grabs Elena's wrist. \"Is there a back way?\"",
+              "durationSec": 11
+            },
+            {
+              "image": "the-mechanic-who-married-a-mafia-queen/ep2/scene8.jpg",
+              "audio": "the-mechanic-who-married-a-mafia-queen/ep2/scene8.mp3",
+              "caption": "Her brother came to collect.",
+              "narration": "The lead gunman lowers his mask — it's Elena's own brother. \"Congratulations on the wedding, sister,\" he sneers, raising his gun. \"Now I get to kill the groom.\"",
+              "durationSec": 12
             }
           ]
         }
